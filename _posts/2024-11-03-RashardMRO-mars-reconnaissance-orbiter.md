@@ -5,6 +5,29 @@ published: true
 image: Mars_Perseverance_NLF_1318_0783952370_633ECM_N0612534NCAM13318_01_195J.png
 ---
 
+# California Linux: DeepSpaceNet,uptime, LEarning About Northrop
+[Documenting system uptime in Linux](https://www.redhat.com/en/blog/system-uptime-linux) @nasa-jpl @redhatofficial @cityoflosangeles @ajc [CourseWork](https://www.jpl.nasa.gov/go/parts-engineering-school/programs/curriculum/)
+<iframe src="https://archive.org/embed/screen-recording-2025-07-09-122807" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+[NASA
+Work Breakdown
+Structure (WBS)
+Handbook](https://www.nasa.gov/wp-content/uploads/2023/08/nasa-work-breakdown-structure-handbook.pdf)
+
+
+# What is Load Average in Linux?
+- [DigitalOcean](https://www.digitalocean.com/community/tutorials/load-average-in-linux) @digitalocean issa wordcloud, so i hope i find some goodies so i can comprehend how to make my [frameratessmoother](https://www.reddit.com/r/RetroArch/comments/ql83sr/how_can_i_tell_if_i_am_getting_full_speed/) [What Is Linux Average Load?](https://phoenixnap.com/kb/linux-average-load)
+  ![image](https://github.com/user-attachments/assets/fb534ba1-865c-4665-b154-3b6f20d6f26a)
+
+@nasa-jpl @podaac
+last night's flyover
+<iframe src="https://archive.org/embed/screen-20250708-213751" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+
+
+https://novalauncher.com/
+D[ownload the latest Beta APK](https://teslacoilapps.com/tesladirect/download.pl?packageName=com.teslacoilsw.launcher&betaType=public)
+
 
 ```css
 
