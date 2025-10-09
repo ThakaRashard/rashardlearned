@@ -30,6 +30,121 @@ pg VNIR, TIR, SWIR
 {% endfor %}
 
 </div>
+<img  alt="image" src="https://github.com/user-attachments/assets/86569675-ee91-464a-a8e0-804e44b36eb4" />
+![new](https://e4ftl01.cr.usgs.gov/WORKING/BRWS/Browse.001/2025.09.12/AST_L1T_00309112025232702_20250912135154_2440578_BR.4.QA.jpg)
+![new](https://e4ftl01.cr.usgs.gov/WORKING/BRWS/Browse.001/2025.09.12/AST_L1T_00309112025232737_20250912135314_2442617_BR.4.QA.jpg)
+
+```shell
+root@rhel:~# python
+Python 3.9.21 (main, Aug 19 2025, 00:00:00) 
+[GCC 11.5.0 20240719 (Red Hat 11.5.0-5)] on linux
+Type "help", "copyright", "credits" or "license" for more information.
+>>> from exif import Image
+>>> with open('AST_L1T_00309112025232737_20250912135314_2442617_BR.4.QA.jpg') as image_file:
+...     my_image = Image(image_file)
+... 
+Traceback (most recent call last):
+  File "<stdin>", line 2, in <module>
+  File "/usr/local/lib/python3.9/site-packages/exif/_image.py", line 72, in __init__
+    img_bytes = img_file.read()  # type: ignore
+  File "/usr/lib64/python3.9/codecs.py", line 322, in decode
+    (result, consumed) = self._buffer_decode(data, self.errors, final)
+UnicodeDecodeError: 'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+>>> from exif import Image
+>>> with open('AST_L1T_00309112025232737_20250912135314_2442617_BR.4.QA.jpg') as image_file:
+...     my_image = Image(image_file)
+... 
+Traceback (most recent call last):
+  File "<stdin>", line 2, in <module>
+  File "/usr/local/lib/python3.9/site-packages/exif/_image.py", line 72, in __init__
+    img_bytes = img_file.read()  # type: ignore
+  File "/usr/lib64/python3.9/codecs.py", line 322, in decode
+    (result, consumed) = self._buffer_decode(data, self.errors, final)
+UnicodeDecodeError: 'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+>>>     my_image = Image(image_file)
+  File "<stdin>", line 1
+    my_image = Image(image_file)
+IndentationError: unexpected indent
+>>>    my_image = Image(image_file)
+  File "<stdin>", line 1
+    my_image = Image(image_file)
+IndentationError: unexpected indent
+>>> my_image = Image(image_file)
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+  File "/usr/local/lib/python3.9/site-packages/exif/_image.py", line 72, in __init__
+    img_bytes = img_file.read()  # type: ignore
+ValueError: I/O operation on closed file.
+>>> exit
+Use exit() or Ctrl-D (i.e. EOF) to exit
+>>> exit()
+root@rhel:~# ls -l
+total 232
+-rw-r--r--. 1 root root 221296 Oct  9 20:57 AST_L1T_00309112025232737_20250912135314_2442617_BR.4.QA.jpg
+-rw-r--r--. 1 root root    214 Oct  9 20:40 config.json
+-rw-r--r--. 1 root root    115 Oct  9 20:40 Containerfile
+drwxr-xr-x. 4 root root     52 Oct  9 20:40 etc
+-rw-r--r--. 1 root root     30 Oct  9 20:39 post-run.log
+root@rhel:~# ls -l^C
+root@rhel:~# history
+    1  python
+    2  pip install exif
+    3  yum install pip
+    4  pip install exif
+    5  python
+    6  wgethttps://e4ftl01.cr.usgs.gov/WORKING/BRWS/Browse.001/2025.09.12/AST_L1T_00309112025232737_20250912135314_2442617_BR.4.QA.jpg
+    7  wget https://e4ftl01.cr.usgs.gov/WORKING/BRWS/Browse.001/2025.09.12/AST_L1T_00309112025232737_20250912135314_2442617_BR.4.QA.jpg
+    8  ls- 
+    9  ls -l
+   10  python
+   11  ls -l
+   12  history
+root@rhel:~# python
+Python 3.9.21 (main, Aug 19 2025, 00:00:00) 
+[GCC 11.5.0 20240719 (Red Hat 11.5.0-5)] on linux
+Type "help", "copyright", "credits" or "license" for more information.
+>>> with open('AST_L1T_00309112025232737_20250912135314_2442617_BR.4.QA.jpg') as image_file
+  File "<stdin>", line 1
+    with open('AST_L1T_00309112025232737_20250912135314_2442617_BR.4.QA.jpg') as image_file
+                                                                                           ^
+SyntaxError: invalid syntax
+>>> from exif import Image
+>>> with open('AST_L1T_00309112025232737_20250912135314_2442617_BR.4.QA.jpg') as image_file
+  File "<stdin>", line 1
+    with open('AST_L1T_00309112025232737_20250912135314_2442617_BR.4.QA.jpg') as image_file
+                                                                                           ^
+SyntaxError: invalid syntax
+>>> with open('AST_L1T_00309112025232737_20250912135314_2442617_BR.4.QA.jpg') as image_file:
+... 
+  File "<stdin>", line 2
+    
+    ^
+IndentationError: expected an indented block
+>>> with open('AST_L1T_00309112025232737_20250912135314_2442617_BR.4.QA.jpg') as image_file:
+...    
+... my_image = Image(image_file)
+  File "<stdin>", line 3
+    my_image = Image(image_file)
+    ^
+IndentationError: expected an indented block
+>>>    my_image = Image(image_file)
+  File "<stdin>", line 1
+    my_image = Image(image_file)
+IndentationError: unexpected indent
+>>>     my_image = Image(image_file)
+  File "<stdin>", line 1
+    my_image = Image(image_file)
+IndentationError: unexpected indent
+>>> my_image = Image(image_file)
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+NameError: name 'image_file' is not defined
+>>> with open('AST_L1T_00309112025232737_20250912135314_2442617_BR.4.QA.jpg') as image_file:
+...     
+...     my_image = Image(image_file)
+...    
+...
+```
 
 [Observing in Infrared @nasa earthobservatory](https://earthobservatory.nasa.gov/features/FalseColor/page5.php)
 Near infrared (NIR) :: [short-wave-infrared](https://ntrs.nasa.gov/citations/19930066375)
