@@ -12,6 +12,8 @@ What's Next? (Live Public Talk)
 
 [@nasa-jpl tour](https://www.jpl.nasa.gov/virtual-tour/) : [GoldsStone](https://www.gdscc.nasa.gov/index.php/antennas/)
 
+[NASA TV In Sight Mars Landing  CSPAN  December 2, 2018 6:35pm-8:01pm EST](https://archive.org/details/CSPAN_20181202_233500_NASA_TV_InSight_Mars_Landing)
+
 [ReeferMAdness](https://www.youtube.com/watch?v=8kg0sK-dY98) TobaccoReserch](https://tobacco.stanford.edu/marijuanas/reefer-madness/)
 [museum](https://hashmuseum.com/en/collection/reefer-madness/)
 [imdb](https://www.imdb.com/title/tt0028346/) [🍅](https://www.rottentomatoes.com/m/reefer_madness) [ThEEEAccaaaDUMEee](https://www.academymuseum.org/en/programs/detail/reefer-madness-0196127e-aec4-7c86-51a0-505f82a319b8)
