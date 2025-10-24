@@ -14,6 +14,12 @@ image: tumblr_9996aa2d413f6668f7f48ccdb4f9fb8a_8780e031_2048.jpg
 Over fifty years after its debut on February 8 1974 on CBS, Good Times remains popular. It was also a historic show. Good Times was the first television show centred on a Black nuclear family, with a father, mother, and children. Previously Julia had focused on a widow with a young son. Sanford and Son centred on an elderly, widowed father and his grown son. In many respects, then, Good Times was breaking new ground. [READMORE from `A Shroud of Thoughts` mercurie.blogspot.com](https://mercurie.blogspot.com/2024/02/good-times-historic-television-series.html) ![goodtimes](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIMj40AOjpcVQOJKnYNYPDzQrzpSn99t0rkmG1pKL8p_cfvJNxViFPvuM5P-UuHUm5iewuMxz6eBxAqfCgXCPEPnfZnMUuZ1ujyKjIcULxaBWO2ERBkTNhvXLIIBlJAHH9ReAQHFlHu35LceyWd-Ry_xjDj1nGD7RFUL6Ri3uH1ENqAEZmuCVf/w200-h200/Good%20Times.jpg)
 <iframe src="https://archive.org/embed/GoodTimesS01E04GodsBusinessIsGoodBusiness" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
+## Drawn Together the Complete Series
+<iframe src="https://archive.org/embed/DrawnTogetherComplete" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+## The Twilight Zone - The Original Series - Season One DVD
+<iframe src="https://archive.org/embed/twilight-zone-season-one-DVD" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
 The New Adventures of Superman (1966)
 [Files](https://archive.org/download/the-new-adventures-of-superman-1966)
 
