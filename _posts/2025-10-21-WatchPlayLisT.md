@@ -7,6 +7,23 @@ image: tumblr_9996aa2d413f6668f7f48ccdb4f9fb8a_8780e031_2048.jpg
 ---
 
 
+Betty Boop
+[FILES](https://archive.org/download/betty-boop-cartoons-from-the-1930s) 
+
+<iframe src="https://archive.org/embed/betty-boop-cartoons-from-the-1930s" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+<iframe src="https://archive.org/embed/FelixTheCat-FelineFollies1919" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+
+[Max Fleischer](https://www.fleischerstudios.com/) Superman 
+ [🍅](https://www.rottentomatoes.com/celebrity/max_fleischer) 
+[MIRROR](https://archive.org/details/superman-the-ultimate-max-fleischer-cartoon-collection-dvd) 
+<iframe src="https://archive.org/embed/MaxFleischerSuperman" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+# Adventures Of Superman
+[imdb](https://www.imdb.com/title/tt0044231/) 1950(s)
+[FILES](https://archive.org/download/AdventuresOfSupermanS01e02TheHauntedLighthouse_201901/Adventures%20of%20Superman%281952%29/)
+<iframe src="https://archive.org/embed/AdventuresOfSupermanS01e02TheHauntedLighthouse_201901" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
 # (1996) Ghost In The Shell 
 [Manga Video English Dub]
 <iframe src="https://archive.org/embed/ghost-in-the-shell_202205" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
@@ -35,6 +52,10 @@ Super Dimension Fortress: Macross (1982)
 [Saturday Anime - Project A-ko Gray Side/Blue Side 02/01/1997](https://youtu.be/TJFCb5m7dQw?si=NlLsvH98DEu_R5N5)
 [SciFi Channel - Saturday Anime-Broadcast Editions: Roujin Z 09/14/1996](https://youtu.be/2vf5XCVG4qo?t=13)
 <iframe src="https://archive.org/embed/project-a-ko-2-1987-1993" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+
+# Hokuto No Ken/Fist of the North Star Anime, OVAs and Movies
+<iframe src="https://archive.org/embed/hokuto_no_ken_by_wilmer29_d9qm239" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 The Amazing Spider-Man (Complete 1977 TV Series) [Seasons 1-2]
 <iframe src="https://archive.org/embed/theamazingspider-man1977" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
