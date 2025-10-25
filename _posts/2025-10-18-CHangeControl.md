@@ -27,7 +27,7 @@ Congressional deliberations about the National Aeronautics and Space Administrat
 
 @LACMTA my [personal site](https://github.com/rashardsdata) [https://rashardsdata.github.io/](https://rashardsdata.github.io/) still my work blog @nasa-jpl / @nasa-pds please talk to Robin O'Brien of the @Nasa mars robotic mission and she will let me know if anything illeyor inappropriate caused you to add me to your block list
 
-,,,
+'''
 
 This site can’t be reached
 The connection was reset.
@@ -39,7 +39,7 @@ Check your Internet connection
 Check any cables and reboot any routers, modems, or other network devices you may be using.
 
 
-,,,
+'''
 
 @nasa our @soundcloud should be reviewd 
 `https://soundcloud.com/nasa/houston-we-have-a-podcast-natural-disaster-response`
