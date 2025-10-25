@@ -27,7 +27,7 @@ Congressional deliberations about the National Aeronautics and Space Administrat
 
 
 
-@LACMTA my [personal site](https://github.com/rashardsdata) [https://rashardsdata.github.io/](https://rashardsdata.github.io/) still my work blog @nasa-jpl / @nasa-pds please talk to Robin O'Brien of the @Nasa mars robotic mission and she will let me know if anything illeyor inappropriate caused you to add me to your block list
+@LACMTA my [personal site](https://github.com/rashardsdata) [https://rashardsdata.github.io/](https://rashardsdata.github.io/) still my work blog @nasa-jpl / @nasa-pds please talk to Robin O'Brien of the @Nasa mars robotic mission and she will let me know if anything illeagal or inappropriate caused you to add me to your block list
 
 ```
 
