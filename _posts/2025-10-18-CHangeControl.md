@@ -25,6 +25,22 @@ Congressional deliberations about the National Aeronautics and Space Administrat
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid021UdKvDsfbGEc3hmGPmTYPMYZTsyfKQdaUD1CCcjdtpZckNi9VGc3ASM81wb7koEgl%26id%3D100084464911565&show_text=true&width=500" width="500" height="430" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
 
+@LACMTA my [personal site](https://github.com/rashardsdata) [https://rashardsdata.github.io/](https://rashardsdata.github.io/) still my work blog @nasa-jpl / @nasa-pds please talk to Robin O'Brien of the @Nasa mars robotic mission and she will let me know if anything illeyor inappropriate caused you to add me to your block list
+
+,,,
+
+This site can’t be reached
+The connection was reset.
+Try:
+
+Checking the connection
+ERR_CONNECTION_RESET
+Check your Internet connection
+Check any cables and reboot any routers, modems, or other network devices you may be using.
+
+
+,,,
+
 @nasa our @soundcloud should be reviewd 
 `https://soundcloud.com/nasa/houston-we-have-a-podcast-natural-disaster-response`
 This track was not found. Maybe it has been removed
