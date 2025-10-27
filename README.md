@@ -5,6 +5,34 @@
 
 ![mc](https://web.archive.org/web/20060622000110im_/http://mpfwww.jpl.nasa.gov/martianchronicle/martianchron5/masthead5.gif)
 
+@nasa broke my blog . i feel amazing! @nasa-jpl i caint git no badge luv fo dat?! @usgs @cityoflosageles
+[Voyager](https://thakarashard.github.io/rashardmro/2024/11/19/Voyager1_n_2.html)
+`https://photojournal.jpl.nasa.gov/jpegMod/PIA02528_modest.jpg` has been blasted into Oblivion `It looks like you have reached a URL that does not exist or you do not have permission.` [TryHere @blackgirscode](https://assets.science.nasa.gov/content/dam/science/psd/photojournal/pia/pia02/pia02528/PIA02528_modest.jpg)
+
+`[https://assets.science.nasa.gov/content/dam/science/psd/photojournal/pia/pia02/pia02528/PIA02528_modest.jpg](https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia02/pia02528/PIA02528.jpg?w=900&h=900&fit=crop&crop=faces%2Cfocalpoint) _is the replacement_ the fix is to change the background declaration url to the new one and all should work out!
+```css
+
+html {
+
+font-size: 1rem;
+  font-family: "IBM Plex Sans", monospace;
+
+  
+background: url(https://photojournal.jpl.nasa.gov/jpegMod/PIA02528_modest.jpg) -237px 30px no-repeat fixed;
+  /* new declaration */
+/* https://assets.science.nasa.gov/content/dam/science/psd/photojournal/pia/pia02/pia02528/PIA02528.jpg */
+ 
+ background-position: 0 0;
+   line-height: 1.5;
+   -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+color:white;
+}
+```
+
+<img  alt="image" src="https://github.com/user-attachments/assets/d57bc7bc-1009-4619-b0c5-cec3e42e4955" />
 
 
 [![Twitter Follow](https://img.shields.io/badge/Social-rashardsdata__-blue?style=social&logo=X)](https://twitter.com/rashardsdata)
