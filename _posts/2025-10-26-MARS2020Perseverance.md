@@ -2,18 +2,20 @@
 layout: rashardmro
 title:  Perseverance[ROVER]
 published: true
-tags: mars dsn "Deep Space Network" robotics 6wheels rover LA space dsn climate weather marsblog
+tags: mars dsn "Deep Space Network" robotics marsblog
 image: Mars_Perseverance_NRF_1646_0813065456_362ECM_N0791204NCAM03646_07_195J.png
 author: "RashardKelly @nasa-jpl"
 ---
 
+# [Mars](https://youtu.be/SKlbDtWYHJk) Exploration Program
+NASA's Mars Exploration Program includes current missions Odyssey, MRO, Mars Express, MSL, InSight, and Mars 2020 [READMORE](https://pds-geosciences.wustl.edu/missions/mep/index.htm)
 
 # Mars Perseverance Sol 1664: Left Navigation Camera (Navcam)
 [Weather @nasa-jpl @blackgirlscode](https://www.msss.com/msss_images/latest_weather.html)
 This image was acquired on Oct. 25, 2025 (Sol 1664) at the local mean solar time of 11:09:30.
 ![PDS Geosciences Node Mars Orbital Data Explorer](https://ode.rsl.wustl.edu/mars/images/geo.png)
 
-![](https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01664/ids/edr/browse/ncam/NLF_1664_0814656274_927ECM_N0791762NCAM00501_01_295J01_1200.jpg)
+![NLF_1664_0814656274_927ECM_N0791762NCAM00501_01_295J01_1200.jpg](https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01664/ids/edr/browse/ncam/NLF_1664_0814656274_927ECM_N0791762NCAM00501_01_295J01_1200.jpg)
 
 [Mars Orbiter Data](https://ode.rsl.wustl.edu/mars/)
 
@@ -73,18 +75,45 @@ Use the Analyst's Notebook to explore planetary data from NASA Mars and lunar la
 
 `[https://assets.science.nasa.gov/content/dam/science/psd/photojournal/pia/pia02/pia02528/PIA02528_modest.jpg](https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia02/pia02528/PIA02528.jpg?w=900&h=900&fit=crop&crop=faces%2Cfocalpoint) _is the replacement_ the fix is to change the background declaration url to the new one and all should work out!
 
+
+# Mars Reconnaissance Orbiter 
+>Jim Taylor, Dennis K. Lee, and Shervin Shambayati 
+## 6.1 Mission Overview
+The Mars Reconnaissance Orbiter (MRO) [1, 2] has a suite of instruments
+making observations at Mars, and it provides data-relay services for Mars
+landers and rovers. MRO was launched on August 12, 2005. The orbiter
+successfully went into orbit around Mars on March 10, 2006 and began
+reducing its orbit altitude and circularizing the orbit in preparation for the
+science mission. The orbit changing was accomplished through a process called 
+[<img src="http://www.spaceopedia.com/wp-content/uploads/2016/11/Mars_Reconnaissance_Orbiter-insignia.png" alt="Thanks for SPaceforce Donald, Thanks for Protecting Oaklands girls like Erika so she still have her oakland grandchild re: constancia, bernadette" />](http://www.spaceopedia.com/wp-content/uploads/2016/11/Mars_Reconnaissance_Orbiter-insignia.png) 
+aerobraking, in preparation for the “science mission” starting in November
+2006, followed by the “relay mission” starting in November 2008. MRO
+participated in the Mars Science Laboratory touchdown and surface mission
+that began in August 2012 (Chapter 7). [ReadMore - PDF](https://descanso.jpl.nasa.gov/monograph/series13/DeepCommo_Chapter6--141029.pdf) NASA's Mars Reconnaissance Orbiter searches for evidence that water persisted on the surface of Mars for a long period of time. [ActiveMission - DoD](https://science.nasa.gov/mission/mars-reconnaissance-orbiter/)
+
+
 [SDO_LAB_BLOGSPOT](https://sdoisgo.blogspot.com/2025/08/new-ai-model-based-on-sdo-data.html) [BLOG](https://sdoisgo.blogspot.com/p/the-sun-now.html) [@nasa-jpl](https://sdo.gsfc.nasa.gov/) @nasa-develop @GEOS-ESM
 
 <img width="684" height="105" alt="image" src="https://github.com/user-attachments/assets/fd4a3823-1c3d-4051-8f25-003336ae4846" />
 
 ![SDO_LAB](https://blogger.googleusercontent.com/img/a/AVvXsEhd_5O18StndQkOzfW5Bj4HOZArLhRSuuBxpURSeb_M8m8u4y9pxewLqGGY01NcAfml5D0lGigJcVL4WvQZdyzaAbQV5dfaOhFiOpo0zZSRZ7t2EwKvY12ElaR5BTHpYBi9one6Lm8laTlLG5ArMOOJ0VVGuy4-y763v4RrXnTs5dN_YbsqlkKAiTn_=s1080)
 
-# [Mars](https://youtu.be/SKlbDtWYHJk) Exploration Program
-NASA's Mars Exploration Program includes current missions Odyssey, MRO, Mars Express, MSL, InSight, and Mars 2020 [READMORE](https://pds-geosciences.wustl.edu/missions/mep/index.htm)
+
 
 <img  alt="image @blackgirlscode @newshour @cityofsantamonica @nasa-jpl @usgs @nasa @cityoflosangeles @whitehouse" src="https://github.com/user-attachments/assets/ac4197df-0a27-4db2-aea2-3353fabd7ced" />
 
 <iframe src="https://www.facebook.com/plugins/video.php?height=476&href=https%3A%2F%2Fwww.facebook.com%2FNOVApbs%2Fvideos%2F1271974741035762%2F&show_text=false&width=380&t=0" width="380" height="476" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+
+
+
+### MICRODEVICES LABORATORY 
+2024 | ANNUAL REPORT ::: 
+CLiCK[@nasa-jpl tour](https://www.jpl.nasa.gov/virtual-tour/)
+[DOWNLOAD](https://microdevices.jpl.nasa.gov/about-mdl/annual-reports/2024%20MDL%20Annual%20Report.pdf)
+<img   alt="2024  ANNUAL REPORT @nasa-jpl" src="https://github.com/user-attachments/assets/9d51d89a-2185-439d-a7c9-76e1fe1733da" />
+2023 | ANNUAL REPORT @emit-sds @whitehouse @stateofcalifornia
+[DOWNLOAD](https://d2pn8kiwq2w21t.cloudfront.net/documents/2023-annual-report.pdf)
+<img  alt="2023  ANNUAL REPORT @emit-sds @whitehouse @stateofcalifornia " src="https://github.com/user-attachments/assets/ddffc09f-3aed-4aab-88a7-28ecb53e4c76" />
 
 <style>
 .whitebg {background-color:white;}
