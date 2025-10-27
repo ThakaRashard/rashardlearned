@@ -3,19 +3,86 @@ title: "NOAA/NASA[JPL]"
 published: true
 layout: post
 image: 1965_TIROS9_NOAA_lib.jpeg
-tags: mars dsn "Deep Space Network" robotics 6wheels rover LA space dsn climate weather marsblog
-catagories: tags earth dsn "Near Space Network"  LA space dsn climate weather issblog
+tags: noaa nasajpl climate weather 
+catagories: earth dsn "Near Space Network" climate weather
 ---
 
 
 # CLimateTunes
 <object width="500" height="250" data="https://www.youtube.com/embed/MxGEVIvSFeY" title="Journey - Wheel in the Sky (Official HD Video - 1978)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></object>
 
-[The Dramatics - In The Rain](https://youtu.be/xwAFcPmszeQ) [Handsome Boy Modeling School - Waterworld](https://youtu.be/zLXlR-t0yCY?list=RDzLXlR-t0yCY) [Parliament - Motor Booty Affair - Full Album](https://youtube.com/playlist?list=PL8EtWTVglL0FTI6fYZuPe90BUPNX2kiyO&si=YcScWqcupMybpe05) [Aqua Boogie (A Psychoalphadiscobetabioaquadoloop) ](https://youtu.be/g3UC1KpSYLE?list=RDg3UC1KpSYLE)
-[https://kjlhradio.com/ Plays on Air for FM](https://kjlhradio.com/)
+[The Dramatics - In The Rain](https://youtu.be/xwAFcPmszeQ) [Handsome Boy Modeling School - Waterworld](https://youtu.be/zLXlR-t0yCY?list=RDzLXlR-t0yCY) [Parliament - Motor Booty Affair - Full Album](https://youtube.com/playlist?list=PL8EtWTVglL0FTI6fYZuPe90BUPNX2kiyO&si=YcScWqcupMybpe05) [Aqua Boogie (A Psychoalphadiscobetabioaquadoloop) ](https://youtu.be/g3UC1KpSYLE?list=RDg3UC1KpSYLE) Dig Your Own Hole ([Full Album](https://youtu.be/2UafeQIkj5c?t=450)) @BLACKGiRLSCODE its :: [Double Trouble · The Roots · Mos Def](https://youtu.be/AmSUb5H5G0s?t=56) re:[presentation](https://en.wikipedia.org/wiki/Presentation) bc its [Man's World](https://youtu.be/VEDBFzDnIRM?t=88)! iThinkiNeed [@BlackGirlsCode 's Wisdom](https://youtu.be/btYlWphnfbE?si=4wSnR6QTZoRFDP02) on a [MundAy](https://youtu.be/w3hpOokLXPw?si=oQU6WNHBtlIMFuZZ) [Messij](https://www.youtube.com/watch?v=4uQnXvRndcE) [https://kjlhradio.com/ Plays on Air for FM](https://kjlhradio.com/)
 [@nasa/EMIT-Data-Resources](https://github.com/nasa/EMIT-Data-Resources) [![EMiTBinder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nasa/EMIT-Data-Resources.git/HEAD)
 [@nasa/ECOSTRESS-Data-Resources](https://github.com/nasa/ECOSTRESS-Data-Resources)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/rashard-ecostress-jpl-iss/ECOSTRESS-Data-Resources.git/HEAD)
+
+## NASA Appropriations and Authorizations: At a Glance
+[https://www.congress.gov/crs-product/R43419](https://www.congress.gov/crs-product/R43419)
+Congressional deliberations about the National Aeronautics and Space Administration (NASA) often focus on the availability of funding. This product provides data on past [a](https://www.earthdata.nasa.gov/data/projects/lance/people) nd current NASA appropriations, as well as the President's FY2026 budget request and congressional action on FY2026 appropriations and authorizations of appropriations. [READ - CLiCKHERE](https://www.congress.gov/crs-product/R43419)
+[@NASA Continuity of Appropriations Plan PDF](https://www.nasa.gov/wp-content/uploads/2025/09/nasa-continuity-of-appropriations-plan-final-9-29-2025.pdf?emrc=cd4554) && [@nasa Project Management Requirements](https://github.com/rashardsdata/rashardsdata.github.io/commit/0025e414de706f81f25ca5f2f664973888c0faa3)
+
+ @SEiU @CiTYOFLOSANGELES @blackgirlscode 
+ [@nasa Project Management Requirements](https://github.com/rashardsdata/rashardsdata.github.io/commit/0025e414de706f81f25ca5f2f664973888c0faa3)
+
+
+
+
+At Glance
+
+[@NASA :pdf: @nasa-jpl](https://www.congress.gov/crs_external_products/R/PDF/R43419/R43419.121.pdf)
+
+:: [@whitehosue @NASA [Appropriations and Authorizations: At a Glance](https://www.congress.gov/crs-product/R43419)
+
+AMERICAN FEDERATION OF
+GOVERNMENT EMPLOYEES, AFL-CIO et
+al.,
+Plaintiffs,
+ v.
+UNITED STATES OFFICE OF
+MANAGEMENT AND BUDGET
+[DownLOAD_PDF](https://www.commerce.gov/sites/default/files/2025-10/TRO.pdf) <~ @SEIU
+[@whitehouse](https://www.whitehouse.gov/omb/), [@usagov](https://www.usa.gov/agencies/office-of-management-and-budget) et al.;  @blackgirlscode 
+
+
+
+
+[NOAA-Affiliated-Projects](https://github.com/rashardsdata/NOAA-Affiliated-Projects_RashardJPLlist) 
+[nowcoast.noaa.gov/](https://nowcoast.noaa.gov/)
+- _Imagine navigating a vessel along the coast and planning the approach to your destination What factors affecting the movement of the vessel?_ [ReadmrE](https://nauticalcharts.noaa.gov/updates/data-dissemination-web-interface-supports-navigation/#more-184565)
+- 
+<img alt="image" src="https://github.com/user-attachments/assets/a1891924-1573-4928-8192-f941291f396f" />
+
+![PuertoRico](https://nauticalcharts.noaa.gov/updates/wp-content/uploads/2025/03/cropped-EX2203_EM304_PuertoRico-2-scaled-1-1536x336.jpg)
+
+The U.S. government is closed. This site will not be updated; however, NOAA websites and social media channels necessary to protect lives and property will be maintained. To learn more, [visit visi](https://youtu.be/V2aj0zhXlLA?t=117)t [@commercegov](https://www.commerce.gov/news/blog). 
+For the latest forecasts and critical weather information, visit [@weather-gov](https://www.weather.gov/).
+
+
+
+
+
+*Please note: Some Funding Opportunities offered under the Bipartisan Infrastructure Law are open and can be applied for during the partial government shutdown.
+
+![@noaa @weather-gov](https://nowcoast.noaa.gov/static/media/noaa_logo_small_alpha_cropped.0603f9dbcb7b3768c968.png) 
+
+<img alt="image" src="https://github.com/user-attachments/assets/ffdc2dea-ad9f-4730-98f5-0ba1078e88a1" />
+
+ 
+
+![@NOAA-OWP](https://www.pmel.noaa.gov/sites/all/themes/pacific_marine/images/pmel_logo_full.png)
+[www.pmel.noaa.gov/](https://www.pmel.noaa.gov/)
+The U.S. government is closed. This site will not be updated; however, NOAA websites and social media channels necessary to protect lives and property will be maintained. To learn more, visit [@commercegov](https://www.commerce.gov/news/blog).
+
+For the latest forecasts and critical weather information, visit [@weather-gov](https://www.weather.gov/).
+
+[Discover and Access the OPERA-DISP Dataset Using ASF DAAC’s Displacement Portal]: <> (https://www.youtube.com/watch?v=BLzEvT-mdkU)
+
+
+<img  alt="image" src="https://github.com/user-attachments/assets/03ad9450-a0a0-4874-8fb5-e570d1d4ea9a" />
+
+
+[Sun Valley Serenade (1941)](https://youtu.be/l2h6Uiva_ik?t=1971)
+[ECOSTRESS - https://e4ftl01.cr.usgs.gov/WORKING/BRWS/](https://e4ftl01.cr.usgs.gov/WORKING/BRWS/) @nasa i think @StateOfCAlifornia @CityOfLosAngeles @dhs-gov @Nasa-jpl @nasa-pds @emit-sds @danthony06 @swri-robotics
 
 [@usgs waterdashboard @blackgirlscode @northropgrumman]( https://dashboard.waterdata.usgs.gov/app/nwd/en/?aoi=bbox-%5B-88.60613%2C23.78272%2C-76.49095%2C34.19144%5D&view=%7B%22basemap%22%3A%22EsriImagery2%22%2C%22bounds%22%3A%22-88.6061262426798%2C23.782719589582307%2C-76.49094827982046%2C34.19143784742009%22%2C%22insetMap%22%3Afalse%2C%22panel%22%3A%7B%22id%22%3A%22ViewerLayers%22%2C%22open%22%3Afalse%2C%22checkbox%22%3A%220%2C10%2C12%2C20%2C21%2C22%2C23%22%2C%22range%22%3A%220%3A1.0%2C1%3A1.0%2C2%3A1.0%2C3%3A1.0%2C4%3A1.0%2C5%3A1.0%2C6%3A1.0%2C7%3A1.0%2C8%3A0.8%2C9%3A0.3%2C10%3A0.5%2C11%3A0.5%2C12%3A0.5%2C13%3A0.5%2C14%3A0.5%2C15%3A0.5%2C16%3A0.5%2C17%3A1.0%2C18%3A1.0%2C19%3A1.0%2C20%3A1.0%22%2C%22select%22%3A%220%3A0%2C1%3A0%2C2%3A0%2C3%3A0%2C4%3A0%2C5%3A0%2C6%3A0%2C7%3A0%2C8%3A0%2C9%3A0%2C10%3A1%2C11%3A0%2C12%3A1%2C13%3A0%2C14%3A0%2C15%3A0%2C16%3A0%2C17%3A0%2C18%3A0%2C19%3A0%22%7D%7D ) 24hr forcast Sept13
 [WorldView @nasa](https://worldview.earthdata.nasa.gov/)
