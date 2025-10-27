@@ -34,12 +34,14 @@ Hi its [Rashard](https://rashardiman.github.io/rashardlearned/la/eco/ecostress/s
 
 I am on the Mars2020 team, but i got kidnapped and my family and every family i treid to start after that got split up So I am still active mission and back home in savannah people know when hunter needs you active duty its serious. So there, thats my commitment
 
-About the Notebooks. I am so geatful for the info, however im concerned that they stopped updating [Sol1499]()
-
-
-I placed an order for the data products availiable on that day [Order ID M20Order-2025-10-27-000624-56537](https://pds-imaging.jpl.nasa.gov/beta/search?gather.common.spacecraft=perseverance)
+About the Notebooks. I am so geatful for the info, however im concerned that they stopped updating [Sol1499](https://mastcamz.asu.edu/galleries/sol-1499-chain-lakes-workspace-aeolian-change-detection-mastcam-z-mosaic/), I found some photos to do furthur research on and created an archive titled : [MartianGeology](https://archive.org/details/mars-geology-imaging-gifs/4486ml1072810140112637c00_drcx_2PCT%20%281%29.png), I had some [Xrays](https://ia600800.us.archive.org/13/items/mars-geology-imaging-gifs/ezgif.com-animated-gif-maker.gif)  i was working on . . . I placed an order for the data products availiable on that day [Order ID M20Order-2025-10-27-000624-56537](https://pds-imaging.jpl.nasa.gov/beta/search?gather.common.spacecraft=perseverance)
 _add filter_ : Filtering:Sol: 1499 to 1499 
 [ATLAs pds-imaging.jpl. @nasa.gov ](https://pds-imaging.jpl.nasa.gov/search/?fq=-ATLAS_THUMBNAIL_URL%3Abrwsnotavail.jpg&q=*%3A*) 
+
+
+### mastcamz [Link @nasa-pds](https://mastcamz.asu.edu/galleries/sol-1499-chain-lakes-workspace-aeolian-change-detection-mastcam-z-mosaic/)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/9c7a26de-cb4e-49ec-a35c-b9bc9ead9882" />
 
 <img alt="image" src="https://github.com/user-attachments/assets/7d33d9fc-e7c9-4953-ac36-5117a252c10b" />
 
@@ -55,17 +57,6 @@ _add filter_ : Filtering:Sol: 1499 to 1499
 
 </div>
 
-![geo](https://an.rsl.wustl.edu/m20/AN/i/geo-bw.svg)
-
-
-Use the [Analyst's Notebook](https://an.rsl.wustl.edu/m20/AN/an3.aspx) to explore planetary data from NASA Mars and lunar landed missions. The Notebook is a web application that integrates sequence information, engineering and science data, and documentation.
-
-
-<img  alt="image" src="https://github.com/user-attachments/assets/2725c46d-116f-4d18-9154-4dec16c8b895" />
-
-
-<iframe src="https://archive.org/embed/mars-geology-imaging-gifs" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
-
 
 <img  alt="image" src="https://github.com/user-attachments/assets/f254fe2e-1b79-4b2d-b78b-84e69b3b21a6" />
 
@@ -80,6 +71,20 @@ Use the [Analyst's Notebook](https://an.rsl.wustl.edu/m20/AN/an3.aspx) to explor
   [wiki](https://en.wikipedia.org/wiki/FITS)
   
 ![.fits](https://fits.gsfc.nasa.gov/FITSlogo.gif) 
+
+
+![geo](https://an.rsl.wustl.edu/m20/AN/i/geo-bw.svg)
+
+
+Use the [Analyst's Notebook](https://an.rsl.wustl.edu/m20/AN/an3.aspx) to explore planetary data from NASA Mars and lunar landed missions. The Notebook is a web application that integrates sequence information, engineering and science data, and documentation.
+
+
+<img  alt="image" src="https://github.com/user-attachments/assets/2725c46d-116f-4d18-9154-4dec16c8b895" />
+
+
+<iframe src="https://archive.org/embed/mars-geology-imaging-gifs" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+
 
 # Photojournal's URL Mishap
 -_its effect on my life_
