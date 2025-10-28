@@ -43,10 +43,30 @@ MANAGEMENT AND BUDGET
 
 [Sun Valley Serenade (1941)](https://youtu.be/l2h6Uiva_ik?t=1971)
 
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid02soAJ3HkGR8gkFt2xET1Qi2skZ8LgAGTqhs13zMqLwhdaCGWYTQXtjMV41Lf6mxxKl%26id%3D100084464911565&show_text=true&width=500" width="500" height="742" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe> @LACMTA @CityOfLosAngeles @emit-sds @nasa @nasa-jpl @blackgirlscode @StateofCalifornia @newshour @ATT
 
 
 [https://www.nasa.gov/wp-content/uploads/2022/04/tdrsfactsheet_3.pdf?emrc=69010d8cd17ab](https://www.nasa.gov/wp-content/uploads/2022/04/tdrsfactsheet_3.pdf?emrc=69010d8cd17ab)
 these people need help [https://www.facebook.com/NASA.TDRS](https://www.facebook.com/NASA.TDRS) nasasls `````````This person made a new type of profile that doesn't have to use the name they go by in everyday life. These profiles have visible @usernames.``````````` @TheSpaceDevs @isro @whitehouse @CityOfLosAngeles @nasa-jpl @emit-sds @blackgirlscode 
+[READ - CLiCKHERE](https://www.congress.gov/crs-product/R43419)
+[@NASA Continuity of Appropriations Plan PDF](https://www.nasa.gov/wp-content/uploads/2025/09/nasa-continuity-of-appropriations-plan-final-9-29-2025.pdf?emrc=cd4554) 
+
+
+At Glance
+
+[@NASA :pdf: @nasa-jpl](https://www.congress.gov/crs_external_products/R/PDF/R43419/R43419.121.pdf)
+
+:: [@whitehosue @NASA [Appropriations and Authorizations: At a Glance](https://www.congress.gov/crs-product/R43419)
+
+AMERICAN FEDERATION OF
+GOVERNMENT EMPLOYEES, AFL-CIO et
+al.,
+Plaintiffs,
+ v.
+UNITED STATES OFFICE OF
+MANAGEMENT AND BUDGET
+[DownLOAD_PDF](https://www.commerce.gov/sites/default/files/2025-10/TRO.pdf) <~ @SEIU
+[@whitehouse](https://www.whitehouse.gov/omb/), [@usagov](https://www.usa.gov/agencies/office-of-management-and-budget) et al.;  @blackgirlscode 
 <img  alt="image" src="https://github.com/user-attachments/assets/3d4d3a9d-6c3a-4623-a7b7-4aa914c588f3" />
 
 
@@ -1213,6 +1233,7 @@ encouraging meaningless expenditures that reduce the capability for political an
         <div></div>
         <div></div>
       </div>
+
 
 
 
