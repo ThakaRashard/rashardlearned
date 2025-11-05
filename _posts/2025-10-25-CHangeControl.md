@@ -38,7 +38,13 @@ Congressional deliberations about the National Aeronautics and Space Administrat
 `* As of May 1st, 2025 this site will no longer be updated.`
 `https://www.dds.mil/` [dds.mil/](https://www.dds.mil/)
 Please visit https://www.ai.mil/About/Organization/DDS/ for the most up-to-date information about the Defense Digital Service function. CDAO continues to integrate and consolidate digital service functions to provide maximum value to the warfighter. We persist in aligning all capabilities against the priorities of the Department and execute our mission of enabling the rapid and scaled adoption of data, analytics, and AI /////////
-> This is partituclarly dangerous , its advertised from [@DeptOfDefense](https://www.usar.army.mil/News/News-Display/Article/4324195/hegseth-announces-series-of-war-department-reforms-in-sweeping-speech-to-top-mi/) , archived [github account!](https://github.com/deptofdefense) @DoD-Platform-One  , @nasa @nasa-jpl if The Times was as industrious as @WashingtonPost they could meddle in these ways [`Department of Defense 1033 Program data`](https://github.com/washingtonpost/data-1033-program) but @datadesk busy taking jabs at short haired [old black ladies](https://youtu.be/8C2cSMZ3Ftg?t=218) 
+> This is partituclarly dangerous , its advertised from [@DeptOfDefense](https://www.usar.army.mil/News/News-Display/Article/4324195/hegseth-announces-series-of-war-department-reforms-in-sweeping-speech-to-top-mi/) , archived [github account!](https://github.com/deptofdefense) @DoD-Platform-One  , @nasa @nasa-jpl if The Times was as industrious as @WashingtonPost they could meddle in these ways [`Department of Defense 1033 Program data`](https://github.com/washingtonpost/data-1033-program) but @datadesk busy taking jabs at short haired [old black ladies](https://youtu.be/8C2cSMZ3Ftg?t=218)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/92954ff3-b902-407d-a394-03676e3d05f0" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/983d599b-8967-44a1-9cb8-6c21b7d282dc" />
+
+
 <!-- <img alt="image" src="https://gavrt.lewiscenter.org/images/footer-logo.png" /> -->
 <img alt="image" src="https://github.com/user-attachments/assets/a83d7a95-8b2b-463a-ba74-2ad1d96fe9d1" />
 
@@ -1434,6 +1440,7 @@ encouraging meaningless expenditures that reduce the capability for political an
         <div></div>
         <div></div>
       </div>
+
 
 
 
