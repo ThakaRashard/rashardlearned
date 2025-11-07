@@ -32,7 +32,7 @@ Caption for frame no. 25: Chairman F. James Sensenbrenner Jr., R-Wis., makes his
 
 </div>
 
-[<img alt="@blackgirlscode https://www.nasa.gov/gallery/expedition-70-image-gallery/page/2/" src="https://www.nasa.gov/wp-content/uploads/2023/10/iss070e006089.jpg">](https://www.nasa.gov/wp-content/uploads/2023/10/iss070e006089.jpg)
+[<img alt="@blackgirlscode https://www.nasa.gov/gallery/expedition-70-image-gallery/page/2/" src="https://www.nasa.gov/wp-content/uploads/2023/10/53282836150-921f920bd7-o.jpg">](https://www.nasa.gov/wp-content/uploads/2023/10/53282836150-921f920bd7-o.jpg)
 
 # Europa Clipper Camera Passes First Test in Space
 Soon after NASA's Europa Clipper spacecraft launched toward Jupiter's icy moon on Oct. 14, 2024, the mission team powered on each of the science instruments for a series of test or "checkout" activities. The Europa Imaging System – with its narrow-angle and wide-angle cameras – underwent its first checkouts in December 2024.
