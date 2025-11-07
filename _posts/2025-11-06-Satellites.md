@@ -11,6 +11,21 @@ author: "RashardKelly @nasa-jpl"
 [<img src="https://web.archive.org/web/20060104192812im_/http://mars.jpl.nasa.gov/mro/images/mro_banner.jpg">]( https://web.archive.org/web/20060108092026/http://mars.jpl.nasa.gov/mro/)
 ### [Mars Reconnaissance Orbiter](https://hirise-pds.lpl.arizona.edu/PDS/CATALOG/MISSION.CAT) : [Mission Objectives](https://www.google.com/logos/doodles/2025/fourth-of-july-2025-6753651837110704-2x.png) NASA's Mars Reconnaissance Orbiter searches for evidence that water persisted on the surface of Mars for a long period of time. [ReadMore](https://science.nasa.gov/mission/mars-reconnaissance-orbiter/) 
 
+# N.A.S.A. space station 
+@TheSpaceDevs @BlackGirlsCode @emit-sds @stateofcalifornia @cityoflosangeles
+Library of Congress Control Number: [2019642104](https://www.loc.gov/item/2019642104/)
+Caption for frame no. 25: Chairman F. James Sensenbrenner Jr., R-Wis., makes his opening statement before the start of the House Science Committee hearing on the space station.
+[<img src="https://tile.loc.gov/storage-services/service/pnp/ppmsca/62700/62765v.jpg">](https://tile.loc.gov/storage-services/service/pnp/ppmsca/62700/62765v.jpg)
+[<img src="https://tile.loc.gov/storage-services/service/pnp/ppmsca/62700/62763v.jpg">](https://tile.loc.gov/storage-services/service/pnp/ppmsca/62700/62763v.jpg)
+[<img src="https://tile.loc.gov/storage-services/service/pnp/ppmsca/62700/62762v.jpg">]( https://tile.loc.gov/storage-services/service/pnp/ppmsca/62700/62762v.jpg)
+[<img src="https://tile.loc.gov/storage-services/service/pnp/ppmsca/62700/62761v.jpg">]( https://tile.loc.gov/storage-services/service/pnp/ppmsca/62700/62761v.jpg)
+
+<div class="box">
+[<img src="https://tile.loc.gov/storage-services/service/pnp/ppmsca/62700/62766v.jpg">](https://tile.loc.gov/storage-services/service/pnp/ppmsca/62700/62766v.jpg)
+[<img src="https://tile.loc.gov/storage-services/service/pnp/ppmsca/62700/62764v.jpg">]( https://tile.loc.gov/storage-services/service/pnp/ppmsca/62700/62764v.jpg)
+[<img src="https://tile.loc.gov/storage-services/service/pnp/ppmsca/62600/62669v.jpg">](https://tile.loc.gov/storage-services/service/pnp/ppmsca/62600/62669v.jpg)	
+</div>
+
 
 # Europa Clipper Camera Passes First Test in Space
 Soon after NASA's Europa Clipper spacecraft launched toward Jupiter's icy moon on Oct. 14, 2024, the mission team powered on each of the science instruments for a series of test or "checkout" activities. The Europa Imaging System – with its narrow-angle and wide-angle cameras – underwent its first checkouts in December 2024.
