@@ -13,8 +13,35 @@ permalink: /changelog
 [<img src="https://web.archive.org/web/20060104192812im_/http://mars.jpl.nasa.gov/mro/images/mro_banner.jpg">]( https://web.archive.org/web/20060108092026/http://mars.jpl.nasa.gov/mro/)
 ### [Mars Reconnaissance Orbiter](https://hirise-pds.lpl.arizona.edu/PDS/CATALOG/MISSION.CAT) : [Mission Objectives](https://www.google.com/logos/doodles/2025/fourth-of-july-2025-6753651837110704-2x.png) NASA's Mars Reconnaissance Orbiter searches for evidence that water persisted on the surface of Mars for a long period of time. [ReadMore](https://science.nasa.gov/mission/mars-reconnaissance-orbiter/) 
 
+# Jovian [PRESSKiT](https://www.jpl.nasa.gov/news/press_kits/juno/pdf/juno-lores.pdf)
+[[ joh-vee-uhn ]](https://en.wiktionary.org/wiki/Jovian) ([astronomy](https://www.nasa.gov/solar-system/skywatching/astronomy/)) Pertaining to the planet [Jupiter](https://ssd.jpl.nasa.gov/api/horizons.api?format=text&COMMAND=%27599%27&OBJ_DATA=%27YES%27&MAKE_EPHEM=%27YES%27&EPHEM_TYPE=%27OBSERVER%27&CENTER=%27500@399%27&START_TIME=%272006-01-01%27&STOP_TIME=%272006-01-20%27&STEP_SIZE=%271%20d%27&QUANTITIES=%271,9,20,23,24,29%27).
+[Jupiter is](https://www.jpl.nasa.gov/edu/resources/gallery/exploring-jupiter/)...the largest planet in our solar system – if it were a hollow shell, 1,000 Earths could fit inside [Jupiter Facts](https://science.nasa.gov/jupiter/jupiter-facts/) [Fiction/Fandom](https://aliens.fandom.com/wiki/Jovian) [Physicality @nasa PhotoJournal](https://photojournal.jpl.nasa.gov/target/jupiter) - [Program and Project Management](https://www.jpl.nasa.gov/news/press_kits/juno/management/) ~> [Directors](https://x.com/RicoThaka/status/1899890387977949299)
+[SPaniSH Deets](https://ciencia.nasa.gov/mission/europaclipper/) [Planetary Protection](https://sma.nasa.gov/sma-disciplines/planetary-protection) is the practice of protecting solar system bodies from contamination by Earth life and protecting Earth from possible life forms that may be returned from other solar system bodies. 
+[aster](https://asterweb.jpl.nasa.gov/map/) [mission](https://asterweb.jpl.nasa.gov/mission.asp)
 
 
+
+[Rescuing a satellite stranded in space - 13 Minutes Presents: The Space Shuttle, BBC World Service - @bbc @youtube @nasa-jpl JUNO MiSSiON](https://www.youtube.com/watch?v=DCgfgLnDZJw)
+[Jupiter Gallery](https://nssdc.gsfc.nasa.gov/photo_gallery/photogallery-jupiter.html)
+![jupiter @blackgirlscode voyager2](https://nssdc.gsfc.nasa.gov/image/planetary/jupiter/jupiter_gany.jpg)
+
+[Earth Triptych from NASA's Juno Spacecraft - jpl.nasa.gov](https://www./images/pia14447-earth-triptych-from-nasas-juno-spacecraft/) pia14447-earth-triptych [image](https://www./images/pia14447-earth-triptych-from-nasas-juno-spacecraft/)
+This trio of Junocam views of Earth was taken during Juno's close flyby on October 9, 2013. 
+![Earth Triptych from NASA's Juno Spacecraft - jpl.nasa.gov](https://d2pn8kiwq2w21t.cloudfront.net/original_images/jpegPIA14447.jpg)
+
+[JUPiTER_PHOTOGALLERY - nssdc.gsfc.@nasa.gov](https://nssdc.gsfc.nasa.gov/photo_gallery/photogallery-jupiter.html) [Galileo](https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1989-084B)
+
+[Copernicus https://fb.watch/BF-HXknjsZ/](https://fb.watch/BF-HXknjsZ/)
+
+![css zen](https://csszengarden.com/182/footer.gif)
+
+# Jovian [PRESSKiT](https://www.jpl.nasa.gov/news/press_kits/juno/pdf/juno-lores.pdf)
+[[ joh-vee-uhn ]](https://en.wiktionary.org/wiki/Jovian) ([astronomy](https://www.nasa.gov/solar-system/skywatching/astronomy/)) Pertaining to the planet [Jupiter](https://ssd.jpl.nasa.gov/api/horizons.api?format=text&COMMAND=%27599%27&OBJ_DATA=%27YES%27&MAKE_EPHEM=%27YES%27&EPHEM_TYPE=%27OBSERVER%27&CENTER=%27500@399%27&START_TIME=%272006-01-01%27&STOP_TIME=%272006-01-20%27&STEP_SIZE=%271%20d%27&QUANTITIES=%271,9,20,23,24,29%27).
+[Jupiter is](https://www.jpl.nasa.gov/edu/resources/gallery/exploring-jupiter/)...the largest planet in our solar system – if it were a hollow shell, 1,000 Earths could fit inside [Jupiter Facts](https://science.nasa.gov/jupiter/jupiter-facts/) [Fiction/Fandom](https://aliens.fandom.com/wiki/Jovian) [Physicality @nasa PhotoJournal](https://photojournal.jpl.nasa.gov/target/jupiter) - [Program and Project Management](https://www.jpl.nasa.gov/news/press_kits/juno/management/) ~> [Directors](https://x.com/RicoThaka/status/1899890387977949299)
+[SPaniSH Deets](https://ciencia.nasa.gov/mission/europaclipper/) [Planetary Protection](https://sma.nasa.gov/sma-disciplines/planetary-protection) is the practice of protecting solar system bodies from contamination by Earth life and protecting Earth from possible life forms that may be returned from other solar system bodies. 
+[aster](https://asterweb.jpl.nasa.gov/map/) [mission](https://asterweb.jpl.nasa.gov/mission.asp)
+
+## Nasa EarthData @podaac
 This service will be unavailable for ~ 1 to 30 minutes on Thursday, 11/13/2025 between 8 am and 11 am ET due to pla... Learn More 
 This service will be unavailable for ~ 1 to 30 minutes on Thursday, 11/13/2025 between 8 am and 11 am ET due to planned maintenance. We apologize for the inconvenience.
 
@@ -43,7 +70,7 @@ For questions regarding the EOSDIS Earthdata Login, please contact Earthdata Sup
 
 V 4.231.0 Home NASA Accessibility
 NASA Official: Doug Newman
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f8aaed58-aa14-4a80-8e45-f89128596aa4" />
+<img  alt="image" src="https://github.com/user-attachments/assets/f8aaed58-aa14-4a80-8e45-f89128596aa4" />
 
 
 Welcome to the Beginner's Guide to Rockets
@@ -1481,6 +1508,7 @@ encouraging meaningless expenditures that reduce the capability for political an
         <div></div>
         <div></div>
       </div>
+
 
 
 
