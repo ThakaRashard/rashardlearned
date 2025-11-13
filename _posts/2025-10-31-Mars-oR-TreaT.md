@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: rt_leap
 title:  MarsLog11122025
 published: true
 tags: mars dsn "Deep Space Network" robotics marsblog
@@ -18,6 +18,18 @@ author: "RashardKelly @nasa-jpl"
 
 
 # Currently Compling [@BlueOrigin Mission Support](https://www.blueorigin.com/missions/ng-2?fbclid=IwY2xjawOCAHZleHRuA2FlbQIxMABicmlkETBic1BNSFRXUm54aEhrTDNJc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHoCPPkqq_v8XG6vXP30vOUet9_PSLSURjZ7j9z1Z7_MWD5vSo1EBs469lGtG_aem_LyXE2x3-K1K-ukSVrkNFSQ) , [NG-2](https://www.blueorigin.com/missions/ng-2?fbclid=IwY2xjawOCAHZleHRuA2FlbQIxMABicmlkETBic1BNSFRXUm54aEhrTDNJc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHoCPPkqq_v8XG6vXP30vOUet9_PSLSURjZ7j9z1Z7_MWD5vSo1EBs469lGtG_aem_LyXE2x3-K1K-ukSVrkNFSQ)
+
+
+New Glenn had targeted a 2:50 p.m. EST (1850 GMT) liftoff from Blue Origin's Space Launch Complex-36, at Cape Canaveral Space Force Station today (Nov. 12), to send NASA's twin ESCAPADE orbiters to Mars. "However, due to highly elevated solar activity and its potential effects on the ESCAPADE spacecraft, NASA is postponing launch until space weather conditions improve," Blue Origin wrote in a post on X.
+[space.com - @TheSpaceDevs](New Glenn had targeted a 2:50 p.m. EST (1850 GMT) liftoff from Blue Origin's Space Launch Complex-36, at Cape Canaveral Space Force Station today (Nov. 12), to send NASA's twin ESCAPADE orbiters to Mars. "However, due to highly [elevated solar activity](https://www.ngdc.noaa.gov/dscovr/plots/dscovr_6hr_plots/2025/11/2025111106-6hr.png) and its potential effects on the ESCAPADE spacecraft, NASA is postponing launch until space weather conditions improve," Blue Origin wrote in a post on X.)
+[@blueorigin @nasa-jpl](https://www.ngdc.noaa.gov/dscovr/plots/dscovr_6hr_plots/2025/11/) <!@NOAAGOV 
+
+<img  alt="image" src="https://github.com/user-attachments/assets/83a587a7-80d8-4009-92d3-5abd013651bc" />
+
+![@weather-gov](https://www.ngdc.noaa.gov/image/nesdisngdcleft.gif) 
+
+<img  alt="image" src="https://github.com/user-attachments/assets/ce7e1740-d585-4148-8506-2a81e8f396e0" />
+
 # ESCAPADE
 Pioneering Low-Cost Planetary Exploration for NASA: the Escape and Plasma Acceleration and Dynamics Explorers [TRaiLER](https://www.youtube.com/watch?si=p1lNMQvF5JesXZrk&v=mFzbT6_ZX70&feature=youtu.be)
 
