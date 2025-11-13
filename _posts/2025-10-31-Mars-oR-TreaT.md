@@ -20,13 +20,16 @@ author: "RashardKelly @nasa-jpl"
 # Currently Compling [@BlueOrigin Mission Support](https://www.blueorigin.com/missions/ng-2?fbclid=IwY2xjawOCAHZleHRuA2FlbQIxMABicmlkETBic1BNSFRXUm54aEhrTDNJc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHoCPPkqq_v8XG6vXP30vOUet9_PSLSURjZ7j9z1Z7_MWD5vSo1EBs469lGtG_aem_LyXE2x3-K1K-ukSVrkNFSQ) , [NG-2](https://www.blueorigin.com/missions/ng-2?fbclid=IwY2xjawOCAHZleHRuA2FlbQIxMABicmlkETBic1BNSFRXUm54aEhrTDNJc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHoCPPkqq_v8XG6vXP30vOUet9_PSLSURjZ7j9z1Z7_MWD5vSo1EBs469lGtG_aem_LyXE2x3-K1K-ukSVrkNFSQ)
 
 
-New Glenn had targeted a 2:50 p.m. EST (1850 GMT) liftoff from Blue Origin's Space Launch Complex-36, at Cape Canaveral Space Force Station today (Nov. 12), to send NASA's twin ESCAPADE orbiters to Mars. "However, due to highly elevated solar activity and its potential effects on the ESCAPADE spacecraft, NASA is postponing launch until space weather conditions improve," Blue Origin wrote in a post on X.
-[space.com - @TheSpaceDevs](New Glenn had targeted a 2:50 p.m. EST (1850 GMT) liftoff from Blue Origin's Space Launch Complex-36, at Cape Canaveral Space Force Station today (Nov. 12), to send NASA's twin ESCAPADE orbiters to Mars. "However, due to highly [elevated solar activity](https://www.ngdc.noaa.gov/dscovr/plots/dscovr_6hr_plots/2025/11/2025111106-6hr.png) and its potential effects on the ESCAPADE spacecraft, NASA is postponing launch until space weather conditions improve," Blue Origin wrote in a post on X.)
+New Glenn had targeted a 2:50 p.m. EST (1850 GMT) liftoff from Blue Origin's Space Launch Complex-36, at Cape Canaveral Space Force Station today (Nov. 12), to send NASA's twin ESCAPADE orbiters to Mars. "However, due to highly [elevated solar activity](https://www.ngdc.noaa.gov/dscovr/plots/dscovr_6hr_plots/2025/11/2025111106-6hr.png) and its potential effects on the ESCAPADE spacecraft, NASA is postponing launch until space weather conditions improve," Blue Origin wrote in a post on X.)
+[space.com - @TheSpaceDevs](https://www.space.com/space-exploration/launches-spacecraft/ongoing-solar-storm-delays-blue-origin-launch-of-nasa-mars-probes?__vfz=medium%3Dcomment_share_facebook%7Csharer_uuid%3D00000000-0000-4000-8000-01fcd3fe14fc&fbclid=IwY2xjawOCBcFleHRuA2FlbQIxMQBzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEe4umNwpXk4rXxxBIIhUL3ttMTPEn-e_s42izVumnv51z15a8_mi91uYv3omY_aem_muPQhVU45fctScZnEutqQw#vf-5191df2e-4aac-4fcb-b944-42b5ed1c1d65)
+
 [@blueorigin @nasa-jpl](https://www.ngdc.noaa.gov/dscovr/plots/dscovr_6hr_plots/2025/11/) <!@NOAAGOV 
 
 <img  alt="image" src="https://github.com/user-attachments/assets/83a587a7-80d8-4009-92d3-5abd013651bc" />
 
 ![@weather-gov](https://www.ngdc.noaa.gov/image/nesdisngdcleft.gif) 
+# Magnetometer (MAG) data flow resumed 2025-10-02 at 15:49 UTC
+[PORTAL @NOAAGov](https://www.ngdc.noaa.gov/dscovr/portal/index.html#/vis/summary/1d/1762848000000) 
 
 <img  alt="image" src="https://github.com/user-attachments/assets/ce7e1740-d585-4148-8506-2a81e8f396e0" />
 
