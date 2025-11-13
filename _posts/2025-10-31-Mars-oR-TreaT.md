@@ -18,8 +18,10 @@ author: "RashardKelly @nasa-jpl"
 
 
 # Currently Compling [@BlueOrigin Mission Support](https://www.blueorigin.com/missions/ng-2?fbclid=IwY2xjawOCAHZleHRuA2FlbQIxMABicmlkETBic1BNSFRXUm54aEhrTDNJc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHoCPPkqq_v8XG6vXP30vOUet9_PSLSURjZ7j9z1Z7_MWD5vSo1EBs469lGtG_aem_LyXE2x3-K1K-ukSVrkNFSQ) , [NG-2](https://www.blueorigin.com/missions/ng-2?fbclid=IwY2xjawOCAHZleHRuA2FlbQIxMABicmlkETBic1BNSFRXUm54aEhrTDNJc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHoCPPkqq_v8XG6vXP30vOUet9_PSLSURjZ7j9z1Z7_MWD5vSo1EBs469lGtG_aem_LyXE2x3-K1K-ukSVrkNFSQ)
+# ESCAPADE
+Pioneering Low-Cost Planetary Exploration for NASA: the Escape and Plasma Acceleration and Dynamics Explorers [TRaiLER](https://www.youtube.com/watch?si=p1lNMQvF5JesXZrk&v=mFzbT6_ZX70&feature=youtu.be)
 
-
+[RocketLAb](https://x.com/RocketLab/status/1987930116186665027?s=20&fbclid=IwY2xjawOCAdJleHRuA2FlbQIxMABicmlkETBic1BNSFRXUm54aEhrTDNJc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHnC4OytgqTAGSTaUkKDxvrntRDpVm0Jw9rFyqYEv9EWPcoPCWla2DEWFmo_9_aem_B3ln14s_ficdByrLGgDqdw) 
 The Escape and Plasma Acceleration and Dynamics Explorers (ESCAPADE) mission to Mars, led by the University of California, Berkeley’s Space Sciences Laboratory, is set to launch sometime in fall 2024. It consists of two identical smallsats, named Blue and Gold, that will study Mars’ magnetosphere and its interaction with the solar wind. While the exact launch date is still to be determined, if the launch is successful, then ESCAPADE is projected to reach Mars by September 2025. [READMORE](https://www.ssl.berkeley.edu/escapade-mars-mission-on-track-for-fall-2024-launch/?fbclid=IwY2xjawOCAXRleHRuA2FlbQIxMABicmlkETBic1BNSFRXUm54aEhrTDNJc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHoCPPkqq_v8XG6vXP30vOUet9_PSLSURjZ7j9z1Z7_MWD5vSo1EBs469lGtG_aem_LyXE2x3-K1K-ukSVrkNFSQ) 
 
 North Dakota Dual Aurora Camera (NoDDAC) Live Stream [11/11](https://www.youtube.com/live/TZnqoj1FNvA)
