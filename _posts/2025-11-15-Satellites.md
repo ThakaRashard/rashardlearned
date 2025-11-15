@@ -9,6 +9,49 @@ author: "RashardKelly @nasa-jpl"
 
 
 
+# Sentinel-6B Prelaunch Media Teleconference
+
+[@nasa Tune in @blackgirlscode](https://www.youtube.com/embed/1n4SjH6URAo?si=LYJX4TyVSPsXHHKN)
+<img alt="image" src="https://github.com/user-attachments/assets/d212c1f5-a854-480f-8d17-3cee617536b4" />
+
+
+![The Copernicus Browser makes it possible to browse and download full resolution images from all Copernicus missions.](https://upload.wikimedia.org/wikipedia/commons/c/c3/Copernicus_Logo_240.png)
+[Introduction to the CDSE website and Copernicus Browser](https://youtu.be/GecNCdilbig) <~ `HOMEWORK!` 
+`DATAPRoDuCT!` ~> [browser.dataspace.copernicus.eu @podaac @blackgilscode @nasa-jpl @whitehouse @Cityoflosangeles @StateofCalifornia](https://browser.dataspace.copernicus.eu/?zoom=7&lat=34.31551&lng=-118.20968&themeId=DEFAULT-THEME&visualizationUrl=U2FsdGVkX19CfAtfewtzv5kYlONWnlpXnpY%2Bor3NOMKTf%2FVYPesB9%2BssYQzSXXADxmZ2Rm9JHz%2B6xAHix815EdGBIYInfOZ7%2BcgiDZy0GoSdSOdwkiDV8I7eWhEdLDIn&datasetId=S3OLCI_CDAS&fromTime=2023-02-10T00%3A00%3A00.000Z&toTime=2023-02-10T23%3A59%3A59.999Z&layerId=2_OTCI&demSource3D=%22MAPZEN%22&cloudCoverage=13&dateMode=SINGLE)
+<img  alt="image" src="https://github.com/user-attachments/assets/5a1b1815-6755-4ab2-970e-bafa9521856c" />
+
+Profile Information
+Name: [Rashard I Kelly](https://rashardmro.tumblr.com/)
+Username: rashardkelly
+Email Address: holetoanotheruniverse40@gmail.com
+Organization: Mars Reconnocinse Orbiter #NasaJPL #La_CanaDa_FlintRidge Los Angeles County California
+Country: United States
+Member Since: 08-24-2024
+Last Authentication: 11-15-2025
+Federated User: False
+Application Creator: False
+User Type: Science Team
+Study Area: Atmospheric Aerosols
+Affiliation: Government
+Allow Email Notifications from Applications: True
+Agreed To Meris EULA: True
+Agreed To Sentinel-3 EULA: True
+hi @nasa-jpl @nasa-develp @nasa @whitehouse its a checking @blackgirlscode
+Long Beach Public Library we have a launch meeting in an hour dail in if you like -#rashard NASA Jet Propulsion Laboratory Karen Bass plz referee im getting tased on this pc! Normani are you having sex ? ? ? 2 Los Angeles Wave U.S. Department of War Secretary of War Pete Hegseth @datadesk 
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid0utHY3gMoiiAworXrPkk3PChvh7tLXBetsWhJ5fW1smgHw2WmxnXHMPpBUKdAUz4Cl%26id%3D100084464911565&show_text=true&width=500" width="500" height="250" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+
+[<img src="https://web.archive.org/web/20060104192812im_/http://mars.jpl.nasa.gov/mro/images/mro_banner.jpg">]( https://web.archive.org/web/20060108092026/http://mars.jpl.nasa.gov/mro/)
+### [Mars Reconnaissance Orbiter](https://hirise-pds.lpl.arizona.edu/PDS/CATALOG/MISSION.CAT) : [Mission Objectives](https://www.google.com/logos/doodles/2025/fourth-of-july-2025-6753651837110704-2x.png) NASA's Mars Reconnaissance Orbiter searches for evidence that water persisted on the surface of Mars for a long period of time. [ReadMore](https://science.nasa.gov/mission/mars-reconnaissance-orbiter/) 
+
+<img alt="image" src="https://github.com/user-attachments/assets/bcc4dd7b-4e9b-4a8a-b930-6d8c8e7df4f0" />
+
+
+[(NASA Mission Trailer)](https://youtu.be/k4RaWqobggI?si=CbCwSemd8DnVDiFf)
+[Watch @blackgirlscode @nasajpl @stateofCalifornia](https://youtu.be/1n4SjH6URAo)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1n4SjH6URAo?si=LYJX4TyVSPsXHHKN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
 ### MICRODEVICES LABORATORY 
 2024 | ANNUAL REPORT ::: @BlueOrigin
 CLiCK[@nasa-jpl tour](https://www.jpl.nasa.gov/virtual-tour/)
