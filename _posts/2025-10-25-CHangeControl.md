@@ -14,6 +14,24 @@ permalink: /changelog
 ### [Mars Reconnaissance Orbiter](https://hirise-pds.lpl.arizona.edu/PDS/CATALOG/MISSION.CAT) 
 : [Mission Objectives](https://www.google.com/logos/doodles/2025/fourth-of-july-2025-6753651837110704-2x.png) NASA's Mars Reconnaissance Orbiter searches for evidence that water persisted on the [surface of Mars](https://acawpg.org/adult-childrens-bill-of-rights/) for a long period of time. [ReadMore](https://science.nasa.gov/mission/mars-reconnaissance-orbiter/) 
 
+<img  alt="image" src="https://github.com/user-attachments/assets/4bbf8727-1e0e-4db4-9fa4-03676973f39d" />
+
+
+![coral i love you @blackgirlscode](https://user-images.githubusercontent.com/19292210/60553863-044dd200-9cea-11e9-987e-7db84449f215.png?fbclid=IwY2xjawOMSrVleHRuA2FlbQIxMABicmlkETFYUTY2dTB2elNja3lGaFg2c3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHv_gHFvfu91t--upXMkwrOb9gCnPX1MlZdPC2md_VI3ai7fPq2KmzJ6XUX_t_aem_8misQL4NIvcM-OWEf3EGsg) 
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid02Hf5uTmqXLLjwgz6TgHvSbonyWRdxXAEtwtWJ66F2dU6ec5ZW5PyCYq19F6AHP631l%26id%3D100084464911565&show_text=true&width=500" width="500" height="781" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+
+there ws a lapse in website acceccibility from longbeach @stateofcalifornia @cityoflosangeles
+@nasa-pds [i reported it on facebook](https://www.facebook.com/permalink.php?story_fbid=pfbid0hJz1iuiYwvCLbPT26uB8TVCfC8tTbiqBqP8s4bCWfpBZoNKuj6uDYf7M9VL2hzAAl&id=100084464911565) ++ @nasa-jpl @blackgirlscode im logged in sowhatever happened [resolved](https://www.facebook.com/permalink.php?story_fbid=pfbid02Hf5uTmqXLLjwgz6TgHvSbonyWRdxXAEtwtWJ66F2dU6ec5ZW5PyCYq19F6AHP631l&id=100084464911565)
+
+![`Normani Brandy Norwood ? i love you` @blackgirlscode](https://user-images.githubusercontent.com/19292210/60553863-044dd200-9cea-11e9-987e-7db84449f215.png?fbclid=IwY2xjawOMSrVleHRuA2FlbQIxMABicmlkETFYUTY2dTB2elNja3lGaFg2c3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHv_gHFvfu91t--upXMkwrOb9gCnPX1MlZdPC2md_VI3ai7fPq2KmzJ6XUX_t_aem_8misQL4NIvcM-OWEf3EGsg) 
+<img alt="image" src="https://github.com/user-attachments/assets/3fcf9036-b68d-43cc-8a6e-c030f2639ea8" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/13dd6b75-145d-44cc-aee7-ae9c56203bce" />
+
+
+
+
 # Jovian [PRESSKiT](https://www.jpl.nasa.gov/news/press_kits/juno/pdf/juno-lores.pdf)
 [[ joh-vee-uhn ]](https://en.wiktionary.org/wiki/Jovian) ([astronomy](https://www.nasa.gov/solar-system/skywatching/astronomy/)) Pertaining to the planet [Jupiter](https://ssd.jpl.nasa.gov/api/horizons.api?format=text&COMMAND=%27599%27&OBJ_DATA=%27YES%27&MAKE_EPHEM=%27YES%27&EPHEM_TYPE=%27OBSERVER%27&CENTER=%27500@399%27&START_TIME=%272006-01-01%27&STOP_TIME=%272006-01-20%27&STEP_SIZE=%271%20d%27&QUANTITIES=%271,9,20,23,24,29%27).
 [Jupiter is](https://www.jpl.nasa.gov/edu/resources/gallery/exploring-jupiter/)...the largest planet in our solar system – if it were a hollow shell, 1,000 Earths could fit inside [Jupiter Facts](https://science.nasa.gov/jupiter/jupiter-facts/) [Fiction/Fandom](https://aliens.fandom.com/wiki/Jovian) [Physicality @nasa PhotoJournal](https://photojournal.jpl.nasa.gov/target/jupiter) - [Program and Project Management](https://www.jpl.nasa.gov/news/press_kits/juno/management/) ~> [Directors](https://x.com/RicoThaka/status/1899890387977949299)
@@ -1506,6 +1524,7 @@ encouraging meaningless expenditures that reduce the capability for political an
         <div></div>
         <div></div>
       </div>
+
 
 
 
