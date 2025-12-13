@@ -13,7 +13,23 @@ catagories: tags earth dsn "Near Space Network"  LA space dsn climate weather fi
 [DSCOVR: EPIC _ Gallery : West Coast Wildfires](https://epic.gsfc.nasa.gov/galleries/2020/wildfires)
 [NASA - LANCE - FiRMS Global Fire Map, Live MAps](https://firms.modaps.eosdis.nasa.gov/map/) with [KML](https://developers.google.com/kml) - [downloads](https://firms.modaps.eosdis.nasa.gov/active_fire/) [@nasa it looks like cal fire uses ViiRS or another one of our climate sats @noaa for this map!](https://www.fire.ca.gov/incidents)
 
+** EatonCanyon Before and after**
 
+2022
+
+![2022](https://data.asf.alaska.edu/archive/datasets/uavsar/www/UA_crparc_09118_22001_013_220413_L090_CX_01/crparc_09118_22001_013_220413_L090_CX_01.gif)
+
+2025
+
+![2025](https://data.asf.alaska.edu/archive/datasets/uavsar/www/UA_crparc_09118_25032_007_250930_L090_CX_01/crparc_09118_25032_007_250930_L090_CX_01.gif)
+
+`Run ID Site Name NASA Log # Investigator Start Lat Start Lon Stop Lat Stop Lon Start GMT Stop GMT Comments `
+
+`p00_r09 LA Wildfire E-W (orthocorrected) 192015 Robert Green 34.02867 -118.85900 34.18483 -117.84950 1947 1956 LA Wildfire E -) W`
+
+BKN CLDS SMOKE?
+
+![Aviris f250501t01p00r09_geo.jpeg](https://aviris.jpl.nasa.gov/ql/25qlook/f250501t01p00r09_geo.jpeg)
 
 [WeFunkRadio +](https://www.wefunkradio.com/radio/) [latest LordSear](https://soundcloud.com/djlordsear/dj-holly-grove-no-mix-10-24-2025?si=82a4b5f012894629a00dc960f6862f85&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing) && [Show 1270 seem good @blackgirlscode](https://www.wefunkradio.com/show/1270/play_aa)
 
