@@ -14,6 +14,11 @@ date:   2025-10-09 8:51:06
 
 
 [comment]: <> (Emergency Files )
+[Time MAchine - Mind in a Spin](https://youtu.be/HWwCVqWmgro) @blackgirlscode its really wet and a ton of water in the LARiVER @usgs @nasa-jpl @cityoflosangeles @stateofcalifornia
+
+Longbeach from [Aster](https://asterweb.jpl.nasa.gov/map/) <~ @Nasa-jpl [DataProduct](https://www.earthdata.nasa.gov/learn/earth-observation-data-basics/standard-data-products) ... `geophysical measurements from various types of instruments` && `Standard data products are those with an internally consistent, well-calibrated record of Earth’s geophysical properties to support science.` [ReadMore](https://www.earthdata.nasa.gov/data/catalog)
+
+![LA_HARBOR](https://asterweb.jpl.nasa.gov/gallery/images/LA-Harbor.jpg)
 
 ### Los Angeles County
 @CityOfLosAngeles @StateOfCalifornia we have a dataset compiled that will let you explore the power plants in America
@@ -627,6 +632,7 @@ encouraging meaningless expenditures that reduce the capability for political an
         <div></div>
         <div></div>
       </div>
+
 
 
 
