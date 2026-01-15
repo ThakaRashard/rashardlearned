@@ -11,6 +11,7 @@ author: "RashardKelly @nasa-jpl"
 
 ![mc](https://web.archive.org/web/20060622000110im_/http://mpfwww.jpl.nasa.gov/martianchronicle/martianchron5/masthead5.gif)
 
+<img   alt="image" src="https://github.com/user-attachments/assets/586c41e4-fbc1-41a7-8e4f-a3afe72244c5" />
 
 # Rashard Kelly [NasaJpl](https://web.archive.org/web/20250208075001/https://www.flickr.com/photos/nasa-jpl/) MRO JUNO [iSS](https://ecostress.jpl.nasa.gov/news/paris-land-surface-temperature)
 
