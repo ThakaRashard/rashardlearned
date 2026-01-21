@@ -1,0 +1,1 @@
+[Firms](https://firms.modaps.eosdis.nasa.gov/) [FirMS - Map](https://firms.modaps.eosdis.nasa.gov/map/#d:24hrs;@-114.497,34.761,14.107z) [KML SHAPES and Archives](https://firms.modaps.eosdis.nasa.gov/usfs/active_fire/)
