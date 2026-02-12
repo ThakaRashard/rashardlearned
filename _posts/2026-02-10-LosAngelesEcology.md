@@ -7,7 +7,7 @@ title: L.A. Ecology @CityOfLosAngeles @Nasa-jpl
 image: rashards_la_county_ticket_ECOSTRESS_CROP_00164_streetheat_la.png
 author: "RashardKelly @nasa-jpl"
 categories: LA eco ecostress space dsn nsn climate weather
-date:   2026-02-07 8:51:06 
+date:   2026-02-10 8:51:06 
 ---
 
 
@@ -28,12 +28,94 @@ date:   2026-02-07 8:51:06
 {% endhighlight %}
 
 
+![Groundwater Declines in the U.S. Southwest](https://eoimages.gsfc.nasa.gov/images/imagerecords/152000/152970/groundwater_grace_2023_lrg.jpg)
 
+
+
+[NasaJpl_Flickr](www.flickr.com/photos/nasa-jpl)
+
+[Feb25 snapshot @nasa-jpl](https://web.archive.org/web/20250208075001/https://www.flickr.com/photos/nasa-jpl/)
+
+@nasa @la-county-isd @podaac @nasa-jpl `404: Not Found ° [NasaJpl_Flickr] www.flickr.com/photos/nasa-jpl)`
+
+@google @vsco [Check out Google’s new Santa Monica store](https://www.google.com/amp/s/ktla.com/news/local-news/check-out-googles-new-santa-monica-store/amp/)
+@nasa-jpl @blackgirlscode
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Intel_pentium_iii_xeon_800_sl4h8_top.png"  alt="GO" />
 
 ### [* CALIFORNIA CONSTITUTION - CONS ARTICLE I DECLARATION OF RIGHTS [SECTION 1 - SEC. 32]](https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=CONS&sectionNum=SEC.%202.&article=I)
 
 
+<img  alt="image" src="https://github.com/user-attachments/assets/a83f05df-3b9a-409f-a86f-b3b25d516377" />
+
+OPERA Radiometric Terrain Corrected SAR Backscatter from Sentinel-1 validated product (Version 1) \__N_R_T:DataProduct_ @CityOflosangeles @StateOfCalifornia 
+
+[https://ia601409.us.archive.org/14/items/nsn-overview-noaccess_NASAJPL_rashardsJob/OPERA_L2_RTC-S1_T071-151230-IW2_20260203T135146Z_20260203T183851Z_S1C_30_v1.0_BROWSE.png](https://ia601409.us.archive.org/14/items/nsn-overview-noaccess_NASAJPL_rashardsJob/OPERA_L2_RTC-S1_T071-151230-IW2_20260203T135146Z_20260203T183851Z_S1C_30_v1.0_BROWSE.png)
+@la-county-isd `https://archive.org/download/nsn-overview-noaccess_NASAJPL_rashardsJob` 
+@cityoflosangeles can someone share with [LongBeach](https://ia601409.us.archive.org/14/items/nsn-overview-noaccess_NASAJPL_rashardsJob/) `https://ia601409.us.archive.org/14/items/nsn-overview-noaccess_NASAJPL_rashardsJob/OPERA_L2_RTC-S1_T071*` <! filnames @blackgirlscode @whitehouse i dont know what the status of your group is 
+
+@doug-newman-nasa i found a site that talk about blooms of alge while looking at the LongBeach Community Development environmental Report [link](https://www.longbeach.gov/lbcd/planning/environmental/reports/) and someone was advertising `Drout Resistant Buffers` @la-county-isd like to mark landscape... upon looking up what that was a dealer mentions [alge @nasa-jpl](https://svs.gsfc.nasa.gov/14648/) like Oceans in bloom Discusses [https://svs.gsfc.nasa.gov/14648/](https://svs.gsfc.nasa.gov/14648/) ... [https://extension.unr.edu/publication.aspx?PubID=5008](https://extension.unr.edu/publication.aspx?PubID=5008) @UNR-HPC hi im rashard , i have a child with a girl who went to [JobCorp](https://sierranevada.jobcorps.gov/) and please know im professinoal... i dont knwo what kenya shoals said about [me @blackgirlscode `oakland`](https://community.wearebgc.org/events) [@wearebgc - wearebgc.org/](https://www.wearebgc.org/) @nasa-pds @CityOfLosangeles 
+@OWASP
+
+- Excess fertilizers can cause algae blooms, which deplete the water of oxygen, degrading the conditions for fish and other aquatic species.
+- Algae blooms produce toxins that make the water unsafe to drink or recreate in.
+- Pesticides can also negatively impact aquatic species, such as mayflies.
+ [readmore](https://extension.edu/publication.aspx?PubID=5008)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/d1726604-eb35-4801-acf4-4ffdf22d3f22" />
+
+# False Color 
+<img   alt="image" src="https://github.com/user-attachments/assets/a0bf6905-7154-45ac-85f5-bd40049f3c26" />
+
+@eu-cdse Moisture index you guys may wanna anticipate @la-county-isd, i forgot to do displacement mapping . . . ill get it at some point, ill get the mobile phone version later Ms Baass/Mitchell @usgs @Nasa-jpl 
+
+<img  alt="2026-01-27-00_00_2026-01-27-23_59_Sentinel-2_L2A_Moisture_index" src="https://github.com/user-attachments/assets/270403ff-df7d-4c34-9c2b-b342dd65b4c4" />
+
+## Thermal Anomolies
+### 1/29/2026 @la-county-isd
+[LiNK](https://firms.modaps.eosdis.nasa.gov/map/#d:24hrs;l:fires_all,countries,earth;@-118.149,33.784,12.516z)
+<img  alt="image" src="https://github.com/user-attachments/assets/0b31d621-332a-4de3-b564-66a8718640e8" />
+
+# NASA Shuttle Radar Topography Mission Global 1 arc second V003
+[DATASET](https://www.earthdata.nasa.gov/data/catalog/lpcloud-srtmgl1-003)
+Land Processes DAAC (LP DAAC) @nasa-jpl @blackgirlscode @cbsla @cbsnews [map](https://search.earthdata.nasa.gov/search/granules/collection-details?p=C2763266360-LPCLOUD&pg[0][v]=f&pg[0][gsk]=-start_date&g=G2821077792-LPCLOUD&sb[0]=-118.19694%2C33.75511%2C-118.16442%2C33.78456&lat=33.5&long=-118.48160743382353&zoom=9.900442693693964)
+
+<div class="tupperware">
+
+<img   alt="image" src="https://github.com/user-attachments/assets/ba06a244-3d42-4ac7-9489-21f3a9b79a9d" />
+<img   alt="image" src="https://github.com/user-attachments/assets/6fbc3f35-fcf8-43ec-914b-56ffde18edf5" />
+
+</div>
+
+
+
+Los Angeles - Long Beach Harbors, CA
+March 16, 2015 
+In southern California, the combined ports of Los Angeles and Long Beach account for 33% of the nation’s containerized imports. In early March, a long-lasting labor dispute between the longshoremen’s union and shipowners came to an end, and the large backlog of waiting cargo ships was being slowly unloaded. The left image was acquired July 4, 2014 during normal operations: 14 ships are being unloaded, while 7 wait their turns near the facilities. The right image was acquired on March 8, 2015: 19 ships are moored at unloading docks, while 47 ships wait their turns. The images cover an area of 16.7 x 18.6 km, and are located at 33.7 degrees north, 118.2 degrees west.
+[Read](https://www.jpl.nasa.gov/images/pia19249-los-angeles-long-beach-harbors-ca/) : [ASTER](https://asterweb.jpl.nasa.gov/gallery-detail.asp?name=harbors)
+@la-county-isd @nasa-openscapes @cityoflosangeles @stateofcalifornia
+
+![https://d2pn8kiwq2w21t.cloudfront.net/images/jpegPIA19249.width-1024.jpg](https://d2pn8kiwq2w21t.cloudfront.net/images/jpegPIA19249.width-1024.jpg)
+
+
+![2025-12-01-00_00_2025-12-01-23_59_Sentinel-1_IW_RGB_Ratio](https://github.com/user-attachments/assets/876af00f-ad70-414e-a462-7a2bd773cbba)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/5c7f0846-3a10-4f0a-9110-c5ebe7c2359f" />
+
+
 [Psychological impact of false accusations of sexual abuse](https://www.youtube.com/watch?v=scSQc9iauuw)    [Some sort of satellite breaking apart and entering the atmosphere. Spotted Santa Monica Beaach](https://www.reddit.com/r/LosAngeles/comments/1dr5grs/some_sort_of_satellite_breaking_apart_and/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button&onetap_auto=true&one_tap=true)
+
+[JPL Fire Victim interview](https://youtu.be/HrJl3sBOUo4?si=RxPGyj7hfKLXQepA)
+
+@blackgirlscode @normani [ThursdayDump vlogscreen-20250227-090209](https://archive.org/details/screen-20250227-090209) theres LA_RiVER Footage for today @Nasa-JPl @usgs 
+
+[National Water Dashboard](https://dashboard.waterdata.usgs.gov/app/nwd/en/) [Related Tweet](https://x.com/RicoThaka/status/1893818593155899603)
+![water data dashboard](https://pbs.twimg.com/media/GkgxSekaEAATA7B?format=jpg&name=medium) 
+[Hollywood Resivior-kcal news climate data](https://youtu.be/vHrRy0elIj0?si=BmrQfvaqqTtnG0Bw) @nasa
+
+
+[Latrice](https://www.wkbn.com/news/local-news/local-experts-talk-best-ways-to-spend-tax-money/)
+
 
 [Los Angeles City Council looks into private security to deter high-rise graffiti](https://www.dailynews.com/2024/04/02/los-angeles-city-council-looks-into-private-security-to-deter-high-rise-graffiti/)
 
@@ -63,10 +145,12 @@ date:   2026-02-07 8:51:06
 
 
 
-<style>img[alt="whiteslavery"] {
+<style>
+  img[alt="whiteslavery"] {
   max-width: 15%;
   float: right;
-}</style>
+}
+</style>
 
 <img src="https://sexualtracking.weebly.com/uploads/5/2/7/4/52741633/9657864.jpg" alt="WhiteSlaveTraffick" width="322" height="480" />
 
@@ -1069,6 +1153,7 @@ encouraging meaningless expenditures that reduce the capability for political an
 [https://rashard-ecostress-jpl-iss.github.io/](https://rashard-ecostress-jpl-iss.github.io/)
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A41325407&color=%23562615&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/brandy2012" title="Brandy2012" target="_blank" style="color: #cccccc; text-decoration: none;">Brandy2012</a> · <a href="https://soundcloud.com/brandy2012/show-dat-bra-timbaland-feat" title="Show-Dat-Bra - Timbaland feat. Bran&#x27;Nu &amp; Attitude" target="_blank" style="color: #cccccc; text-decoration: none;">Show-Dat-Bra - Timbaland feat. Bran&#x27;Nu &amp; Attitude</a></div>
+
 
 
 

@@ -3,7 +3,7 @@ layout: post
 title:  "Notes for @nasa-jpl HR"
 published: true
 permalink: /for_nasa_jpl_hr
-tags: earth nsn "Near Space Network" gds 
+tags: earth nsn hr "Near Space Network" gds 
 image: womeninscience.jpg
 author: "RashardKelly @nasa-jpl"
 ---
@@ -17,6 +17,168 @@ author: "RashardKelly @nasa-jpl"
 
 
 
+<picture>
+ 
+  <source
+    srcset="https://github.com/user-attachments/assets/bfc50bfe-972a-48ab-b6b2-b098f0666e6b"
+  />
+    <source
+    srcset="https://planetarydata.jpl.nasa.gov/images/PDSIMG_logo.png"
+  />
+  <img width="933" height="176" alt="image" src="https://github.com/user-attachments/assets/bfc50bfe-972a-48ab-b6b2-b098f0666e6b" />
+  
+</picture>
+
+
+
+@nasa-jpl i dont know how to write if things are changing a lot 
+
+Memorandum for Chief Human Capital Officers [READ](https://www.opm.gov/chcoc/latest-memos/2025-guide-to-telework-and-remote-work-in-the-federal-government.pdf)
+From: Veronica E. Hinton
+Associate Director
+Workforce Policy and Innovation
+Subject: **Guide to Telework and Remote Work in the Federal Government**
+On January 20, 2025, President Donald J. Trump signed a Presidential Memorandum
+(PM) titled, [Return to In-Person Work](https://www.federalregister.gov/documents/2025/01/28/2025-01907/return-to-in-person-work), which instructed Executive department and
+agency heads to “take all necessary steps to terminate remote work arrangements and
+require employees to return to work in-person at their respective duty stations on a
+full-time basis.” 
+[web.archive.org/web/20251207034849/https://www.opm.gov/policy-data-oversight/future-of-the-workforce/hybrid-work-environment-toolkit/prepare-to-transition-checklist.pdf](https://web.archive.org/web/20251207034849/https://www.opm.gov/policy-data-oversight/future-of-the-workforce/hybrid-work-environment-toolkit/prepare-to-transition-checklist.pdf)
+[https://www.opm.gov/policy-data-oversight/future-of-the-workforce/hybrid-work-environment-toolkit/prepare-to-transition-checklist.pdf](https://www.opm.gov/policy-data-oversight/future-of-the-workforce/hybrid-work-environment-toolkit/prepare-to-transition-checklist.pdf)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/8bc48576-6d40-433a-be16-3152cd355a62" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/9302b59f-ecb5-4bfc-8642-64ed7c598e4f" />
+
+
+@Nasa-pds
+While using the [DeepSpaceNetwork](https://www.nasa.gov/communicating-with-missions/dsn/) monitoring tool [DSN _NOW_](https://eyes.nasa.gov/apps/dsn-now/dsn.html) and soaw Juno transmitting data. I dont know who controls these things , but @usgs stores in more portable formats... I guess its architecture to explore for the lab, Alot of sites are here on github @CityOfLosAngeles Karenbass / HollyMitchell i spend a lot of time browsing because wheni find repos i can work, thats how we work in this era 
+
+### DOD Instruction 1035.01, “Telework and Remote Work”
+@blackgirlscode [VirtiservAstro](https://www.facebook.com/thevirtiservway/) Remember im from the garage / fire dept so im learning how to file @la-county-isd @StateOFCalifornia they sent me on a scavenger hunt --- @newshour 
+
+DOD Instruction 1035.01, “Telework and Remote,” establishes policy, assigns responsibilities, and prescribes procedures for implementing DOD telework and remote work programs. This policy replaces DOD Instruction 1035.01, “Telework Policy,” dated April 4, 2012.
+
+@deptofdefense @nasa-giss 
+[Telework and Remote Work Toolkit](https://www.dcpas.osd.mil/policy/worklife/telework-remote-work)
+
+[dcpas.osd.mil/sites/default/files/2025-02/Initial%20Department%20of%20Defense%20Implementation%20Guidance%20Return%20to%20In-Person%20Work.pdf](https://www.dcpas.osd.mil/sites/default/files/2025-02/Initial%20Department%20of%20Defense%20Implementation%20Guidance%20Return%20to%20In-Person%20Work.pdf)
+<img   alt="image" src="https://github.com/user-attachments/assets/ef7c0603-3103-4eb8-8cf7-bb6febaf9a79" />
+
+<table><tbody><tr><td>&nbsp;</td></tr><tr><td><table><tbody><tr><td>&nbsp;</td></tr><tr><td><img src="https://nasaevents.webex.com/customfaize/13036457/mail/616445417/logo.png" width="99" height="99"></td></tr><tr><td>&nbsp;</td></tr></tbody></table><table><tbody><tr><td><table><tbody><tr><td>&nbsp;Thank you for attending:</td></tr></tbody></table><br><table><tbody><tr><td><strong>Part 1 - Introduction and Demonstration of STREAM</strong></td></tr><tr><td>&nbsp;<br>All training materials associated with this training will be found on the training webpage here:<br><a href="https://www.earthdata.nasa.gov/learn/trainings/monitoring-water-quality-lakes-coastal-regions-using-stream" target="_blank">https://www.earthdata.nasa.gov/learn/trainings/monitoring-water-quality-lakes-coastal-regions-using-stream</a></td></tr></tbody></table><table><tbody><tr><td>&nbsp;</td></tr></tbody></table><table><tbody><tr><td>Tuesday, February 10, 2026</td></tr><tr><td>2:00 PM&nbsp;&nbsp;|&nbsp;&nbsp;(UTC-05:00) Eastern Time (US &amp; Canada)&nbsp;&nbsp;|&nbsp;&nbsp;1 hr 30 min</td></tr></tbody></table></td></tr></tbody></table><table><tbody><tr><td>&nbsp;</td></tr><tr><td>Need help? Go to <a href="https://help.webex.com">https://help.webex.com</a></td></tr><tr><td>&nbsp;</td></tr></tbody></table></td></tr><tr><td><table><tbody><tr><td>&nbsp;</td></tr><tr><td>© 2026 Cisco and/or its affiliates. All rights reserved.&nbsp;&nbsp; <a href="https://www.webex.com/webex_privacy.html">Privacy Statement</a> &nbsp;|&nbsp; <a href="https://www.webex.com/webex_terms.html">Terms of Service</a></td></tr></tbody></table></td></tr></tbody></table>
+
+_Overview of the FITS Data Format_ [Link - heasarc.gsfc.nasa.gov/docs/heasarc/fits_overview.html](https://heasarc.gsfc.nasa.gov/docs/heasarc/fits_overview.html) [[1](https://danmoser.github.io/notes/gai_fits-imgs.html)]
+FITS was originally developed in the late 1970's as an archive and interchange format for astronomical data files. In the past decade FITS has also come into wide use as an on-line file format that can be directly read and written by data analysis software. FITS is much more than just another image format (such as JPG or GIF) and is primarily designed to store scientific data sets consisting of multidimensional arrays and 2-dimensional tables containing rows and columns of data.
+@blackgirlscode @nasa-pds im going to check on [juno](https://pds-ppi.igpp.ucla.edu/mission/JUNO) @la-county-isd was the big bear man angry with me with the isd hat on @LACMTA? 
+
+[Deep Space Network Explainer Video: How Do We Know Where Faraway Spacecraft Are?](https://www.nasa.gov/stem-content/deep-space-network-explainer-video-how-do-we-know-where-faraway-spacecraft-are/) `books` [Uplink-Downlink A History of the `Deep Space Network` 1957–1997](https://www.nasa.gov/wp-content/uploads/2023/04/sp-4227.pdf) :: [Deep Space Telecommunications Systems Engineering 1982](https://ntrs.nasa.gov/api/citations/19830013955/downloads/19830013955.pdf) [Read You Loud and Clear! - _dEEPsPACEnETWORK @NASA-JPL_](https://ntrs.nasa.gov/api/citations/20080020389/downloads/20080020389.pdf) The Story of NASA's Spaceflight Tracking and Data Network [Satellite Data Explorer](https://csdap.earthdata.nasa.gov/) :: [How to compete for NASA contracts @blackgirlscode](https://ntrs.nasa.gov/api/citations/19930021455/downloads/19930021455.pdf) [Rover ControL an Planning Software ](https://human-factors.arc.nasa.gov/publications/COCPIT_Mars_Perseverance_Rover.pdf) [AMMOS offers an Suite of tools for Real-time Monitoring and Control of a Spacecraft](https://ammos.nasa.gov/pdf/Brochure-Monitor-Control-Solution.pdf) part of the - Ground Data System (GDS) tool suite 
+
+<img   alt="image" src="https://github.com/user-attachments/assets/8216048e-0012-4942-b306-2930a9dd119a" />
+
+The Picture element [docs](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/picture) @mdn @geeksforgeeks [Tut](https://www.w3schools.com/tags/tag_picture.asp) @w3schools @blackgirlscode @la-county-isd @cityoflosangeles @stateofcalifornia
+
+```
+<picture>
+ 
+  <source
+    srcset="https://github.com/user-attachments/assets/bfc50bfe-972a-48ab-b6b2-b098f0666e6b"
+  />
+    <source
+    srcset="https://planetarydata.jpl.nasa.gov/images/PDSIMG_logo.png"
+  />
+  <img width="933" height="176" alt="image" src="https://github.com/user-attachments/assets/bfc50bfe-972a-48ab-b6b2-b098f0666e6b" />
+  
+</picture>
+
+```
+
+
+
+# Mars Reconnaissance Orbiter 
+>Jim Taylor, Dennis K. Lee, and Shervin Shambayati 
+## 6.1 Mission Overview
+[<img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Mars_Reconnaissance_Orbiter_insignia.png" alt="Thanks for SPaceforce Donald, Thanks for Protecting Oaklands girls like Erika so she still have her oakland grandchild re: constancia, bernadette" />](https://upload.wikimedia.org/wikipedia/commons/6/6b/Mars_Reconnaissance_Orbiter_insignia.png) 
+
+The Mars Reconnaissance Orbiter (MRO) [1, 2] has a suite of instruments
+making observations at Mars, and it provides data-relay services for Mars
+landers and rovers. MRO was launched on August 12, 2005. The orbiter
+successfully went into orbit around Mars on March 10, 2006 and began
+reducing its orbit altitude and circularizing the orbit in preparation for the
+science mission. The orbit changing was accomplished through a process called aerobraking, in preparation for the “science mission” starting in November
+2006, followed by the “relay mission” starting in November 2008. MRO
+participated in the Mars Science Laboratory touchdown and surface mission
+that began in August 2012 (Chapter 7). [ReadMore - PDF](https://descanso.jpl.nasa.gov/monograph/series13/DeepCommo_Chapter6--141029.pdf) NASA's Mars Reconnaissance Orbiter searches for evidence that water persisted on the surface of Mars for a long period of time. [ActiveMission - DoD](https://science.nasa.gov/mission/mars-reconnaissance-orbiter/)
+
+
+coursework @nasa [flexSizing tupperware ricothaka](https://codepen.io/ricoThaka/pen/vEYELoB)
+
+@la-county-isd please share with @whitehouse @blackgirlscode Kim_Bryant its an oldd update fro like 2 years ago . . . I have been working from Mozilla Web Developers Documentation. ITs @nasa-jpl coursework if you file it right... Can you help me update whoever i need to talk to on this day about my frontend programming skills. When I set up the date theres never any touch, so we can keep that role, u your body ok... i dont own u, an if erika dead, please give me a good story so i can wed [yo fine ass](https://www.youtube.com/watch?v=FKXSh14svlQ&themeRefresh=1) ° [Moon to Mars Program](https://www.nasa.gov/wp-content/uploads/2023/11/moon-to-mars-nac-nov-2023-v2.pdf) π [NASA org Chart](https://www.nasa.gov/wp-content/uploads/2023/10/nasa-org-chart-oct-2023.pdf) [OrgChartBae](https://www.nasa.gov/history/historical-organizational-charts/) [SpaceWeatherhthatsMEblackgirlscode](https://science.gsfc.nasa.gov/heliophysics/spaceweather/orgchart) [MarsSampleReturn](https://science.nasa.gov/wp-content/uploads/2024/01/smd-web-org-chart-1-29-24.pdf) ,💯✌️👀🙇🏾‍♂️🌬️🍦🗿🕋🕌🏬🛕⛪💒📟📠🔌💻🖥️⌨️📀💿💾💽📞☎️📱🪫### Mars MissionObjectives [MArs Reconnocinse Orbiter](https://hirise-pds.lpl.arizona.edu/PDS/CATALOG/MISSION.CAT)
+[WipEout® OST [PSX]: CoLD SToRAGE - Messij](https://youtu.be/4uQnXvRndcE?si=Shb49Z9P4TdnkV2s) [California Constitution](https://archives.cdn.sos.ca.gov/collections/1879/archive/1879-constitution.pdf)
+[1879 California Constitution](https://archives.cdn.sos.ca.gov/collections/1879/archive/1879-constitution.pdf) [Equal Rights Amendments: State Provisions](https://web.archive.org/web/20140517123130/https://digital.library.unt.edu/ark:/67531/metacrs7397/m1/1/high_res_d/RS20217_2004Aug23.pdf)  [1849 California Constitution (spanish)](https://archives.cdn.sos.ca.gov/collections/1849/images/1849Constitucion2.pdf) [PDS Cartography and Imaging Sciences Node - WebTool](https://pds-imaging.jpl.nasa.gov/beta/search) [Computer Ethics 4th ed. Deborah G. Johnson](https://github.com/ricoThaka/ricothaka.github.io/blob/pixelsquare/assets/pdf/computer-ethics-4e_compress.pdf)
+
+[https://rashardgds.github.io/](https://rashardgds.github.io/) :: [https://github.com/rashardgds](https://github.com/rashardgds)
+@bLACKGIRLSCODE [https://inside.wooster.edu/technology/kimberly-bryant/](https://inside.wooster.edu/technology/kimberly-bryant/) [https://obamawhitehouse.archives.gov/champions/tech-inclusion/kimberly-bryant](https://obamawhitehouse.archives.gov/champions/tech-inclusion/kimberly-bryant)
+
+hi @blackgirlscode, i hope all of you are doing ok. Since i got blocked from facebook my access to [kim](https://www.linkedin.com/in/kimberlybryant) has significantly dropped, [Normani](https://youtu.be/2-4uA8CPg6o?si=wVVaTFfKLoHgibo4) tied up with the people from her world, but says hi oon the street . .  [Brandy](https://www.youtube.com/watch?v=qSIOp_K5GMw)... idk i thnk theres 2 girls that play normani, but I think the normani that was in your pics that asked me to kee you in my loop @nasa-jpl / @podaac is brandy, ... that song [tantrums](https://youtu.be/2-4uA8CPg6o?si=wVVaTFfKLoHgibo4), idk she may have been mad at me and some of my responsibility shifted... I hope you know of her at least... I think She famous in music... But [LatriceFitzpatrick](https://www.wkbn.com/news/local-news/local-experts-talk-best-ways-to-spend-tax-money/), and I forgot,... We were at [O4wSkatePArk](https://www.reddit.com/r/mfdoom/comments/zcnzzu/graffiti_mural_at_historic_old_fourth_ward_skate/) in the grafitti area and she sat with me like 4hrs while i painted and i tink she might be a cop, but either way i went on public dates with her. She lookes enough like brandy to impersonate her, there are suddle bust size differences and brandy has a bigger butt, however, with complexion changers I know i got played but they were doing different things taht crossed paths. Im so detached fro Coral I want you to know i was thinking of you bc i want you to know im not into porn and not stalking any of you and at this poit i know kim work @whitehouse so [@nasa-jpl](https://www.jpl.nasa.gov/virtual-tour/) is her garage and we have a moon launch in about 3 weeks. Whatever the case someone stole my medicinal weed i scored. Im a legal pateint here if someone parent is afraid @la-county-isd Karen Bass is in congress and will be talking to me soon either way so put [Kim](https://obamawhitehouse.archives.gov/champions/tech-inclusion/kimberly-bryant) anyy concerns about me, because i need to talk to her anyway, brandy,normani and latrice help keep me online. [KashDoll](https://www.youtube.com/watch?v=VxXRkTkZL5w) account saved our mission in someways because i was able to get files i retrived from a department of defense satellite to the lab, so the deals i made with them, they still holding to. But I dont know what [men are in their life](https://www.youtube.com/watch?v=FiGAkDE7s7o), i get dumped alot, but im safe im not a danger in that way _[Review of PC 647(i) & PC 647(j) California's Peeping Tom Laws_](https://www.egattorneys.com/peeping-tom-laws-in-california)
+
+
+## About the United States Space Force
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Logo_of_the_United_States_Space_Force.png/188px-Logo_of_the_United_States_Space_Force.png" alt="Thanks for SPaceforce Donald, Thanks for Protecting Oaklands girls like Erika so she still have her oakland grandchild re: constancia, bernadette United States Space Force" />](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Logo_of_the_United_States_Space_Force.png/188px-Logo_of_the_United_States_Space_Force.png) [The U.S. Space Force](https://www.spaceforce.mil/About-Us/) was established on Dec. 20, 2019, creating the first new branch of the armed services since 1947. The establishment of the USSF resulted from widespread recognition that space is a national security imperative. When combined with the growing threat posed by strategic competitors in space, it became clear that there was a need for a military service focused solely on pursuing superiority in the space domain. [US SPACE Force 101 - PDF](https://www.spaceforce.mil/Portals/2/Documents/SF101/ussf_101_glossy_FINAL_e-version.pdf)
+
+<video controls preload="none" 
+  src="https://d34w7g4gy10iej.cloudfront.net/video/2406/DOD_110409447/DOD_110409447-1024x576-2000k.mp4"
+  poster="https://media.defense.gov/2024/Jul/17/2003504898/2000/2000/0/240716-D-AF999-2001.PNG">
+
+  Sorry, your browser doesn't support embedded videos, but don't worry, you can
+  <a href="https://d34w7g4gy10iej.cloudfront.net/video/2406/DOD_110409447/DOD_110409447-1024x576-2000k.mp4">download it</a>
+  and watch it with your favorite video player!
+</video>
+
+![![SPACE FORCE 101](https://www.spaceforce.mil/portals/2/Documents/SF101/ussf_101.png)](https://www.spaceforce.mil/portals/2/Documents/SF101/ussf_101.png)
+
+
+
+@blackgirlscode I saw [Latrice](https://www.facebook.com/tremaine.wills/posts/join-the-conversation-with-la-trice-monique-of-virtiserv-llc-happening-live-in-g/10217558335701413/) with facetatoos, soo, im her rebound nigga like that, i dont want it too look like im trying to date another girl,,, the roster is already embarrasssing [consensually](https://www.merriam-webster.com/dictionary/consensual) @blackgirlscode so i may be single right now, but its the single thats not and i dont want to lead anyone on @blackgirlscode @CityOfLosAngeles @nasa-pds @Nasa-jpl @doug-newman-nasa `dance411` [hi](https://www.youtube.com/c/Dance411) @nasa thats where i was on saturday morning [HollyMitchll](https://www.youtube.com/watch?v=KxN8BOcjxeI) / [KarenBass](https://youtu.be/qI08k8K3K7w?si=AmJCpRtkzjReXdvZ) and lost my way after a few girls started trying to date outside the studio @mailchimp @webb [info@keishaforgovernor.com](mailto:info@keishaforgovernor.com)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/ae596dc9-fe95-47dd-99b7-71bc601c2c9c" />
+
+# Rashard Kelly 
+ MRO JUNO iSS [ALt - github.com/kellyrashardiman/kellyrashardiman.github.io](https://github.com/kellyrashardiman/kellyrashardiman.github.io/tree/master) + [homepage alt - kellyrashardiman.github.io](https://kellyrashardiman.github.io/)
+
+
+# RE: USERNAMES
+## _RashardGDS@GMAiL.com_
+@cityoflosangeles @webb @mailchimp @nasa-jpl @nasa-pds @la-county-isd 
+
+@la-county-isd @doug-newman-nasa @nsidc @nasa [Jared](mailto:jared@shift4.com) I picked the username _` _Rashard_G_D_S_`_ after reading this document [https://www.nasa.gov/intelligent-systems-division/collaborative-and-assistant-systems/ground-and-flight-data-systems-group/](https://www.nasa.gov/intelligent-systems-division/collaborative-and-assistant-systems/ground-and-flight-data-systems-group/) Because Im still getting an understanding of how to tell people i nEed resources from what [deep space network](https://eyes.nasa.gov/apps/dsn-now/) is because of , [the film industry](https://www.youtube.com/watch?v=QSEDb0zsi3w) [[1](https://www.gov.ca.gov/2025/10/21/governor-newsom-announces-tax-credit-awards-for-new-job-creating-films-shooting-in-california-and-generating-1-4-billion-for-the-states-economy/)[[2](https://x.com/CAgovernor/status/1919596799633117360) [[3](https://youtu.be/vbInwfrzXC0?si=c-yPxiFNgFQTHY0A)]
+Star Trek: Deep Space Nine [TRAILER](https://youtu.be/2-xCyIuovLo?si=qfYnQN_3W7ekebcT) @NASA-PDS 
+@StateOfCalifornia 
+
+[Deep Space Network Explainer Video: How Do We Know Where Faraway Spacecraft Are?](https://www.nasa.gov/stem-content/deep-space-network-explainer-video-how-do-we-know-where-faraway-spacecraft-are/) `books` [Uplink-Downlink A History of the `Deep Space Network` 1957–1997](https://www.nasa.gov/wp-content/uploads/2023/04/sp-4227.pdf) :: [Deep Space Telecommunications Systems Engineering 1982](https://ntrs.nasa.gov/api/citations/19830013955/downloads/19830013955.pdf) [Read You Loud and Clear! - _dEEPsPACEnETWORK @NASA-JPL_](https://ntrs.nasa.gov/api/citations/20080020389/downloads/20080020389.pdf) The Story of NASA's Spaceflight Tracking and Data Network 
+[Satellite Data Explorer](https://csdap.earthdata.nasa.gov/) :: [How to compete for NASA contracts @blackgirlscode](https://ntrs.nasa.gov/api/citations/19930021455/downloads/19930021455.pdf) [Rover ControL an Planning Software ](https://human-factors.arc.nasa.gov/publications/COCPIT_Mars_Perseverance_Rover.pdf) [AMMOS offers an Suite of tools for Real-time Monitoring and Control of a Spacecraft](https://ammos.nasa.gov/pdf/Brochure-Monitor-Control-Solution.pdf) part of the - Ground Data System (GDS) tool suite 
+
+
+<img width="330" height="86" alt="image" src="https://github.com/user-attachments/assets/7b792390-1ed3-406e-b4df-d49b40b71141" />
+
+[Ground & Flight Data Systems Group](https://www.nasa.gov/intelligent-systems-division/collaborative-and-assistant-systems/ground-and-flight-data-systems-group/)  creates systems to facilitate transmission and processing of data between spacecraft, rovers, satellites, ground control, and distributed mission teams. Data ranges from communications, telemetry, and Integrated Systems Health Management (ISHM) data, to planetary, astrophysical, medical, and biological science research data and analytics. Ground processing of data is accomplished by science pipeline data systems, which transform raw, uncorrected, uncalibrated data into usable products for the science community. GFDS designs systems to satisfy carefully defined and documented user requirements involving the secure handling of sensitive and irreplaceable mission data. The group supports space and planetary exploration missions, as well as Earth and space sciences, small satellite, and aeronautics missions and projects. [The Mars 2020 Ground Data System Architecture](https://ntrs.nasa.gov/citations/20230007026)
+[The Mars Observer Camera Ground Data System](https://earthobservatory.nasa.gov/images/event/153817/los-angeles-fires-2025) [https://www.msss.com/mars/observer/camera/papers/gds_papers/aiaa.html](https://www.msss.com/mars/observer/camera/papers/gds_papers/aiaa.html)
+[Eaton Fire Leaves California Landscape Charred](https://earthobservatory.nasa.gov/images/153821/eaton-fire-leaves-california-landscape-charred?utm_source=TWITTER&utm_medium=NASAEarth&utm_campaign=NASASocial&linkId=715793698)
+
+[This document is the AMMOS Catalog, Version 5.1 for the Multimission Ground Systemand Services (MGSS) Program, Interplanetary Network Directorate (IND) Office](https://ammos.nasa.gov/pdf/AMMOS_Catalog-V5_2_Public_Release.pdf) The capabilities described in this AMMOS Catalog are intended to serve as guidance
+and as the ‘gold source’ capability descriptions when developing Service Level
+Agreements (SLAs) with mission customers
+
+<img  alt="image" src="https://github.com/user-attachments/assets/56d3cd2a-3e2b-4b0b-b5fb-5f7bd22282fd" />
+
+<img alt="image" src="https://github.com/user-attachments/assets/293b2dae-f62c-4c31-a45a-8d287fd7a01a" />
+
+<img alt="image" src="https://github.com/user-attachments/assets/6919dcd9-58b8-49c5-a63f-8ecb458b5b5c" />
+
+[ROVERsFromLOSANGELES](https://thakarashard.github.io/rashardmro/2025/12/23/JPL-RoverWorLD.html)
+
+
+_This branch is 4 commits ahead of and 106 commits behind ThakaRashard/rashardmro:master._
+[https://github.com/krashardiman-ctrl/rashardmro/compare/master...ThakaRashard%3Arashardmro%3Amaster](https://github.com/krashardiman-ctrl/rashardmro/compare/master...ThakaRashard%3Arashardmro%3Amaster)
 
 {{ site.time | date: '%B %d, %Y' }} {{ page.date }} pagedate {{ page.date | date: '%B %d, %Y' }} This page was last updated at {{ "now" | date: "%Y-%m-%d %H:%M" }}.
 # Currently Compling g_e, [m/s^2](https://eyes.nasa.gov/apps/dsn-now/dsn.html)
