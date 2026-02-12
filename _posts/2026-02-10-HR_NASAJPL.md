@@ -75,8 +75,7 @@ FITS was originally developed in the late 1970's as an archive and interchange f
 
 <img   alt="image" src="https://github.com/user-attachments/assets/8216048e-0012-4942-b306-2930a9dd119a" />
 
-
-<picture>: The Picture element [docs](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/picture) @mdn @geeksforgeeks [Tut](https://www.w3schools.com/tags/tag_picture.asp) @w3schools @blackgirlscode @la-county-isd @cityoflosangeles @stateofcalifornia
+The Picture element [docs](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/picture) @mdn @geeksforgeeks [Tut](https://www.w3schools.com/tags/tag_picture.asp) @w3schools @blackgirlscode @la-county-isd @cityoflosangeles @stateofcalifornia
 
 ```
 <picture>
