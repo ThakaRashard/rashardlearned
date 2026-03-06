@@ -27,7 +27,13 @@ date:   2026-02-10 8:51:06
 
 {% endhighlight %}
 
+<img  alt="image" src="https://github.com/user-attachments/assets/a8f5dced-70be-4b31-a8c1-13273fd94ace" />
 
+# Special Joint Meeting 
+_- Ad Hoc Committee on Unarmed Crisis Prevention and Transportation Committee_
+@nasa-jpl @emit-sds @blackgirlscode there is some talk about the attackes on unarmed people. I saw Chloe on the train with spots on her face like i have on my butt @la-county-isd she work for @disney
+
+## Groundwater Declines in the U.S. Southwest
 ![Groundwater Declines in the U.S. Southwest](https://eoimages.gsfc.nasa.gov/images/imagerecords/152000/152970/groundwater_grace_2023_lrg.jpg)
 
 
@@ -1153,6 +1159,7 @@ encouraging meaningless expenditures that reduce the capability for political an
 [https://rashard-ecostress-jpl-iss.github.io/](https://rashard-ecostress-jpl-iss.github.io/)
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A41325407&color=%23562615&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/brandy2012" title="Brandy2012" target="_blank" style="color: #cccccc; text-decoration: none;">Brandy2012</a> · <a href="https://soundcloud.com/brandy2012/show-dat-bra-timbaland-feat" title="Show-Dat-Bra - Timbaland feat. Bran&#x27;Nu &amp; Attitude" target="_blank" style="color: #cccccc; text-decoration: none;">Show-Dat-Bra - Timbaland feat. Bran&#x27;Nu &amp; Attitude</a></div>
+
 
 
 
