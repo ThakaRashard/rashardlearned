@@ -35,6 +35,14 @@ date:   2026-03-04 8:51:06
 
 
 Alabama Water
+@LongBeachInnovationTeam can you give this map link to the lady singing @la-county-isd [MAP-LiNK_FOR_CONSTANCiA_DORiS_TERESA_TO_SEE_I_REALLY_WOERK @nasa-jpl](https://worldview.earthdata.nasa.gov/?v=-101.674789706352,25.739178883903104,-77.66885121236807,42.099036537622425&as=2026-02-24-T00%3A00%3A00Z&ae=2026-03-06-T00%3A00%3A00Z&l=Reference_Labels_15m(hidden),Reference_Features_15m(hidden),Coastlines_15m(hidden),MODIS_Terra_Thermal_Anomalies_Night(hidden),MODIS_Terra_Thermal_Anomalies_Day,VIIRS_NOAA20_Thermal_Anomalies_375m_Night,VIIRS_NOAA20_Thermal_Anomalies_375m_Day,MODIS_Aqua_Thermal_Anomalies_Night,MODIS_Aqua_Thermal_Anomalies_Day,VIIRS_SNPP_Thermal_Anomalies_375m_Night,VIIRS_SNPP_Thermal_Anomalies_375m_Day,VIIRS_NOAA20_CorrectedReflectance_TrueColor(hidden),VIIRS_SNPP_CorrectedReflectance_TrueColor(hidden),MODIS_Aqua_CorrectedReflectance_TrueColor(hidden),MODIS_Terra_CorrectedReflectance_TrueColor&lg=true&al=true&ab=on&t=2026-03-06-T00%3A00%3A00Z) @emit-sds [ERiKA_JOHNSON](https://www.essence.com/news/erika-renee-johnson-kelly-found-georgia/) i wanna see coral !
+CHiEFMONROE thers big fires in georgia is Kevin Johnson ok? https://www.star.nesdis.noaa.gov/goes/sector_band.php?sat=G19§or=smv&band=FireTemperature&length=150&dim=1 && https://www.star.nesdis.noaa.gov/goes/ &&& 
+Why is the Fire Temperature RGB imagery Important?
+
+[star.nesdis.noaa.gov/goes/documents/QuickGuide_Fire_Temperature_RGB.pdf](https://www.star.nesdis.noaa.gov/goes/documents/QuickGuide_Fire_Temperature_RGB.pdf) &&& [longbeach.gov/lbtv](https://www.longbeach.gov/lbtv) +++ [cdn.star.nesdis.noaa.gov/GOES19/ABI/SECTOR/se/FireTemperature/GOES19-SE-FireTemperature-600x600.mp4](https://cdn.star.nesdis.noaa.gov/GOES19/ABI/SECTOR/se/FireTemperature/GOES19-SE-FireTemperature-600x600.mp4) < explosion ?> [cdn.star.nesdis.noaa.gov/GOES19/ABI/SECTOR/smv/FireTemperature/GOES19-SMV-FireTemperature-600x600.mp4](https://cdn.star.nesdis.noaa.gov/GOES19/ABI/SECTOR/smv/FireTemperature/GOES19-SMV-FireTemperature-600x600.mp4) Erika i love you LAtrice NOrmani Muna if you still alive Brandy Monica YungMiami305! CORAL! @blackgirlscode i hope you safe i see a lot of scary activity out there! 
+
+<img  alt="image" src="https://github.com/user-attachments/assets/7a53cce9-b71f-4a16-80d7-03290d26ebf2" />
+
 @nasa-giss @nasa-jpl
 @eu-cdse @la-county-usd @LACountyDPH
 SuperVisorHolly? MayorKaren, SuperHilda? hi i wanted to say that identity fraud is a big thing but we need some balance because a lot of the unconstitutional terraformina has displaced people! I sent an email to Chief Monroe that had fire temp maps and i think we gotta get a little more hospitable with good citizens because the criminals are corrupting our habitat @cityoflosangeles [MAP - LiNK](https://browser.dataspace.copernicus.eu/?zoom=10&lat=34.16295&lng=-82.62543&themeId=DEFAULT-THEME&visualizationUrl=U2FsdGVkX19PJl8XrmakjhB%2BUGxDpwaifu50y6wTiL7Y1vpjd8Th1cUEbMjxbkmOjcrm0H%2FofzNNQDva5JfKKkjIfSNPCtjbZ6P8tx%2B%2FWAPntzCI1Yz7XZrb%2B40eiPbj&datasetId=S2_L2A_CDAS&fromTime=2026-03-01T00%3A00%3A00.000Z&toTime=2026-03-01T23%3A59%3A59.999Z&layerId=2_FALSE_COLOR&demSource3D=%22MAPZEN%22&cloudCoverage=30&dateMode=SINGLE)
@@ -497,6 +505,7 @@ hi brandy im starting to think you are latrice . . . @nasa-jpl i could get hurt!
 
 ![Skid row los angeles](https://tile.loc.gov/storage-services/service/pnp/vrg/00100/00160v.jpg)<caption>441 Towne Ave., Skid Row, Los Angeles, 2007</caption>
 ![San Pedro 1999](https://tile.loc.gov/storage-services/service/pnp/vrg/00100/00157v.jpg) <caption>San Pedro St. at 7th St., LA, 2006</caption>
+
 
 
 
