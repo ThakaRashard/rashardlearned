@@ -28,6 +28,25 @@ date:   2026-02-10 8:51:06
 {% endhighlight %}
 
 
+@LACountyDPH Leslie Cooper Johnson [[1](https://voyagela.com/interview/check-out-leslie-cooper-johnsons-story/)] please read over [this abstract](https://ui.adsabs.harvard.edu/abs/2023AGUFMIN31B0651D/abstract). People on computers can be creepy, so i want you guys to learn more about my mission on earth, _plz add_ `NonReliGiousTonaliTY` @nasa-jpl @emit-sds @doug-newman-nasa @nasa @whitehouse @atfweb and @blackgirlscode i send messages because mee and [Normani](https://www.youtube.com/watch?v=6ybbe7yX4_c) went out on a date and i made commitments to her dance  responsiblities, and she wanted me to share my data for lesson plans homeschooling like a lot of practical things. You know playboy a brothel... But they were my neigbors and had a fake name `Dance411` @dhs-gov Normani forced me to be her boyfirend because i was a jehovah witness and erika dumped me! Because she was cyber bullied, she doesnt even put out and im getting poisoned! [`1watch?v=6ybbe7yX4_c`Fifth Harmony's Normani Kordei on dealing with horrific cyberbullying](https://www.youtube.com/watch?v=6ybbe7yX4_c) and i have about 3 girlfriends and [AlamedaCountyErika](https://www.essence.com/news/erika-renee-johnson-kelly-found-georgia/) yo cuzin Akire Sister out. Im not a Covid Rapist or [FreakNicK Gigalo](https://www.youtube.com/watch?v=6bN45f9NjlA) because they wre in blackface and [marilyn makeup](https://www.youtube.com/watch?v=FiGAkDE7s7o), aka prostehtics and made up a character, 1 named muna and another named latrice and im embarrassed scared and bleeding from chemical wounds... when we became intimate and [its like 20 of them](https://www.youtube.com/watch?v=WDZJPJV__bQ) and i nevr claimed that many, but i know 3 girls were sneaking through my french doors to cuddle with me, and now people send me castration threats!!!! @la-county-isd and i dont want to talk still Mayor Karen im so confused, thats y i said its a shit hole on @LACMTa 
+[https://ui.adsabs.harvard.edu/abs/2023AGUFMIN31B0651D/abstract](https://ui.adsabs.harvard.edu/abs/2023AGUFMIN31B0651D/abstract) @fbicyber @cisa
+
+
+@nasa-jpl @emit-sds @nasa-giss @[doug-newman-nasa](https://ui.adsabs.harvard.edu/abs/2023AGUFMIN31B0651D/abstract) hi, i think [Latrice](https://www.facebook.com/thevirtiservway/) might be [Chloe Bailey](https://www.youtube.com/channel/UCOriumHxzl4O2G7MXS7rrpQ). I saw a girl on the train @LACMTA @la-county-isd with the spots on her face like the ones on my butt. Someone put the acid on her.. my butt looks like her face her face. So i went to @disney @github and found this software.... `MaterialX`...while debugging the issue.. I dont know what the  we DSN have been doing for [eyes.nasa.gov](https://science.nasa.gov/eyes/) display but this is fabulous @podaac [https://academysoftwarefoundation.github.io/MaterialX/](https://academysoftwarefoundation.github.io/MaterialX/) // Special Joint Meeting - Ad Hoc Committee on Unarmed Crisis Prevention and Transportation Committee [watch](https://youtu.be/JRUb5umOw6M) @CityOfLosAngeles @NAsa-OPENSCAPES @blackgirlscode 
+
+<img   alt="@blackgirlscode" src="https://github.com/user-attachments/assets/0ce48051-f47a-4835-8acb-a730f38fc90e" />
+
+
+<img  alt="image" src="https://github.com/user-attachments/assets/a8f5dced-70be-4b31-a8c1-13273fd94ace" />
+
+# Special Joint Meeting 
+_- Ad Hoc Committee on Unarmed Crisis Prevention and Transportation Committee_
+## [Watch](https://www.youtube.com/live/JRUb5umOw6M?si=uDFQGdJPHhqSdfbi)
+@nasa-jpl @emit-sds @blackgirlscode there is some talk about the attackes on unarmed people. I saw Chloe on the train with spots on her face like i have on my butt @la-county-isd she work for @disney
+
+![https://media.defense.gov/2025/Jan/28/2003633313/-1/-1/0/250127-D-TT977-1051.JPG](https://media.defense.gov/2025/Jan/28/2003633313/-1/-1/0/250127-D-TT977-1051.JPG) @podaac 
+
+## Groundwater Declines in the U.S. Southwest
 ![Groundwater Declines in the U.S. Southwest](https://eoimages.gsfc.nasa.gov/images/imagerecords/152000/152970/groundwater_grace_2023_lrg.jpg)
 
 
@@ -1153,6 +1172,16 @@ encouraging meaningless expenditures that reduce the capability for political an
 [https://rashard-ecostress-jpl-iss.github.io/](https://rashard-ecostress-jpl-iss.github.io/)
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A41325407&color=%23562615&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/brandy2012" title="Brandy2012" target="_blank" style="color: #cccccc; text-decoration: none;">Brandy2012</a> · <a href="https://soundcloud.com/brandy2012/show-dat-bra-timbaland-feat" title="Show-Dat-Bra - Timbaland feat. Bran&#x27;Nu &amp; Attitude" target="_blank" style="color: #cccccc; text-decoration: none;">Show-Dat-Bra - Timbaland feat. Bran&#x27;Nu &amp; Attitude</a></div>
+
+
+
+
+
+
+
+
+
+
 
 
 
