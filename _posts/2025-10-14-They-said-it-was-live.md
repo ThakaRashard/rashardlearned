@@ -9,6 +9,17 @@ date:   2025-10-18 8:51:06
 author: RashardKelly @nasa-jpl
 ---
 
+
+LIVE: Officials give updates after attack at Michigan synagogue | @NBCNews
+@la-county-isd @nasa-jpl 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K-jC5gZWDB4?si=cfK0LmSDNohky27o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+
+@NASA's Artemis II Flight Readiness News Conference (March 12, 2026)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SpMMAdqMGWA?si=O-cbehb7IyBGYO_2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 @nasa - [GoodMorning](https://www.facebook.com/permalink.php?story_fbid=pfbid0f6kcbYJ3jmYh5vLXZrBnkRs1DfVeu8AvX7A5tigt1ENL987vCSKK4sMdwiWCHzGZl&id=100084464911565)
 ![ABC7 @blackgirlscode](https://cdn.abcotvs.net/abcotv/assets/news/global/images/feature-header/kabc-lg.svg) 
 <iframe width="640" height="360" src="https://abc7.com/video/embed/?pid=11064936" allowfullscreen frameborder="0"></iframe>
