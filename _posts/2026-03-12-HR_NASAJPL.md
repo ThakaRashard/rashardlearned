@@ -29,6 +29,211 @@ author: "RashardKelly @nasa-jpl"
   
 </picture>
 
+# Rashard Kelly NasaJpl MRO JUNO iSS
+[nasa.gov/people/jared-isaacman/](https://www.nasa.gov/people/jared-isaacman/) // [war.gov/About/Biographies/Biography/article/4040890/hon-pete-hegseth/](https://www.war.gov/About/Biographies/Biography/article/4040890/hon-pete-hegseth/)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/a34af1d3-2109-40c6-8502-9c909475c3ed" />
+
+@la-county-isd @nasa-jpl i shouted that Jeezy need to talk to pete, i missed the lauch of persevere and i traced a lot of shit back to him i said it on the playform @LACMTA @whitehouse @CityOfLosAngeles its not fair [erika is playing](https://www.essence.com/tags/erika-kelly/) violin on @npr @newshour [Watch](https://www.youtube.com/watch?v=c9vtuEH-vfk) 
+[https://www3.nasa.gov/send-your-name-with-artemis/](https://www3.nasa.gov/send-your-name-with-artemis/) // [Rapper Jeezy celebrates 20 years of 'Thug Motivation 101' with a 101-piece backing orchestra](https://www.npr.org/2025/12/14/nx-s1-5547203/rapper-jeezy-celebrates-20-years-of-thug-motivation-101-with-a-101-piece-backing-orchestra) @blackgirlscode 
+
+<img  alt="image" src="https://github.com/user-attachments/assets/118e544c-78d4-45af-8948-71cdadfb9b1f" />
+
+@doug-newman-nasa @foratlanta is dwayne cripass gooden still free? @nasa-jpl @blackgirlscode @la-county-isd
+Hey [KarenBassTheMAyor!](https://www.congress.gov/member/karen-bass/B001270) I was working remote jobs living with erika in East Atlnata! And I dont knwo what playboy did to me! But all these companies that fired me saying i was `having tooo much fun` are dark on @github like [Atlanticus](https://www.atlanticus.com/) and [iOnic](https://cloud.google.com/find-a-partner/partner/ionic-security) .. @nasa-jpl investigate them for sex trafficking @fbicyber
+
+
+[https://www.infoblox.com/solutions/dns/](https://www.infoblox.com/solutions/dns/)
+<img   alt="image" src="https://github.com/user-attachments/assets/5fe5694e-6943-4d47-879c-20e78e9e6991" />
+
+[https://www.pearson.com/en-us/higher-education/educators.html?utm_source=google&utm_medium=paidsearch&utm_campaign=always-on&utm_content=responsive-search-ad&utm_term=awareness&gclsrc=aw.ds&gad_source=1&gad_campaignid=23012468818&gbraid=0AAAAAC5gKUqkvPIbwsOdhPoRKIMv9BffA&gclid=Cj0KCQjwgr_NBhDFARIsAHiUWr6liVUdPAWEt6ciiEJ608BaMKt7-XtjxL3KcU4UUsN75ytLMV0PLzQaAtsXEALw_wcB](https://www.pearson.com/en-us/higher-education/educators.html?utm_source=google&utm_medium=paidsearch&utm_campaign=always-on&utm_content=responsive-search-ad&utm_term=awareness&gclsrc=aw.ds&gad_source=1&gad_campaignid=23012468818&gbraid=0AAAAAC5gKUqkvPIbwsOdhPoRKIMv9BffA&gclid=Cj0KCQjwgr_NBhDFARIsAHiUWr6liVUdPAWEt6ciiEJ608BaMKt7-XtjxL3KcU4UUsN75ytLMV0PLzQaAtsXEALw_wcB)
+<img   alt="image" src="https://github.com/user-attachments/assets/dddbac02-024f-415a-ab55-acba48caff12" />
+
+@doug-newman-nasa hi i was looking over my EULAs and sent you an email @PearsonEducation .. they have no public repos, did they collapse after that datacenter move, I worked from [Taos](https://www.indeed.com/cmp/Taos/reviews?fcountry=US&floc=San+Jose%2C+CA) in sanjose  @la-county-isd Mayor Bass however i got exiled, im triying to understand what all i agreed to, and that people may not have the resources to deliver on because i did not know there were expectations after dates and now people in different lifestyles. Im just trying to reach coral @blackgirlscode @newshour [https://sealevel.nasa.gov/data_tools/2/](https://sealevel.nasa.gov/data_tools/2/) @nasa-jpl @CityOfLosAngeles @ForAtlanta
+
+<img   alt="image" src="https://github.com/user-attachments/assets/c92ac33b-a09a-4598-aed8-56b646decbc4" />
+
+
+
+
+
+Contractors coming back ? @blackgirlscode normani [link](https://youtu.be/geneWmI9ZMY), im still on but as some strange employee category [Latrice](https://www.facebook.com/thevirtiservway/)
+
+<img alt="image" src="https://github.com/user-attachments/assets/c7ba6835-9110-4dbe-90db-0c643e2a38f2" />
+
+Space Operations Update (Feb. 19, 2026) @la-county-isd please share with the fire department a lot of @nasa-jpl people work there @blackgirlscode 
+-
+_Agency leaders are discussing the findings of investigations into the 2024 crewed test flight of Boeing Starliner to the International Space Station._ 
+
+<img   alt="image" src="https://github.com/user-attachments/assets/ce40cfd0-d530-4445-87f8-40a52df4e732" />
+
+
+```html
+<table bgcolor="#F5F5F5" style="padding: 0; margin: 0; border: 0; width: 100%;direction:ltr;" align="center">
+    <tbody>
+        <tr style="height: 25px">
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td align="center" style="padding: 0; margin: 0">
+                <table width="600" bgcolor="#FFFFFF" style="border: 0px; width: 600px;" align="center" class="main">
+                    <tbody>
+                        <tr style="height: 45px;">
+                            <td>&nbsp;</td>
+                        </tr>
+                        <tr>
+                            <td align="left" valign="top" style="padding-left: 50px; padding-right: 50px;"><img style="width: auto; max-width: auto" class="image" src="https://nasaevents.webex.com/customfaize/13036457/mail/616445417/logo.png" data-logo-preview="true" width="99" height="99">
+                            </td>
+                        </tr>
+                        <tr style="height: 36px">
+                            <td>&nbsp;</td>
+                        </tr>
+                    </tbody>
+                </table>
+                <table width="600" border="0" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF" style="width:600px;">
+                    <tbody>
+                        <tr>
+                            <td style="padding-left:50px;padding-right:50px;">
+                                <table>
+                                    <tbody>
+                                        <tr>
+                                            <td>&nbsp;Thank you for attending:</td>
+                                        </tr>
+                                    </tbody>
+                                </table><br>
+ <table>
+                                    <tbody>
+                                        <tr>
+                                            <td><b>Part 1 - Introduction and Demonstration of STREAM</b></td>
+                                        </tr>
+                                        <tr>
+                                            <td>&nbsp;<br>All training materials associated with this training will be found on the training webpage here:<br><a href="https://www.earthdata.nasa.gov/learn/trainings/monitoring-water-quality-lakes-coastal-regions-using-stream" target="_blank">https://www.earthdata.nasa.gov/learn/trainings/monitoring-water-quality-lakes-coastal-regions-using-stream</a></td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                                <table>
+                                    <tbody>
+                                        <tr style="line-height: 20px;">
+                                            <td style="height:20px">&nbsp;</td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+
+<table width="100%">
+	
+    
+  <tbody>
+                    <tr style="margin:0px;color: #666666;font-family: Arial;font-size: 14px;line-height: 22px;">
+                   <td style="margin:0px;color: #666666;font-family: Arial;font-size: 14px;line-height: 22px;">Tuesday, February 10, 2026
+                                            </td>
+                                        </tr>
+                   <tr style="margin:0px;color: #666666;font-family: Arial;font-size: 14px;line-height: 22px;">
+                  <td style="margin:0px;color: #666666;font-family: Arial;font-size: 14px;line-height: 22px;"><span dir="ltr">2:00 PM&nbsp;&nbsp;|&nbsp;&nbsp;</span><span dir="ltr">(UTC-05:00) Eastern Time (US & Canada)</span><span dir="ltr">&nbsp;&nbsp;|&nbsp;&nbsp;1 hr 30 min</span>
+                                            </td>
+                                        </tr>
+                                    </tbody>
+                              </table>
+
+        </td>
+                        </tr>
+                    </tbody>
+    </table>
+
+<table width="600" bgcolor="#FFFFFF" style="border: 0px; width: 600px;" align="center" class="main">
+                    <tbody>
+                        <tr style="height: 20px">
+                            <td>&nbsp;</td>
+                        </tr>
+                        <tr>
+                            <td style="height: 24px; color: #000000; font-family:Arial; font-size: 14px; line-height: 24px;padding-left: 50px; padding-right: 50px;">Need help? Go to <a href="https://help.webex.com" style="color:#005E7D; text-decoration:none;">https://help.webex.com</a>
+                            </td>
+                        </tr>
+                        <tr style="height: 44px">
+                            <td>&nbsp;</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </td>
+        </tr>
+
+        <tr>
+            <td align="center" style="padding: 0; margin: 0">
+
+                <table width="600" style="width:600px;margin:0;" class="footer" align="center">
+                    <tbody>
+                        <tr style="height: 12px">
+                            <td>&nbsp;</td>
+                        </tr>
+                        <tr style="margin:0;">
+                            <td style="font-size:9px; font-family:Arial; color:#666" align="center">
+                                <span>© 2026 Cisco and/or its affiliates. All rights reserved.</span>&nbsp;&nbsp; <span>
+                                    <a style="text-decoration:none;line-height: 24px; font-family:Arial; color: #005E7D;" href="https://www.webex.com/webex_privacy.html">Privacy Statement</a>
+                                </span>
+                                &nbsp;|&nbsp; <span><a style="text-decoration:none; line-height: 24px; font-family:Arial; color: #005E7D;" href="https://www.webex.com/webex_terms.html">Terms of Service</a>
+                                </span>
+                            </td>
+                        </tr>
+                        <!--F10940_MEETSIMPLE_EC_MAIL_PLACEHODER_DONT_CHANGE_DONT_DELETE-->
+                    </tbody>
+                </table>
+            </td>
+        </tr>
+    </tbody>
+</table>
+```
+
+ @blackgirlscode
+![mc](https://web.archive.org/web/20060622000110im_/http://mpfwww.jpl.nasa.gov/martianchronicle/martianchron5/masthead5.gif)
+
+<iframe src="https://www.facebook.com/plugins/video.php?height=476&href=https%3A%2F%2Fwww.facebook.com%2FCaptainOfJoy%2Fvideos%2F1726257334202583%2F&show_text=false&width=476&t=0" width="476" height="476" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+<img src="https://i.pinimg.com/564x/c9/04/a6/c904a6b4db2ea006647c888c3cf4b90b.jpg">
+<img src="https://scitechdaily.com/images/Ballistic-Resonance.jpg">
+
+### 404
+The URL you were looking for cannot be found.
+`https://www.earthdata.nasa.gov/news/blog/earthaccess-earth-science-data-simplifiedl`
+<img width="539" height="111" alt="image" src="https://github.com/user-attachments/assets/b5d5883b-a78c-43d3-ba43-90b0f385d5ab" />
+
+# Rashards Online Learning Commitment @Nasa-JPL
+I am behind, however we have FireSensingTraining Soon for Firms and I will catch up on my 2025 classes  as time permits. Hopefuly Internet Access is better this year
+
+@la-countyisd  @cityoflosangeles MAYOR BASS ? SuperVisor Mitchell
+ @nasa-jpl @emit-sds @nasa-pds @blackgirlscode  
+
+ARSET 2025 Training [Link](https://ornldaac.github.io/airborne/events/2025-ARSET/README.html)
+Airborne Data Applications for Invasive Species Mapping
+Date: September 30, 2025
+ORNL Instructors: Michele Thornton, Rupesh Shrestha
+ARSET Instructors: Sativa Cruz, Justin Fain, and Juan Torres-Pérez
+Invasive species can cause catastrophic impacts on ecosystem health and function. Under a changing climate, urban expansion, and extreme weather events, the occurrence and impacts of invasive species is expected to increase. Remote sensing has been used as a tool to monitor the current extent and predict future spread of invasive species in aquatic and terrestrial environments.
+
+This Applied Remote Sensing Training Program (ARSET) training highlights the different types of remote sensing data and products that can be used for terrestrial invasive species mapping and monitoring. 
+
+Mapping Invasive Species Using Supervised Machine Learning and AVIRIS-NG [Link](https://ornldaac.github.io/airborne/notebooks/AVIRIS-NG_L3_invasive_species.html)
+BioSCape Campaign Overview
+[BioSCape](https://www.bioscape.io/): In October/November of 2023, the US National Aeronautics and Space Administration (NASA) conducted its first Biodiversity field and airborne campaign across terrestrial and aquatic environments in the South African Greater Cape Floristic Region (GCFR). From 4 airborne instruments;
+
+<img   alt="image" src="https://github.com/user-attachments/assets/0dbe8900-b1dc-40c5-82c5-dc8b456b5daa" />
+
+
+@la-countyisd @LACMTA @cityoflosangeles MAYOR BASS ? SuperVisor Mitchell
+someone from sanfrancisco is in my account @github @nasa-jpl @emit-sds @nasa-pds @blackgirlscode 
+
+```
+Long Beach 205.154.246.79
+active
+Your current session
+Seen in US
+San Francisco 107.77.214.63
+active
+Last accessed on Jan 07, 2026
+Seen in US
+```
+
+@meta i was talking to you guys on this page [BuildingBlocks](https://github.com/ThakaRashard/rashardmro/blob/master/_posts/2025-10-30-BuildingBlocks.md) @nasa-jpl @nasa-pds @blackgirlscode
+@nasa-jpl most of my roms i purchased b4 @blackgirlscode ... @meta i dont know if two mentions will go through, since its the same page, [RashardsChangeMonitoring](https://thakarashard.github.io/rashardmro/changelog) is where i put you bc its an outage for me and my field reporting but for you its a crime scene! this page i use to give @nasa-jpl eyes into the whole situation after [CovidFreakNicKSantaMonica](https://youtu.be/leJNDpm_G10?t=7)
+@stateofCalifornia @cityoflosangeles karen bass / holly mitchell im about ot work on my water report! @la-county-isd
+![snes](https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/SNES-Mod1-Console-Set.png/2560px-SNES-Mod1-Console-Set.png) 
 
 
 @nasa-jpl i dont know how to write if things are changing a lot 
