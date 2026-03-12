@@ -17,7 +17,8 @@ date:   2026-02-06 14:51:06
 [comment]: <> (Emergency Files )
 
 ## Atlanta[!](https://youtu.be/_nsDBUyLWcU)
-
+@foratlanta @blackgirlscode 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DL_xxCUIwT0?si=Wd35r1r8oRGI6RY-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 _Martin Luther King Jr. came of age in one of the fastest growing cities in the United States._ - [Changing Atlanta](https://science.nasa.gov/earth/earth-observatory/changing-atlanta-147806/)
 [A-Town Players - Wassup Wassup ( Bankhead Bounce ) Atlanta Classic 1995](https://youtu.be/J90bUNuJ20k)
@@ -262,6 +263,7 @@ The OPERA RTC-S1 product contains modified Copernicus Sentinel data correspondin
 The OPERA RTC-S1 product is produced by the Observational Products for End-Users from Remote Sensing Analysis (OPERA) project. The OPERA project, managed by the Jet Propulsion Laboratory and funded by the Satellite Needs Working Group (SNWG), creates remote sensing products to address Earth observation needs across U.S. civilian federal agencies.
 
 References: doi:10.5067/SNWG/OPERA_L2_RTC-S1_V1
+
 
 
 
