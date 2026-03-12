@@ -5,7 +5,7 @@ published: true
 tags:  live news events stories
 title: They Said iT Was Live
 image: post_computinsg.PNG
-date:   2025-10-18 8:51:06 
+date:   2026-03-12 8:51:06 
 author: RashardKelly @nasa-jpl
 ---
 
