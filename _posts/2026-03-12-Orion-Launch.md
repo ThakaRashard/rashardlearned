@@ -2,9 +2,10 @@
 layout: default
 title:  "Orion/Artemis @nasa @r-spaceX @raytheonbbn"
 published: true
-date:   2026-03-03 08:19:06 -0800
+date:   2026-03-12 08:19:06 -0800
 tags: nsn ecostress crew11 iss
 image: Orion_dimensions_pillars.png
+permalink: /artemis2
 ---
 
 @NASA's Artemis II Live Views from Kennedy Space Cente
@@ -14,6 +15,7 @@ image: Orion_dimensions_pillars.png
 - Jump to  [`space-weather`](#space-weather)
 - Jump to  [`moon-Data`](#moon-data)
 - Jump to  [`kelp-Data`](#kelp-data)
+- Jump to  [`Rashards-Status`](#Rashards-Status)
 
 
 
@@ -25,6 +27,26 @@ Orion: dimensions [LINK](https://www.esa.int/ESA_Multimedia/Images/2019/03/Orion
 
 ![ORiON](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Orion_logo.png/330px-Orion_logo.png)
 
+
+## @NASA's Artemis II 
+Flight Readiness News Conference (March 12, 2026)
+
+@doug-newman-nasa @voyager-tech-inc : @USSF-ORBIT
+@la-county-isd @cityofsandiego @blackgirlscode @CityOfLosAngeles 
+@longbeachinnovationteam @associatedpress
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SpMMAdqMGWA?si=cfF4avptLv4vND4G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<img  alt="image" src="https://github.com/user-attachments/assets/9121efc8-a4d5-43d9-92a7-d7ffd256dd21" />
+
+
+[NASA's Artemis II Flight Readiness News Conference (March 12, 2026)](https://youtube.com/live/SpMMAdqMGWA?si=SVHUYRIcF8Y4Akx9) 
+If I get kicked off the web I'd like to get logged back on if my library card start acting like a gas station calling card again - [ra5hard.github.io](ra5hard.github.io) @blackgirlscode @la-county-isd @nasa-jpl
+
+
+
+
+Sent from Proton Mail for Android.
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/soundcloud%253Aplaylists%253A336070390&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/nasa" title="NASA" target="_blank" style="color: #cccccc; text-decoration: none;">NASA</a> · <a href="https://soundcloud.com/nasa/sets/houston-we-have-a-podcast" title="Houston We Have a Podcast" target="_blank" style="color: #cccccc; text-decoration: none;">Houston We Have a Podcast</a></div>
 
 [WATCH - Liftoff_of_Orion.webm.480p.vp9.webm](https://upload.wikimedia.org/wikipedia/commons/transcoded/6/60/Liftoff_of_Orion.webm/Liftoff_of_Orion.webm.480p.vp9.webm) uploaded by [`ZiaLater` - https://en.wikipedia.org/wiki/User:ZiaLater](https://en.wikipedia.org/wiki/User:ZiaLater)// 
@@ -551,9 +573,11 @@ New LRO Images Offer Sharper Views of Apollo 12, 14, and 17 Sites [Link](https:/
   <source src="https://d2pn8kiwq2w21t.cloudfront.net/media/videosrangerVideo-Ranger-9-impact-020423.webm" type="video/mp4" />
   
   Your browser does not support the video tag.
+  
 </video>
 
-### [The_Ranger_Program](https://science.nasa.gov/mission/lunar-rangers-and-surveyors/) : [WikiTalkPage @nasa](https://en.wikipedia.org/wiki/Talk:Ranger_program) @nasa-jpl 
+### [The_Ranger_Program](https://science.nasa.gov/mission/lunar-rangers-and-surveyors/)
+: [WikiTalkPage @nasa](https://en.wikipedia.org/wiki/Talk:Ranger_program) @nasa-jpl 
 
 ![The_Ranger_Program](https://assets.science.nasa.gov/dynamicimage/assets/science/psd/solar/2023/09/a/as12-48-7134.jpg?w=6515&h=6515&fit=clip&crop=faces%2Cfocalpoint)
  [svgDiagram](https://upload.wikimedia.org/wikipedia/commons/5/50/Ranger_6789.svg)
@@ -565,18 +589,24 @@ https://en.wikipedia.org/wiki/United_States_Naval_Research_Laboratory) [@NASA CL
 
 
 # Lunar Rotation and Flyby from Clementine Data (with route map)
-June 9, 1995
+
+_June 9, 1995__
 Clementine was a joint project between the Strategic Defense Initiative Organization and NASA. The objective of the mission was to test sensors and spacecraft components under extended exposure to the space environment and to make scientific observations of the Moon and the near-Earth asteroid 1620 Geographos. Clementine was launched on 25 January 1994 at 16:34 UTC (12:34 PM EDT) from [Vandenberg AFB](https://www.facebook.com/SLD30/posts/pfbid02eXaVjcUQLUXdFv9oPVcJBhBd3SxJFih5TRbWPmxi7WK92oeWBXxEjGdNAWuzGGC1l) , [California](https://www.vandenberg.spaceforce.mil/?fbclid=IwY2xjawOfCWpleHRuA2FlbQIxMABicmlkETAyNmloMlRKQUQyd051bGZlc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHlC3ZxuiC3h1RARw7yjxWvnrwW4Y2Yz1qHt5oigpJqHO5tduDm6HEXiaggRG_aem_VqMdNyRpsSy2nT7hGvLfcg) aboard a Titan II G rocket. After two Earth flybys, lunar insertion was achieved on February 21.
 
 
-[Moon](https://ia600307.us.archive.org/10/items/commitmentmaintenance/Clementine_sunrise_pdsimg-atlas-wget_2025-12-04T21_22_06_149_ezgif-5c792ef25a752ee0.mp4) #CORAL 
+[Moon](https://ia600307.us.archive.org/10/items/commitmentmaintenance/Clementine_sunrise_pdsimg-atlas-wget_2025-12-04T21_22_06_149_ezgif-5c792ef25a752ee0.mp4)
+#CORAL 
 @blackgirlscode 
 
 <video  controls poster="https://svs.gsfc.nasa.gov/vis/a000000/a000000/a000079/a000079_slate.jpg" >
+ 
   <source src="https://ia600307.us.archive.org/10/items/commitmentmaintenance/Clementine_sunrise_pdsimg-atlas-wget_2025-12-04T21_22_06_149_ezgif-5c792ef25a752ee0.mp4" type="video/mp4" />
+  
   <source src="https://ia800307.us.archive.org/10/items/commitmentmaintenance/Clementine_sunrise_pdsimg-atlas-wget_2025-12-04T21_22_06_149_ezgif-5c792ef25a752ee0.mp4" type="video/mp4" />
   
+  
   Your browser does not support the video tag.
+  
 </video>
 
 
@@ -606,9 +636,11 @@ Reiner Gamma (γ) is a geographical feature of the Moon known as a lunar swirl. 
 On February 11th, 2021, the moon again passed between DSCOVR and the Earth. EPIC snapped these images over a period of about 3 hours. In this set, the far side of the moon, which is never seen from Earth, passes by. In the backdrop, Earth rotates over Australia and the Pacific, gradually revealing Asia. [Read](https://epic.gsfc.nasa.gov/galleries/2021/lunar_transit)
 
 <video  controls >
+ 
   <source src="https://epic.gsfc.nasa.gov/epic-galleries/2021/lunar_transit/20210211lunartransit.mp4" type="video/mp4" />
   
   Your browser does not support the video tag.
+  
 </video>
 
 <img  alt="image" src="https://github.com/user-attachments/assets/0fb99636-a675-456e-8917-084c964968a6" />
@@ -619,9 +651,14 @@ On February 11th, 2021, the moon again passed between DSCOVR and the Earth. EPIC
   <source src="https://epic.gsfc.nasa.gov/epic-galleries/2020/lunar_occultation/20201002lunartransitrear.mp4" type="video/mp4" />
   
   Your browser does not support the video tag.
+  
 </video>
 
 ## SpaceWeather 4 [Splashdown](https://www.youtube.com/live/EqT3nDbwETc?si=3lNL5Pg-p3JSSE1G)
 
-<img  alt="image" src="https://github.com/user-attachments/assets/1b3bed04-da56-4776-8624-d42afea200c5" />
 
+<img  alt="image" src="https://github.com/user-attachments/assets/39f1b2ee-b5b6-4903-98c4-1c946d8e6e6a" />
+
+# Rashards-Status
+
+<img  alt="image" src="https://github.com/user-attachments/assets/1b3bed04-da56-4776-8624-d42afea200c5" />
