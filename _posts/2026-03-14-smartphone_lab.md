@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "smartphone_lab @nasa-jpl"
-date:   2026-03-11 15:38:06 -0800
+date:   2026-03-14 15:38:06 -0800
 categories: android linux gaming smartphone_lab handheld
 published: true
 image: C8RenderHeader_03.webp
@@ -9,7 +9,9 @@ permalink: /smartphonelab
 ---
 
 
-
+# VideoGame Polygons
+[Tekken 2 Ver.B (US, TES3/VER.D)](https://www.retrogames.cc/arcade-games/tekken-2-ver-b-us-tes3-ver-d.html)
+[Tekken Tag Tournament (World, TEG2/VER.C1, set 1)](https://www.retrogames.cc/arcade-games/tekken-tag-tournament-world-teg2-ver-c1-set-1.html) [HappyPiDay @BandaiNamcoResearchInc]() from @[nasa-jpl](https://earthsky.org/human-world/pi-day-nasa-pi-day-challenge/) @blackgirlscode [jpl.nasa.gov/edu/resources/teachable-moment/take-math-to-mars-and-beyond-with-nasas-pi-day-challenge/](https://www.jpl.nasa.gov/edu/resources/teachable-moment/take-math-to-mars-and-beyond-with-nasas-pi-day-challenge/)
 ![https://www.google.com/logos/doodles/2026/pi-day-2026-6753651837111068.2-2xa.gif @blackgirlscode @la-county-isd @LACountyDPH](https://www.google.com/logos/doodles/2026/pi-day-2026-6753651837111068.2-2xa.gif)
 
 # Online, But what else
