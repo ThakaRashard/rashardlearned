@@ -17,6 +17,10 @@ date:   2026-02-06 14:51:06
 [comment]: <> (Emergency Files )
 
 ## Atlanta[!](https://youtu.be/_nsDBUyLWcU)
+@la-county-isd its not fair [link](https://www.google.com/search?q=atlanta+striptease&sca_esv=a598d55f83047397&rlz=1C1GCEJ_enUS1205US1205&sxsrf=ANbL-n5czqAnxCJxaWcSvhr_v7EQgf0TQg:1773526190183&udm=1&lsack=rty1aanvCoLbkPIPuKiHyAo&sa=X&ved=2ahUKEwip_sL0s6CTAxWCLUQIHTjUAakQjGp6BAglEAA&biw=1416&bih=952&dpr=1) / [link](https://www.magiccity.com/) <@ @nasa-jpl help erika left me for that because its what she was used to being in the music world @sony @cnn
+![https://ia903206.us.archive.org/8/items/Feb29dump/atlanta_Virtiserv_Keisha_Bottoms_LATRiCE_MONiQUE_FiTZ_PATRiCK_DELiVERY_NASA_JPLRASHARD.PNG](https://ia903206.us.archive.org/8/items/Feb29dump/atlanta_Virtiserv_Keisha_Bottoms_LATRiCE_MONiQUE_FiTZ_PATRiCK_DELiVERY_NASA_JPLRASHARD.PNG)
+
+
 @foratlanta @blackgirlscode 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DL_xxCUIwT0?si=Wd35r1r8oRGI6RY-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
