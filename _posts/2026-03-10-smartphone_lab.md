@@ -10,7 +10,7 @@ permalink: /smartphonelab
 
 
 
-
+![https://www.google.com/logos/doodles/2026/pi-day-2026-6753651837111068.2-2xa.gif @blackgirlscode @la-county-isd @LACountyDPH](https://www.google.com/logos/doodles/2026/pi-day-2026-6753651837111068.2-2xa.gif)
 
 # Online, But what else
 
