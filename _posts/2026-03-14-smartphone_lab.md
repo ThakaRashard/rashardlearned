@@ -1,13 +1,14 @@
 ---
 layout: post
 title:  "smartphone_lab @nasa-jpl"
-date:   2026-03-14 15:38:06 -0800
+date:   2026-03-16 15:38:06 -0800
 categories: android linux gaming smartphone_lab handheld
 published: true
 image: C8RenderHeader_03.webp
 permalink: /smartphonelab
 ---
 
+[https://youtu.be/KN-_q3ss4l0?si=QV-L_HzKA8v5VFVV - @nasa-pds @blackgirlscode](https://youtu.be/KN-_q3ss4l0?si=QV-L_HzKA8v5VFVV) + [https://github.com/ @keiji/jp2k-decoder-android](https://github.com/keiji/jp2k-decoder-android)
 
 # VideoGame Polygons
 [Tekken 2 Ver.B (US, TES3/VER.D)](https://www.retrogames.cc/arcade-games/tekken-2-ver-b-us-tes3-ver-d.html)
