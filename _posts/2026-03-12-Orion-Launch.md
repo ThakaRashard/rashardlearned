@@ -654,11 +654,19 @@ On February 11th, 2021, the moon again passed between DSCOVR and the Earth. EPIC
   
 </video>
 
+
+
+#Rashards-Status
+#Rashards-Status
+
+<img  alt="image" src="https://github.com/user-attachments/assets/1b3bed04-da56-4776-8624-d42afea200c5" />
+
+![https://assets.science.nasa.gov/dynamicimage/assets/science/psd/solar/internal_resources/767/What_is_Pi_-1.png](https://assets.science.nasa.gov/dynamicimage/assets/science/psd/solar/internal_resources/767/What_is_Pi_-1.png)
+
+![https://www.google.com/logos/doodles/2026/pi-day-2026-6753651837111068.2-2xa.gif](https://www.google.com/logos/doodles/2026/pi-day-2026-6753651837111068.2-2xa.gif)
+
+
 ## SpaceWeather 4 [Splashdown](https://www.youtube.com/live/EqT3nDbwETc?si=3lNL5Pg-p3JSSE1G)
 
 
 <img  alt="image" src="https://github.com/user-attachments/assets/39f1b2ee-b5b6-4903-98c4-1c946d8e6e6a" />
-
-# Rashards-Status
-
-<img  alt="image" src="https://github.com/user-attachments/assets/1b3bed04-da56-4776-8624-d42afea200c5" />
