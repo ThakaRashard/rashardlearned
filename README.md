@@ -4,6 +4,7 @@
 
 ![mc](https://web.archive.org/web/20060622000110im_/http://mpfwww.jpl.nasa.gov/martianchronicle/martianchron5/masthead5.gif)
 
+![https://www.google.com/logos/doodles/2026/pi-day-2026-6753651837111068.2-2xa.gif](https://www.google.com/logos/doodles/2026/pi-day-2026-6753651837111068.2-2xa.gif)
 
 ### # California_Linux: 
 #### Maintaining Commitment NasaJpl_3arthdata MRO/JUNO:ECOSTRESS
@@ -15,6 +16,7 @@
 <img  alt="image" src="https://github.com/user-attachments/assets/b221cafa-4593-4f3b-a9bb-53d2be23bd3b" />
 
 [RESUME @blackgirlscode](https://thakarashard.github.io/RESUME/)
+<img   alt="image" src="https://github.com/user-attachments/assets/6336986a-563b-42e9-baf3-68b03b82cd1d" />
 
 
 This branch is 182 commits behind [ThakaRashard/rashardmro](https://github.com/ThakaRashard/rashardmro):master. 

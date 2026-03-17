@@ -5,9 +5,20 @@ published: true
 tags:  live news events stories
 title: They Said iT Was Live
 image: post_computinsg.PNG
-date:   2025-10-18 8:51:06 
+date:   2026-03-12 8:51:06 
 author: RashardKelly @nasa-jpl
 ---
+
+
+LIVE: Officials give updates after attack at Michigan synagogue | @NBCNews
+@la-county-isd @nasa-jpl 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K-jC5gZWDB4?si=cfK0LmSDNohky27o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+
+@NASA's Artemis II Flight Readiness News Conference (March 12, 2026)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SpMMAdqMGWA?si=O-cbehb7IyBGYO_2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 @nasa - [GoodMorning](https://www.facebook.com/permalink.php?story_fbid=pfbid0f6kcbYJ3jmYh5vLXZrBnkRs1DfVeu8AvX7A5tigt1ENL987vCSKK4sMdwiWCHzGZl&id=100084464911565)
 ![ABC7 @blackgirlscode](https://cdn.abcotvs.net/abcotv/assets/news/global/images/feature-header/kabc-lg.svg) 
@@ -113,7 +124,7 @@ RashardthakasErika selassie_kel
 
 The Aranjuez Immaculate Conception is a c.1675 oil on canvas painting by Bartolomé Esteban Murillo.[1] It first appears in the written record in 1818, when it was in the royal chapel of San Antonio in the Palacio de Aranjuez in Madrid, after which it is named. It next appears in the queen's quarters in the same palace in 1827 and is now in the Prado Museum.[2]
 
-<p><a href="https://commons.wikimedia.org/wiki/File:Inmaculada_Concepci%C3%B3n_de_Aranjuez.jpg#/media/File:Inmaculada_Concepci%C3%B3n_de_Aranjuez.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Inmaculada_Concepci%C3%B3n_de_Aranjuez.jpg" alt="Inmaculada Concepción de Aranjuez.jpg" height="2717" width="1459"></a><br>By <a href="https://en.wikipedia.org/wiki/en:Bartolom%C3%A9_Esteban_Murillo" class="extiw" title="w:en:Bartolomé Esteban Murillo"><span title="Spanish Baroque painter (1617–1682)">Bartolomé Esteban Murillo</span></a> - <a rel="nofollow" class="external autonumber" href="http://www.museodelprado.es/imagen/alta_resolucion/P00974.jpg">[1]</a>, Public Domain, <a href="https://commons.wikimedia.org/w/index.php?curid=17427205">Link</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Inmaculada_Concepci%C3%B3n_de_Aranjuez.jpg#/media/File:Inmaculada_Concepci%C3%B3n_de_Aranjuez.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Inmaculada_Concepci%C3%B3n_de_Aranjuez.jpg" alt="Inmaculada Concepción de Aranjuez.jpg" ></a><br>By <a href="https://en.wikipedia.org/wiki/en:Bartolom%C3%A9_Esteban_Murillo" class="extiw" title="w:en:Bartolomé Esteban Murillo"><span title="Spanish Baroque painter (1617–1682)">Bartolomé Esteban Murillo</span></a> - <a rel="nofollow" class="external autonumber" href="http://www.museodelprado.es/imagen/alta_resolucion/P00974.jpg">[1]</a>, Public Domain, <a href="https://commons.wikimedia.org/w/index.php?curid=17427205">Link</a></p>
 
 ---
 

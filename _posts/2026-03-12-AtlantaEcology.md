@@ -17,7 +17,13 @@ date:   2026-02-06 14:51:06
 [comment]: <> (Emergency Files )
 
 ## Atlanta[!](https://youtu.be/_nsDBUyLWcU)
+[Map-Link @ForAtlanta](https://worldview.earthdata.nasa.gov/?v=-91.79757830532274,31.178810718603835,-78.51720074653376,38.64902309542264&l=Reference_Labels_15m(hidden),Coastlines_15m(hidden,opacity=0.59),VIIRS_SNPP_DayNightBand_At_Sensor_Radiance,VIIRS_SNPP_DayNightBand_AtSensor_M15(hidden),VIIRS_SNPP_CorrectedReflectance_TrueColor(hidden)&lg=true&s=-87.6324,41.8832&t=2022-02-06-T00%3A00%3A00Z)
+@la-county-isd its not fair [link](https://www.google.com/search?q=atlanta+striptease&sca_esv=a598d55f83047397&rlz=1C1GCEJ_enUS1205US1205&sxsrf=ANbL-n5czqAnxCJxaWcSvhr_v7EQgf0TQg:1773526190183&udm=1&lsack=rty1aanvCoLbkPIPuKiHyAo&sa=X&ved=2ahUKEwip_sL0s6CTAxWCLUQIHTjUAakQjGp6BAglEAA&biw=1416&bih=952&dpr=1) / [link](https://www.magiccity.com/) <@ @nasa-jpl help erika left me for that because its what she was used to being in the music world @sony @cnn [https://worldview.earthdata.nasa.gov/?v=-91.79757830532274,31.178810718603835,-78.51720074653376,38.64902309542264&l=Reference_Labels_15m(hidden),Coastlines_15m(hidden,opacity=0.59),VIIRS_SNPP_DayNightBand_At_Sensor_Radiance,VIIRS_SNPP_DayNightBand_AtSensor_M15(hidden),VIIRS_SNPP_CorrectedReflectance_TrueColor(hidden)&lg=true&s=-87.6324,41.8832&t=2022-02-06-T00%3A00%3A00Z](https://worldview.earthdata.nasa.gov/?v=-91.79757830532274,31.178810718603835,-78.51720074653376,38.64902309542264&l=Reference_Labels_15m(hidden),Coastlines_15m(hidden,opacity=0.59),VIIRS_SNPP_DayNightBand_At_Sensor_Radiance,VIIRS_SNPP_DayNightBand_AtSensor_M15(hidden),VIIRS_SNPP_CorrectedReflectance_TrueColor(hidden)&lg=true&s=-87.6324,41.8832&t=2022-02-06-T00%3A00%3A00Z) @newshour @blackgirlscode
+![https://ia903206.us.archive.org/8/items/Feb29dump/atlanta_Virtiserv_Keisha_Bottoms_LATRiCE_MONiQUE_FiTZ_PATRiCK_DELiVERY_NASA_JPLRASHARD.PNG](https://ia903206.us.archive.org/8/items/Feb29dump/atlanta_Virtiserv_Keisha_Bottoms_LATRiCE_MONiQUE_FiTZ_PATRiCK_DELiVERY_NASA_JPLRASHARD.PNG)
 
+
+@foratlanta @blackgirlscode 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DL_xxCUIwT0?si=Wd35r1r8oRGI6RY-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 _Martin Luther King Jr. came of age in one of the fastest growing cities in the United States._ - [Changing Atlanta](https://science.nasa.gov/earth/earth-observatory/changing-atlanta-147806/)
 [A-Town Players - Wassup Wassup ( Bankhead Bounce ) Atlanta Classic 1995](https://youtu.be/J90bUNuJ20k)
@@ -262,6 +268,7 @@ The OPERA RTC-S1 product contains modified Copernicus Sentinel data correspondin
 The OPERA RTC-S1 product is produced by the Observational Products for End-Users from Remote Sensing Analysis (OPERA) project. The OPERA project, managed by the Jet Propulsion Laboratory and funded by the Satellite Needs Working Group (SNWG), creates remote sensing products to address Earth observation needs across U.S. civilian federal agencies.
 
 References: doi:10.5067/SNWG/OPERA_L2_RTC-S1_V1
+
 
 
 
