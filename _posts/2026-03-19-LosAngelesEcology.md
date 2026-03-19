@@ -4,7 +4,7 @@ mermaid: true
 published: true
 permalink: /laecology
 title: L.A. Ecology @CityOfLosAngeles @Nasa-jpl
-image: rashards_la_county_ticket_ECOSTRESS_CROP_00164_streetheat_la.png
+image: losangelesecostreess.png
 author: "RashardKelly @nasa-jpl"
 categories: LA eco ecostress space dsn nsn climate weather
 date:   2026-02-10 8:51:06 
@@ -28,13 +28,16 @@ date:   2026-02-10 8:51:06
 {% endhighlight %}
 
 
+ECOSTRESS thermal map of the Port of LA, California, USA @la-county-isd @StateOfCalifornia @CityOFLosAngeles @LongBeachinnovationteam 
+[readmore](https://ecostress.jpl.nasa.gov/galleryimage)
+
 <picture itemprop="productionCompany" itemtype="https://schema.org/Organization">
   
   <source src="https://ecostress.jpl.nasa.gov/downloads/gallery/00166_losangeles_18jun2025.png" type="image/png" />
   
   <source src="https://github.com/user-attachments/assets/6b95c2c5-af66-49b3-8b8b-3f01324e45dc" type="image/png" />
   
-  <img itemprop="countryOfOrigin" itemtype="https://schema.org/Country" alt="logo https://ecostress.jpl.nasa.gov/logo.png" src="https://ecostress.jpl.nasa.gov/downloads/gallery/00166_losangeles_18jun2025.png" />
+  <img itemprop="countryOfOrigin" itemtype="https://schema.org/Country" alt="logo https://ecostress.jpl.nasa.gov/logo.png" src="https://github.com/user-attachments/assets/6b95c2c5-af66-49b3-8b8b-3f01324e45dc" />
   
 </picture>
 
