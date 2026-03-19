@@ -28,6 +28,13 @@ date:   2026-02-10 8:51:06
 {% endhighlight %}
 
 
+<picture itemprop="productionCompany" itemtype="https://schema.org/Organization">
+  <source src="https://ecostress.jpl.nasa.gov/downloads/gallery/00166_losangeles_18jun2025.png" type="image/png" />
+  <source src="https://ecostress.jpl.nasa.gov/downloads/gallery/00166_losangeles_18jun2025.png" type="image/png" />
+    <img itemprop="countryOfOrigin" itemtype="https://schema.org/Country" alt="logo https://ecostress.jpl.nasa.gov/logo.png" src="https://ecostress.jpl.nasa.gov/downloads/gallery/00166_losangeles_18jun2025.png" />
+</picture>
+
+
 
 [Happy Pi Day @CityOfLosAngeles @la-county-isd @nasa-pds @blackgirlscode 10 Ways to Celebrate Pi Day with NASA on March 14](https://science.nasa.gov/learning-resources/10-ways-to-celebrate-pi-day-with-nasa-on-march-14/)
 ![https://ia903206.us.archive.org/8/items/Feb29dump/ZUSA_VEGiTATiON_iNDUCE_Virtiserv_Keisha_Bottoms_LATRiCE_MONiQUE_FiTZ_PATRiCK_DELiVERY_NASA_JPLRASHARD_snapshot-2022-02-06T00_00_00Z.png](https://ia903206.us.archive.org/8/items/Feb29dump/ZUSA_VEGiTATiON_iNDUCE_Virtiserv_Keisha_Bottoms_LATRiCE_MONiQUE_FiTZ_PATRiCK_DELiVERY_NASA_JPLRASHARD_snapshot-2022-02-06T00_00_00Z.png) 
