@@ -4,6 +4,16 @@ mermaid: true
 published: true
 image: Aitken_supercomputer_big.jpg
 ---
+![mc](https://web.archive.org/web/20060622000110im_/http://mpfwww.jpl.nasa.gov/martianchronicle/martianchron5/masthead5.gif)
+
+[Laila's Wisdom re:coral @blackgirlscode](https://youtu.be/btYlWphnfbE)
+[WipEout® OST [PSX]: CoLD SToRAGE - Messij](https://youtu.be/4uQnXvRndcE?si=Shb49Z9P4TdnkV2s) [California Constitution](https://archives.cdn.sos.ca.gov/collections/1879/archive/1879-constitution.pdf)
+[1879 California Constitution](https://archives.cdn.sos.ca.gov/collections/1879/archive/1879-constitution.pdf) [Equal Rights Amendments: State Provisions](https://web.archive.org/web/20140517123130/https://digital.library.unt.edu/ark:/67531/metacrs7397/m1/1/high_res_d/RS20217_2004Aug23.pdf)  [1849 California Constitution (spanish)](https://archives.cdn.sos.ca.gov/collections/1849/images/1849Constitucion2.pdf) . // The California Legislature is honored to present this compilation of historic documents. The 2019–20 Legislative Session marks the centennial of the 19th 
+[senate.ca.gov/sites/senate.ca.gov/files/california_constitution_2019-20_0.pdf](https://www.senate.ca.gov/sites/senate.ca.gov/files/california_constitution_2019-20_0.pdf) // [codepen.io/thakarashard/pen/YzMEOGN](https://codepen.io/thakarashard/pen/YzMEOGN) [https://clerk.assembly.ca.gov/sites/clerk.assembly.ca.gov/files/2023-24_Constitution_Final_wCover.pdf - 2024](https://clerk.assembly.ca.gov/sites/clerk.assembly.ca.gov/files/2023-24_Constitution_Final_wCover.pdf) @la-county-isd @nasa-jpl who said i was late ? [@longbeachinnovationteam @blackgirlscode](https://clerk.assembly.ca.gov/sites/clerk.assembly.ca.gov/files/2023-24_Constitution_Final_wCover.pdf)
+
+<img   alt="image" src="https://github.com/user-attachments/assets/8cd3b23d-79d4-4173-9860-45d9b8fff25c" />
+<img   alt="image" src="https://github.com/user-attachments/assets/fe0e47a9-bba4-4f45-8241-4178ac906552" />
+
 
 InStalling [ImageMagick](https://github.com/ImageMagick/ImageMagick) [[1](https://imagemagick.org/#gsc.tab=0)]
 [Link](https://imagemagick.org/script/download.php#gsc.tab=0) @nasa-jpl @emit-sds @nasa-pds 
