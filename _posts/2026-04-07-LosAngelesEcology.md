@@ -28,6 +28,10 @@ date:   2026-02-10 8:51:06
 {% endhighlight %}
 
 
+# g2v @nasa-pds
+
+![https://sdo.gsfc.nasa.gov/assets/img/latest/latest_1024_0193.jpg](https://sdo.gsfc.nasa.gov/assets/img/latest/latest_1024_0193.jpg)
+
 ECOSTRESS thermal map of the Port of LA, California, USA @la-county-isd @StateOfCalifornia @CityOFLosAngeles @LongBeachinnovationteam 
 [readmore](https://ecostress.jpl.nasa.gov/galleryimage)
 
