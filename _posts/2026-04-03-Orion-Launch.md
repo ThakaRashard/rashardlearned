@@ -28,6 +28,36 @@ permalink: /artemis2
 
 
 
+# Preparing for splashdown
+@usNavy @nasa-jpl @la-county-isd @cityofsandeigo
+[https://www.nasa.gov/blogs/missions/2026/04/09/artemis-ii-flight-day-9-crew-prepares-to-come-home/](https://www.nasa.gov/blogs/missions/2026/04/09/artemis-ii-flight-day-9-crew-prepares-to-come-home/)
+![https://www.nasa.gov/wp-content/uploads/2026/04/artemis-ii-orion-parachute-sequence.png](https://www.nasa.gov/wp-content/uploads/2026/04/artemis-ii-orion-parachute-sequence.png)
+
+![https://www.nasa.gov/wp-content/uploads/2026/04/artemis-ii-groundtrack.png](https://www.nasa.gov/wp-content/uploads/2026/04/artemis-ii-groundtrack.png)
+
+![https://www.nasa.gov/wp-content/uploads/2026/04/artemis-ii-entry-descent-landing.png?resize=600,336](https://www.nasa.gov/wp-content/uploads/2026/04/artemis-ii-entry-descent-landing.png?resize=600,336)
+
+
+![https://www.nasa.gov/wp-content/uploads/2026/04/artemis-ii-orion-lofted-entry-sequence.png](https://www.nasa.gov/wp-content/uploads/2026/04/artemis-ii-orion-lofted-entry-sequence.png) 
+
+
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">🚨📰 <a href="https://twitter.com/hashtag/USNAVY?src=hash&amp;ref_src=twsrc%5Etfw">#USNAVY</a> UPDATE: USS John P. Murtha to support NASA&#39;s Artemis II mission<br><br>SAN DIEGO – Amphibious transport dock ship USS John P. Murtha (LPD 26) is slated to serve as the recovery ship for the Orion spacecraft and its crew upon their return from the historic Artemis II… <a href="https://t.co/eMUDr04rhP">pic.twitter.com/eMUDr04rhP</a></p>&mdash; U.S. Navy (@USNavy) <a href="https://twitter.com/USNavy/status/2041909011591713227?ref_src=twsrc%5Etfw">April 8, 2026</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+Artemis 2 LIVE: Astronauts begin stowing their gear for return Wednesday, April 9, 2026 [read](https://www.space.com/news/live/artemis-2-nasa-moon-mission-updates-april-9-2026) @blackgirlscode @la-county-isd @emit-sds @nasa-jpl
+
+[nasa.gov/missions/artemis-ii/arow/](https://www.nasa.gov/missions/artemis-ii/arow/)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/6f1dd528-4674-455f-b768-689785b1145c" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/bbb212c0-2391-4a53-a299-4f9a647e9613" />
+
+@nasa-jpl @foratlanta @la-county-isd 
+
+[tracers.physics.uiowa.edu/#accordion-item-651-0 @mcagov](https://tracers.physics.uiowa.edu/#accordion-item-651-0)
+![https://tracers.physics.uiowa.edu/sites/tracers.physics.uiowa.edu/files/2023-08/orbit_%20high%20qual.jpg @nasa-jpl @nasa-giss @la-county-isd @cityoflosangeles @stateofcalifornia @lmco](https://tracers.physics.uiowa.edu/sites/tracers.physics.uiowa.edu/files/2023-08/orbit_%20high%20qual.jpg)
+[https://www.uscg.mil/Portals/0/Images/cyber/Maritime%20Cyber%20Alert%2002-25%20TLP%20CLEAR.pdf @nasa-jpl @nasa-pds @la-county-isd](https://www.uscg.mil/Portals/0/Images/cyber/Maritime%20Cyber%20Alert%2002-25%20TLP%20CLEAR.pdf) // [ossoff.senate.gov/contact-us/](https://www.ossoff.senate.gov/contact-us/)
+
 
 
 
