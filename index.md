@@ -27,6 +27,9 @@ This page was last updated at {{ "now" | date: "%Y-%m-%d %H:%M" }}
   {% endfor %}
 
 
+NASA’s Artemis II Crew Comes Home (Official Broadcast)
+[watch](https://www.youtube.com/watch?v=nfhDuOHMp0A)  @nasa-pds @blackgirlscode 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nfhDuOHMp0A?si=TYRs-t4SJVByhGaU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Rashard Kelly
 _@nasa-Jpl MRO JUNO iSS_
