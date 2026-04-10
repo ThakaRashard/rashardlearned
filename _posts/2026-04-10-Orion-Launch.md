@@ -30,7 +30,7 @@ permalink: /artemis2
 
 # Preparing for splashdown
 @usNavy @nasa-jpl @la-county-isd @cityofsandeigo
-[https://www.nasa.gov/blogs/missions/2026/04/09/artemis-ii-flight-day-9-crew-prepares-to-come-home/](https://www.nasa.gov/blogs/missions/2026/04/09/artemis-ii-flight-day-9-crew-prepares-to-come-home/)
+[https://www.nasa.gov/blogs/missions/2026/04/09/artemis-ii-flight-day-9-crew-prepares-to-come-home/](https://www.nasa.gov/blogs/missions/2026/04/09/artemis-ii-flight-day-9-crew-prepares-to-come-home/) [When does Artemis II reenter Earth's atmosphere? What time is Artemis 2 splashdown?](https://www.floridatoday.com/story/tech/science/space/2026/04/10/artemis-orion-splashdown-visibility-map-nasa-graphic-california-what-time/89543929007/)
 ![https://www.nasa.gov/wp-content/uploads/2026/04/artemis-ii-orion-parachute-sequence.png](https://www.nasa.gov/wp-content/uploads/2026/04/artemis-ii-orion-parachute-sequence.png)
 
 ![https://www.nasa.gov/wp-content/uploads/2026/04/artemis-ii-groundtrack.png](https://www.nasa.gov/wp-content/uploads/2026/04/artemis-ii-groundtrack.png)
