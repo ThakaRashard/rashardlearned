@@ -8,6 +8,15 @@ published: false
 
 @la-county-isd hollyjmitchell coral know the black man somehow [infamy](https://youtu.be/po_hM90TgD4?si=k2dVShbmVBxCxvI-) @blackgirlscode @nasa-jpl that might be normani old boyfriend trice @nasa @nasa-giss 
 
+
+virtiserv latrice @blackgirlscode @nasa-pds
+ [https://www.cnn.com/2001/TECH/industry/09/11/akamai.founder/index.html](https://www.cnn.com/2001/TECH/industry/09/11/akamai.founder/index.html)
+
+Artemis II [Astronauts](https://rashardmro.tumblr.com/post/812731741445963776/nasas-artemis-ii-live-views-from-orion?is_related_post=1) Make First Public Remarks Since Returning to Earth
+NASA held a ceremony at Johnson Space Center in Houston to welcome home the crew of Artemis II after its 10-day mission around the moon. The astronauts gave their first public remarks since splashing down off the coast of San Diego, California. NASA officials, lawmakers, and others also spoke to congratulate the crew and encourage further space exploration [@nasa-jpl https://www.c-span.org/program/news-conference/artemis-ii-astronauts-make-first-public-remarks-since-returning-to-earth/677288](https://www.c-span.org/program/news-conference/artemis-ii-astronauts-make-first-public-remarks-since-returning-to-earth/677288)
+
+
+
 [wildfire @emit-sds](https://archive.org/download/commitmentmaintenance/ezgif-743af2e85bf09573.mp4) [wildfire @datadesk](https://archive.org/download/commitmentmaintenance/ezgif-8f3701776d5d3cd3.mp4)
 
 [https://5WILDFIRE2VID_20251126_225215_114.mp4](https://archive.org/download/commitmentmaintenance/000000_AAA_000_CZez2025WILDFIRE2VID_20251126_225215_114.mp4)
