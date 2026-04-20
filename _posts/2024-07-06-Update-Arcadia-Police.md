@@ -1,11 +1,733 @@
 ---
-title: Update Arcadia Police 
-published: false
+title: CityHall DNS @google
+published: true
 ---
 
 
+Gmail	Rashard Iman Kelly <holetoanotheruniverse40@gmail.com>
+Terminal transcript cityhall cityofla guest
+Rashard Iman Kelly <holetoanotheruniverse40@gmail.com>	Mon, Apr 20, 2026 at 5:04 AM
+To: "dsnnow@jpl.nasa.gov" <dsnnow@jpl.nasa.gov>, "knxnews@cbsradio.com" <knxnews@cbsradio.com>, "ksc-newsroom@mail.nasa.gov" <ksc-newsroom@mail.nasa.gov>, "news.tips@abc.com" <news.tips@abc.com>, "keishaforgovernor@gmail.com" <keishaforgovernor@gmail.com>, "letschat@virtiserv.com" <letschat@virtiserv.com>, "jasmine.crockett@mail.house.gov" <jasmine.crockett@mail.house.gov>, "report@cisa.gov" <report@cisa.gov>, "benefits@howard.edu" <benefits@howard.edu>, councilmember.yaroslavsky@lacity.org, Karen.youngman@azdcs.gov, "bos@sfgov.org" <bos@sfgov.org>, "councilmember.harris-dawson@lacity.org" <councilmember.harris-dawson@lacity.org>, "cityatty.help@lacity.org" <cityatty.help@lacity.org>, "operations@wearebgc.org" <operations@wearebgc.org>, "office@lafirstumc.org" <office@lafirstumc.org>, "douglas.j.newman@nasa.gov" <douglas.j.newman@nasa.gov>, "Rotaryclubofsouthpasadena@gmail.com" <Rotaryclubofsouthpasadena@gmail.com>, "usarmy.hunter.id-readiness.mbx.usag-command-group@army.mil" <usarmy.hunter.id-readiness.mbx.usag-command-group@army.mil>, "rtxrecruiting@rtx.com" <rtxrecruiting@rtx.com>, "publicaffairs.spl@usace.army.mil" <publicaffairs.spl@usace.army.mil>, "uso@asf.alaska.edu" <uso@asf.alaska.edu>, "atl311@atlantaga.gov" <atl311@atlantaga.gov>, "development@sfcla.org" <development@sfcla.org>, "press@google.com" <press@google.com>, "Brennan, Jennifer L. (GSFC-423.0)[ADNET SYSTEMS INC]" <jennifer.l.brennan@nasa.gov>, "viewermail@newshour.org" <viewermail@newshour.org>, "FirstDistrict@bos.lacounty.gov" <firstdistrict@bos.lacounty.gov>, "contact.lapdonline@gmail.com" <contact.lapdonline@gmail.com>, Gavin Newsom <gavin.newsom@gov.ca.gov>, "Secretary.Weber@sos.ca.gov" <Secretary.Weber@sos.ca.gov>, "info@scisat.ca" <info@scisat.ca>, "info@moriassociates.com" <info@moriassociates.com>, "isee@nbclosangeles.com" <isee@nbclosangeles.com>
+  263  cat types.sh | grep nslookup >> nsquery.sh
+  264  bash -x types.sh                                 265  bash nsquery.sh |grep google
+  266  bash nsquery.sh |grep ppho
+  267  bash nsquery.sh |grep aka
+  268  bash nsquery.sh |grep oudf
+  269  history
+~ $Non-authoritative answer: *** Can't find virtiserv.com: No answer
+
+Authoritative answers can be found from: virtiserv.com
+        origin = ns29.domaincontrol.com mail addr = dns.jomax.net serial = 2024102401 refresh = 28800 retry = 7200 expire = 604800 minimum = 600
+
+~ $ bash nsquery.sh |grep google
+google.com mail exchanger = 10 smtp.google.com.
+google.com nameserver = ns4.google.com.
+google.com nameserver = ns2.google.com.
+google.com nameserver = ns1.google.com.
+google.com nameserver = ns3.google.com.
+fbi.gov nameserver = ns-cloud-e3.googledomains.com.
+fbi.gov nameserver = ns-cloud-e2.googledomains.com. @development@sfcla.org @douglas.j.newman@nasa.gov @letschat@virtiserv.com @usarmy.hunter.id-readiness.mbx.usag-command-group@army.mil @press@google.com can u guys discuss how this is legal @report@cisa.gov @atl311@atlantaga.gov @Brennan, Jennifer L. (GSFC-423.0)[ADNET SYSTEMS INC] @viewermail@newshour.org @FirstDistrict@bos.lacounty.gov cityhall? @contact.lapdonline@gmail.com @Gavin Newsom liar💯💯💯🖕🖕🤕❤️‍🩹💔 @Secretary.Weber@sos.ca.gov what kind of shit u guys running ? it's just a fucking brothel I hate it here. it's so gross and my tooth flaked out @keishaforgovernor@gmail.com @info@scisat.ca @info@moriassociates.com what kind of weird cult shit you guys wrapped up in? @knxnews@cbsradio.com @isee@nbclosangeles.com 
+fbi.gov nameserver = ns-cloud-e1.googledomains.com.
+fbi.gov nameserver = ns-cloud-e4.googledomains.com.
+lacity.gov mail exchanger = 1 aspmx.l.google.com.
+lacity.gov mail exchanger = 10 alt3.aspmx.l.google.com.
+lacity.gov mail exchanger = 5 alt1.aspmx.l.google.com.
+lacity.gov mail exchanger = 10 alt4.aspmx.l.google.com.
+lacity.gov mail exchanger = 5 alt2.aspmx.l.google.com.
+lapl.org mail exchanger = 3 alt4.aspmx.l.google.com.
+lapl.org mail exchanger = 3 alt3.aspmx.l.google.com.
+lapl.org mail exchanger = 2 alt2.aspmx.l.google.com.
+lapl.org mail exchanger = 1 aspmx.l.google.com.
+lapl.org mail exchanger = 2 alt1.aspmx.l.google.com.
+lapl.org mail exchanger = 2 alt2.aspmx.l.google.com.
+lapl.org mail exchanger = 1 aspmx.l.google.com.
+lapl.org mail exchanger = 3 alt3.aspmx.l.google.com.
+lapl.org mail exchanger = 3 alt4.aspmx.l.google.com.
+lapl.org mail exchanger = 2 alt1.aspmx.l.google.com.
+google.com mail exchanger = 10 smtp.google.com.
+google.com nameserver = ns1.google.com.
+google.com nameserver = ns2.google.com.
+google.com nameserver = ns3.google.com.
+google.com nameserver = ns4.google.com.
+fbi.gov nameserver = ns-cloud-e1.googledomains.com.
+fbi.gov nameserver = ns-cloud-e2.googledomains.com.
+fbi.gov nameserver = ns-cloud-e4.googledomains.com.
+fbi.gov nameserver = ns-cloud-e3.googledomains.com.
+lacity.gov mail exchanger = 10 alt4.aspmx.l.google.com.
+lacity.gov mail exchanger = 5 alt2.aspmx.l.google.com.
+lacity.gov mail exchanger = 5 alt1.aspmx.l.google.com.
+lacity.gov mail exchanger = 10 alt3.aspmx.l.google.com.
+lacity.gov mail exchanger = 1 aspmx.l.google.com.
+lapl.org mail exchanger = 3 alt3.aspmx.l.google.com.
+lapl.org mail exchanger = 3 alt4.aspmx.l.google.com.
+lapl.org mail exchanger = 1 aspmx.l.google.com.
+lapl.org mail exchanger = 2 alt2.aspmx.l.google.com.
+lapl.org mail exchanger = 2 alt1.aspmx.l.google.com.
+lapl.org mail exchanger = 2 alt1.aspmx.l.google.com.
+lapl.org mail exchanger = 3 alt3.aspmx.l.google.com.
+lapl.org mail exchanger = 2 alt2.aspmx.l.google.com.
+lapl.org mail exchanger = 1 aspmx.l.google.com.
+lapl.org mail exchanger = 3 alt4.aspmx.l.google.com.
+google.com mail exchanger = 10 smtp.google.com.
+google.com nameserver = ns3.google.com.
+google.com nameserver = ns1.google.com.
+google.com nameserver = ns2.google.com.
+google.com nameserver = ns4.google.com.
+fbi.gov nameserver = ns-cloud-e2.googledomains.com.
+fbi.gov nameserver = ns-cloud-e3.googledomains.com.
+fbi.gov nameserver = ns-cloud-e4.googledomains.com.
+fbi.gov nameserver = ns-cloud-e1.googledomains.com.
+lacity.gov mail exchanger = 5 alt1.aspmx.l.google.com.
+lacity.gov mail exchanger = 5 alt2.aspmx.l.google.com.
+lacity.gov mail exchanger = 10 alt3.aspmx.l.google.com.
+lacity.gov mail exchanger = 10 alt4.aspmx.l.google.com.
+lacity.gov mail exchanger = 1 aspmx.l.google.com.
+lapl.org mail exchanger = 1 aspmx.l.google.com.
+lapl.org mail exchanger = 2 alt1.aspmx.l.google.com.
+lapl.org mail exchanger = 3 alt3.aspmx.l.google.com.
+lapl.org mail exchanger = 3 alt4.aspmx.l.google.com. lapl.org mail exchanger = 2 alt2.aspmx.l.google.com. lapl.org mail exchanger = 2 alt2.aspmx.l.google.com. lapl.org mail exchanger = 3 alt3.aspmx.l.google.com.
+lapl.org mail exchanger = 2 alt1.aspmx.l.google.com. lapl.org mail exchanger = 1 aspmx.l.google.com.lapl.org mail exchanger = 3 alt4.aspmx.l.google.com. ~ $ bash nsquery.sh |grep ppho jpl.nasa.gov mail exchanger = 20 mxb-0020b901.gslb.pphosted.com. jpl.nasa.gov mail exchanger = 20 mxa-0020b901.gslb.pphosted.com. usps.com mail exchanger = 10 mxb-0038fd02.gslb.gpphosted.com. usps.com mail exchanger = 10 mxa-0038fd02.gslb.gpphosted.com.
+longbeach.gov mail exchanger = 10 mxa-00539a01.gslb.pphosted.com. longbeach.gov mail exchanger = 10 mxb-00539a01.gslb.pphosted.com. georgia.gov mail exchanger = 10 mxa-003fd101.gslb.pphosted.com. georgia.gov mail exchanger = 10 mxb-003fd101.gslb.pphosted.com. georgia.gov mail exchanger = 10 mxa-003fd101.gslb.pphosted.com. georgia.gov mail exchanger = 10 mxb-003fd101.gslb.pphosted.com. level3.net mail exchanger = 10 mx0a-007e5801.pphosted.com. level3.net mail exchanger = 10 mx0b-007e5801.pphosted.com. fultoncountyga.gov mail exchanger = 10 mxa-0032a901.gslb.pphosted.com. fultoncountyga.gov mail exchanger = 10 mxb-0032a901.gslb.pphosted.com.
+lacounty.gov mail exchanger = 10 mxa-002da105.gslb.pphosted.com. lacounty.gov mail exchanger = 10 mxb-002da105.gslb.pphosted.com. wellsfargo.com mail exchanger = 10 mxb-00004003.gslb.pphosted.com. wellsfargo.com mail exchanger = 10 mxa-00004003.gslb.pphosted.com.
+fire.ca.gov mail exchanger = 10 mxb-009ae101.gslb.pphosted.com. fire.ca.gov mail exchanger = 10 mxa-009ae101.gslb.pphosted.com.
+lacounty.gov mail exchanger = 10 mxb-002da105.gslb.pphosted.com.
+lacounty.gov mail exchanger = 10 mxa-002da105.gslb.pphosted.com.
+fire.ca.gov mail exchanger = 10 mxb-009ae101.gslb.pphosted.com.
+fire.ca.gov mail exchanger = 10 mxa-009ae101.gslb.pphosted.com. commonspirit.org mail exchanger = 20 mx0b-00116001.pphosted.com. commonspirit.org mail exchanger = 20 mx0a-00116001.pphosted.com. dignityhealth.org mail exchanger = 10 mxa-00116001.gslb.pphosted.com. dignityhealth.org mail exchanger = 10 mxb-00116001.gslb.pphosted.com.
+jpl.nasa.gov mail exchanger = 20 mxb-0020b901.gslb.pphosted.com.
+jpl.nasa.gov mail exchanger = 20 mxa-0020b901.gslb.pphosted.com. usps.com mail exchanger = 10 mxb-0038fd02.gslb.gpphosted.com. usps.com mail exchanger = 10 mxa-0038fd02.gslb.gpphosted.com.
+longbeach.gov mail exchanger = 10 mxb-00539a01.gslb.pphosted.com.
+longbeach.gov mail exchanger = 10 mxa-00539a01.gslb.pphosted.com.
+georgia.gov mail exchanger = 10 mxa-003fd101.gslb.pphosted.com. georgia.gov mail exchanger = 10 mxb-003fd101.gslb.pphosted.com.
+georgia.gov mail exchanger = 10 mxb-003fd101.gslb.pphosted.com.
+georgia.gov mail exchanger = 10 mxa-003fd101.gslb.pphosted.com.
+level3.net mail exchanger = 10 mx0a-007e5801.pphosted.com. level3.net mail exchanger = 10 mx0b-007e5801.pphosted.com. fultoncountyga.gov mail exchanger = 10 mxb-0032a901.gslb.pphosted.com.
+fultoncountyga.gov mail exchanger = 10 mxa-0032a901.gslb.pphosted.com. atlantaga.gov mail exchanger = 0 mxa-003fa601.gslb.pphosted.com. atlantaga.gov mail exchanger = 0 mxb-003fa601.gslb.pphosted.com.
+lacounty.gov mail exchanger = 10 mxb-002da105.gslb.pphosted.com. lacounty.gov mail exchanger = 10 mxa-002da105.gslb.pphosted.com. wellsfargo.com mail exchanger = 10 mxa-00004003.gslb.pphosted.com. wellsfargo.com mail exchanger = 10 mxb-00004003.gslb.pphosted.com. fire.ca.gov mail exchanger = 10 mxb-009ae101.gslb.pphosted.com. fire.ca.gov mail exchanger = 10 mxa-009ae101.gslb.pphosted.com. lacounty.gov mail exchanger = 10 mxb-002da105.gslb.pphosted.com.
+lacounty.gov mail exchanger = 10 mxa-002da105.gslb.pphosted.com.
+fire.ca.gov mail exchanger = 10 mxb-009ae101.gslb.pphosted.com.
+fire.ca.gov mail exchanger = 10 mxa-009ae101.gslb.pphosted.com. commonspirit.org mail exchanger = 20 mx0b-00116001.pphosted.com.
+commonspirit.org mail exchanger = 20 mx0a-00116001.pphosted.com. dignityhealth.org mail exchanger = 10 mxa-00116001.gslb.pphosted.com. dignityhealth.org mail exchanger = 10 mxb-00116001.gslb.pphosted.com. jpl.nasa.gov mail exchanger = 20 mxb-0020b901.gslb.pphosted.com. jpl.nasa.gov mail exchanger = 20 mxa-0020b901.gslb.pphosted.com. usps.com mail exchanger = 10 mxb-0038fd02.gslb.gpphosted.com. usps.com mail exchanger = 10 mxa-0038fd02.gslb.gpphosted.com. longbeach.gov mail exchanger = 10 mxb-00539a01.gslb.pphosted.com. longbeach.gov mail exchanger = 10 mxa-00539a01.gslb.pphosted.com. georgia.gov mail exchanger = 10 mxb-003fd101.gslb.pphosted.com.
+georgia.gov mail exchanger = 10 mxa-003fd101.gslb.pphosted.com. georgia.gov mail exchanger = 10 mxa-003fd101.gslb.pphosted.com. georgia.gov mail exchanger = 10 mxb-003fd101.gslb.pphosted.com. level3.net mail exchanger = 10 mx0a-007e5801.pphosted.com. level3.net mail exchanger = 10 mx0b-007e5801.pphosted.com. fultoncountyga.gov mail exchanger = 10 mxb-0032a901.gslb.pphosted.com.
+fultoncountyga.gov mail exchanger = 10 mxa-0032a901.gslb.pphosted.com. atlantaga.gov mail exchanger = 0 mxa-003fa601.gslb.pphosted.com.
+atlantaga.gov mail exchanger = 0 mxb-003fa601.gslb.pphosted.com. lacounty.gov mail exchanger = 10 mxb-002da105.gslb.pphosted.com. lacounty.gov mail exchanger = 10 mxa-002da105.gslb.pphosted.com. wellsfargo.com mail exchanger = 10 mxb-00004003.gslb.pphosted.com. wellsfargo.com mail exchanger = 10 mxa-00004003.gslb.pphosted.com. fire.ca.gov mail exchanger = 10 mxb-009ae101.gslb.pphosted.com. fire.ca.gov mail exchanger = 10 mxa-009ae101.gslb.pphosted.com. lacounty.gov mail exchanger = 10 mxb-002da105.gslb.pphosted.com. lacounty.gov mail exchanger = 10 mxa-002da105.gslb.pphosted.com. fire.ca.gov mail exchanger = 10 mxb-009ae101.gslb.pphosted.com. fire.ca.gov mail exchanger = 10 mxa-009ae101.gslb.pphosted.com. commonspirit.org mail exchanger = 20 mx0a-00116001.pphosted.com.
+commonspirit.org mail exchanger = 20 mx0b-00116001.pphosted.com. dignityhealth.org mail exchanger = 10 mxa-00116001.gslb.pphosted.com. dignityhealth.org mail exchanger = 10 mxb-00116001.gslb.pphosted.com.
+~ $ bash nsquery.sh |grep aka
+jpl.nasa.gov nameserver = a2-67.akam.net. jpl.nasa.gov nameserver = a14-67.akam.net. jpl.nasa.gov nameserver = a1-91.akam.net.
+jpl.nasa.gov nameserver = a7-65.akam.net. jpl.nasa.gov nameserver = a8-65.akam.net. jpl.nasa.gov nameserver = a11-67.akam.net.
+wildcard.usps.com.edgekey.net canonical name = e6531.dsca.akamaiedge.net.
+dsca.akamaiedge.net
+        origin = n0dsca.akamaiedge.net
+        mail addr = hostmaster.akamai.com wildcard.usps.com.edgekey.net canonical name = e6531.dsca.akamaiedge.net.
+dsca.akamaiedge.net
+        origin = n0dsca.akamaiedge.net mail addr = hostmaster.akamai.com
+nasa.gov nameserver = a5-66.akam.net. nasa.gov nameserver = a1-32.akam.net.
+nasa.gov nameserver = a14-67.akam.net.
+nasa.gov nameserver = a8-66.akam.net.
+nasa.gov nameserver = a9-64.akam.net.
+nasa.gov nameserver = a12-64.akam.net.
+cia.gov nameserver = a16-67.akam.net.
+cia.gov nameserver = a13-65.akam.net. cia.gov nameserver = a3-64.akam.net. cia.gov nameserver = a12-65.akam.net.
+cia.gov nameserver = a22-66.akam.net.
+cia.gov nameserver = a1-22.akam.net. polb.com nameserver = a5-67.akam.net.
+polb.com nameserver = a1-172.akam.net.
+polb.com nameserver = a22-67.akam.net. polb.com nameserver = a9-67.akam.net. polb.com nameserver = a14-64.akam.net. polb.com nameserver = a28-65.akam.net. wellsfargo.com nameserver = a24-66.akam.net.
+wellsfargo.com nameserver = a1-189.akam.net.
+wellsfargo.com nameserver = a2-64.akam.net. state.gov nameserver = a1-63.akam.net.
+state.gov nameserver = a3-66.akam.net.
+state.gov nameserver = a14-64.akam.net. state.gov nameserver = a8-67.akam.net. state.gov nameserver = a26-65.akam.net. state.gov nameserver = a9-64.akam.net. jpl.nasa.gov nameserver = a8-65.akam.net.
+jpl.nasa.gov nameserver = a1-91.akam.net. jpl.nasa.gov nameserver = a2-67.akam.net.
+jpl.nasa.gov nameserver = a14-67.akam.net. jpl.nasa.gov nameserver = a11-67.akam.net.
+jpl.nasa.gov nameserver = a7-65.akam.net. wildcard.usps.com.edgekey.net canonical name = e6531.dsca.akamaiedge.net. dsca.akamaiedge.net
+        origin = n0dsca.akamaiedge.net
+        mail addr = hostmaster.akamai.com wildcard.usps.com.edgekey.net canonical name = e6531.dsca.akamaiedge.net.
+dsca.akamaiedge.net origin = n0dsca.akamaiedge.net mail addr = hostmaster.akamai.com nasa.gov nameserver = a5-66.akam.net. nasa.gov nameserver = a14-67.akam.net.
+nasa.gov nameserver = a12-64.akam.net. nasa.gov nameserver = a9-64.akam.net.
+nasa.gov nameserver = a8-66.akam.net. nasa.gov nameserver = a1-32.akam.net. cia.gov nameserver = a13-65.akam.net. cia.gov nameserver = a12-65.akam.net. cia.gov nameserver = a16-67.akam.net. cia.gov nameserver = a3-64.akam.net. cia.gov nameserver = a22-66.akam.net.
+cia.gov nameserver = a1-22.akam.net. polb.com nameserver = a5-67.akam.net. polb.com nameserver = a9-67.akam.net.
+polb.com nameserver = a28-65.akam.net. polb.com nameserver = a1-172.akam.net. polb.com nameserver = a22-67.akam.net.
+polb.com nameserver = a14-64.akam.net.
+wellsfargo.com nameserver = a2-64.akam.net. wellsfargo.com nameserver = a24-66.akam.net. wellsfargo.com nameserver = a1-189.akam.net.
+state.gov nameserver = a8-67.akam.net. state.gov nameserver = a1-63.akam.net. state.gov nameserver = a9-64.akam.net.
+state.gov nameserver = a3-66.akam.net.
+state.gov nameserver = a14-64.akam.net. state.gov nameserver = a26-65.akam.net.
+jpl.nasa.gov nameserver = a14-67.akam.net.
+jpl.nasa.gov nameserver = a7-65.akam.net. jpl.nasa.gov nameserver = a1-91.akam.net.
+jpl.nasa.gov nameserver = a2-67.akam.net.
+jpl.nasa.gov nameserver = a8-65.akam.net.
+jpl.nasa.gov nameserver = a11-67.akam.net. wildcard.usps.com.edgekey.net canonical name = e6531.dsca.akamaiedge.net.
+dsca.akamaiedge.net
+        origin = n0dsca.akamaiedge.net
+        mail addr = hostmaster.akamai.com wildcard.usps.com.edgekey.net canonical name = e6531.dsca.akamaiedge.net.
+dsca.akamaiedge.net
+        origin = n0dsca.akamaiedge.net
+        mail addr = hostmaster.akamai.com
+nasa.gov nameserver = a12-64.akam.net.
+nasa.gov nameserver = a9-64.akam.net.
+nasa.gov nameserver = a8-66.akam.net.
+nasa.gov nameserver = a14-67.akam.net. nasa.gov nameserver = a1-32.akam.net.
+nasa.gov nameserver = a5-66.akam.net. cia.gov nameserver = a1-22.akam.net.
+cia.gov nameserver = a16-67.akam.net.
+cia.gov nameserver = a12-65.akam.net.
+cia.gov nameserver = a13-65.akam.net.
+cia.gov nameserver = a22-66.akam.net. cia.gov nameserver = a3-64.akam.net. polb.com nameserver = a9-67.akam.net.
+polb.com nameserver = a1-172.akam.net.
+polb.com nameserver = a5-67.akam.net. polb.com nameserver = a28-65.akam.net.
+polb.com nameserver = a22-67.akam.net.
+polb.com nameserver = a14-64.akam.net.
+wellsfargo.com nameserver = a2-64.akam.net.
+wellsfargo.com nameserver = a1-189.akam.net. wellsfargo.com nameserver = a24-66.akam.net.
+state.gov nameserver = a3-66.akam.net.
+state.gov nameserver = a8-67.akam.net.
+state.gov nameserver = a9-64.akam.net. state.gov nameserver = a14-64.akam.net.
+state.gov nameserver = a26-65.akam.net.
+state.gov nameserver = a1-63.akam.net.
+~ $ bash nsquery.sh |grep oudf lacourt.ca.gov nameserver = keaton.ns.cloudflare.com.
+lacourt.ca.gov nameserver = kelly.ns.cloudflare.com.
+earthlink.net nameserver = carl.ns.cloudflare.com.
+earthlink.net nameserver = rihana.ns.cloudflare.com.
+        origin = ernest.ns.cloudflare.com
+        mail addr = dns.cloudflare.com
+        origin = ernest.ns.cloudflare.com
+        mail addr = dns.cloudflare.com
+commerce.gov nameserver = cecelia.ns.cloudflare.com.
+commerce.gov nameserver = max.ns.cloudflare.com.
+fire.ca.gov nameserver = keaton.ns.cloudflare.com.
+fir
 
 
+
+
+On Mon, Apr 20, 2026, 1:46 AM Rashard Iman Kelly <holetoanotheruniverse40@gmail.com> wrote:
+sted.com.
+level3.net      mail exchanger = 10 mx0a-007e5801.ppho
+sted.com.
++ nslookup -type=ns level3.net                       
++ nslookup -type=ns fultoncountyga.gov
++ nslookup -type=mx fultoncountyga.gov
+fultoncountyga.gov      mail exchanger = 10 mxa-0032a9 @keishaforgovernor@gmail.com where is my kid?
+01.gslb.pphosted.com.                                
+fultoncountyga.gov      mail exchanger = 10 mxb-0032a9 @letschat@virtiserv.com @jasmine.crockett@mail.house.gov @report@cisa.gov 
+01.gslb.pphosted.com.
++ nslookup -type=mx whitehouse.gov
++ nslookup -type=mx whitehouse.gov                   
++ nslookup -type=mx metro.net
++ nslookup -type=ns metro.net                        
++ nslookup -type=ns lacounty.gov
++ nslookup -type=mx lacounty.gov                     
+lacounty.gov    mail exchanger = 10 mxa-002da105.gslb.
+pphosted.com.                                        
+lacounty.gov    mail exchanger = 10 mxb-002da105.gslb.
+pphosted.com.                                        
++ nslookup -type=ns commerce.gov                     
++ nslookup -type=mx commerce.gov
++ nslookup -type=ns polb.com                         
++ nslookup -type=mx polb.com                         
++ nslookup -type=mx wellsfargo.com
+wellsfargo.com  mail exchanger = 10 mxa-00004003.gslb.
+pphosted.com.
+wellsfargo.com  mail exchanger = 10 mxb-00004003.gslb.
+pphosted.com.                                        
++ nslookup -type=ns wellsfargo.com                   
++ nslookup -type=ns musiccenter.org                  
++ nslookup -type=mx musiccenter.org                  
++ nslookup -type=ns laopera.org                      
++ nslookup -type=mx laopera.org                      
++ nslookup -type=ns fire.ca.gov                      
++ nslookup -type=ns ca.gov
++ nslookup -type=mx ca.gov                           
++ nslookup -type=mx fire.ca.gov                      
+fire.ca.gov     mail exchanger = 10 mxa-009ae101.gslb.
+pphosted.com.
+fire.ca.gov     mail exchanger = 10 mxb-009ae101.gslb.
+pphosted.com.
++ nslookup -type=ns stfranciscenterla.org
++ nslookup -type=mx stfranciscenterla.org            
++ nslookup -type=mx lacounty.gov                     
+lacounty.gov    mail exchanger = 10 mxb-002da105.gslb.
+pphosted.com.
+lacounty.gov    mail exchanger = 10 mxa-002da105.gslb.
+pphosted.com.                                        
++ nslookup -type=ns lacounty.gov
++ nslookup -type=mx state.gov                        
++ nslookup -type=ns state.gov
++ nslookup -type=ns embassyeritrea.org
++ nslookup -type=mx embassyeritrea.org               
++ nslookup -type=ns ethiopianembassy.org
++ nslookup -type=mx ethiopianembassy.org             
++ nslookup -type=mx state.gov
++ nslookup -type=ns embassyeritrea.org               
++ nslookup -type=mx stfranciscenterla.org            
++ nslookup -type=mx fire.ca.gov
+fire.ca.gov     mail exchanger = 10 mxb-009ae101.gslb.
+pphosted.com.
+fire.ca.gov     mail exchanger = 10 mxa-009ae101.gslb.
+pphosted.com.
++ nslookup -type=ns ca.gov                           
++ nslookup -type=mx ca.gov                           
++ nslookup -type=mx starbucks.com
++ nslookup -type=ns starbucks.com
++ nslookup -type=ns starbucks.com
++ nslookup -type=mx commonspirit.org                 
+commonspirit.org        mail exchanger = 20 mx0b-00116
+001.pphosted.com.                                    
+commonspirit.org        mail exchanger = 20 mx0a-00116
+001.pphosted.com.                                    
++ nslookup -type=ns commonspirit.org
++ nslookup -type=ns dignityhealth.org                
++ nslookup -type=mx dignityhealth.org
+dignityhealth.org       mail exchanger = 10 mxb-001160
+01.gslb.pphosted.com.
+dignityhealth.org       mail exchanger = 10 mxa-001160
+01.gslb.pphosted.com.
++ nslookup -type=ns starbucks.com                    
++ nslookup -type=ns virtiserv.com
++ nslookup -type=mx virtiserv.com                    
+~ $ bash nsquery.sh |grep pph
+jpl.nasa.gov    mail exchanger = 20 mxa-0020b901.gslb.
+pphosted.com.                                        
+jpl.nasa.gov    mail exchanger = 20 mxb-0020b901.gslb.
+pphosted.com.                                        
+usps.com        mail exchanger = 10 mxb-0038fd02.gslb.
+gpphosted.com.
+usps.com        mail exchanger = 10 mxa-0038fd02.gslb.
+gpphosted.com.                                       
+longbeach.gov   mail exchanger = 10 mxb-00539a01.gslb.
+pphosted.com.
+longbeach.gov   mail exchanger = 10 mxa-00539a01.gslb.
+pphosted.com.
+georgia.gov     mail exchanger = 10 mxb-003fd101.gslb.
+pphosted.com.                                        
+georgia.gov     mail exchanger = 10 mxa-003fd101.gslb.
+pphosted.com.
+georgia.gov     mail exchanger = 10 mxa-003fd101.gslb.
+pphosted.com.
+georgia.gov     mail exchanger = 10 mxb-003fd101.gslb.
+pphosted.com.
+level3.net      mail exchanger = 10 mx0a-007e5801.ppho
+sted.com.
+level3.net      mail exchanger = 10 mx0b-007e5801.ppho
+sted.com.                                            
+fultoncountyga.gov      mail exchanger = 10 mxb-0032a9
+01.gslb.pphosted.com.
+fultoncountyga.gov      mail exchanger = 10 mxa-0032a9
+01.gslb.pphosted.com.
+lacounty.gov    mail exchanger = 10 mxa-002da105.gslb.
+pphosted.com.
+lacounty.gov    mail exchanger = 10 mxb-002da105.gslb.
+pphosted.com.
+wellsfargo.com  mail exchanger = 10 mxb-00004003.gslb.
+pphosted.com.
+wellsfargo.com  mail exchanger = 10 mxa-00004003.gslb.
+pphosted.com.
+fire.ca.gov     mail exchanger = 10 mxb-009ae101.gslb.
+pphosted.com.                                        
+fire.ca.gov     mail exchanger = 10 mxa-009ae101.gslb.
+pphosted.com.                                        
+lacounty.gov    mail exchanger = 10 mxb-002da105.gslb.
+pphosted.com.                                        
+lacounty.gov    mail exchanger = 10 mxa-002da105.gslb.
+pphosted.com.                                        
+fire.ca.gov     mail exchanger = 10 mxa-009ae101.gslb.
+pphosted.com.                                        
+fire.ca.gov     mail exchanger = 10 mxb-009ae101.gslb.
+pphosted.com.                                        
+commonspirit.org        mail exchanger = 20 mx0a-00116
+001.pphosted.com.                                    
+commonspirit.org        mail exchanger = 20 mx0b-00116
+001.pphosted.com.
+dignityhealth.org       mail exchanger = 10 mxa-001160
+01.gslb.pphosted.com.                                
+dignityhealth.org       mail exchanger = 10 mxb-001160
+01.gslb.pphosted.com.                                
+~ $ bash nsquery.sh |grep nic                        
+wp1-ext.usps.gov        canonical name = wildcard.usps
+.com.edgekey.net.                                    
+wildcard.usps.com.edgekey.net   canonical name = e6531
+.dsca.akamaiedge.net.                                
+wp1-ext.usps.gov        canonical name = wildcard.usps
+.com.edgekey.net.                                    
+wildcard.usps.com.edgekey.net   canonical name = e6531
+.dsca.akamaiedge.net.                                
+musiccenter.org nameserver = ns97.worldnic.com.
+musiccenter.org nameserver = ns98.worldnic.com.      
+commonspirit.org        nameserver = nick.ns.cloudflar
+e.com.                                               
+~ $ bash nsquery.sh |grep cloud
+lacourt.ca.gov  nameserver = kelly.ns.cloudflare.com.
+lacourt.ca.gov  nameserver = keaton.ns.cloudflare.com.
+fbi.gov nameserver = ns-cloud-e1.googledomains.com.  
+fbi.gov nameserver = ns-cloud-e4.googledomains.com.
+fbi.gov nameserver = ns-cloud-e2.googledomains.com.  
+fbi.gov nameserver = ns-cloud-e3.googledomains.com.
+earthlink.net   nameserver = rihana.ns.cloudflare.com.
+earthlink.net   nameserver = carl.ns.cloudflare.com.
+        origin = ernest.ns.cloudflare.com
+        mail addr = dns.cloudflare.com               
+        origin = ernest.ns.cloudflare.com
+        mail addr = dns.cloudflare.com               
+commerce.gov    nameserver = max.ns.cloudflare.com.  
+commerce.gov    nameserver = cecelia.ns.cloudflare.com
+.
+fire.ca.gov     nameserver = keaton.ns.cloudflare.com.
+fire.ca.gov     nameserver = kelly.ns.cloudflare.com.
+ca.gov  nameserver = chase.ns.cloudflare.com.
+ca.gov  nameserver = asa.ns.cloudflare.com.
+stfranciscenterla.org   nameserver = rachel.ns.cloudfl
+are.com.
+stfranciscenterla.org   nameserver = cameron.ns.cloudf
+lare.com.
+ca.gov  nameserver = chase.ns.cloudflare.com.
+ca.gov  nameserver = asa.ns.cloudflare.com.          
+commonspirit.org        nameserver = vida.ns.cloudflar
+e.com.                                               
+commonspirit.org        nameserver = nick.ns.cloudflar
+e.com.                                               
+dignityhealth.org       nameserver = beth.ns.cloudflar
+e.com.                                               
+dignityhealth.org       nameserver = albert.ns.cloudfl
+~ $ bash -x types.sh
++ echo 'CURRENT DNS MAP'
+CURRENT DNS MAP
++ uname -a
+Linux localhost 4.19.191 #1 SMP PREEMPT Mon Mar 9 22:1
+8:51 CST 2026 aarch64 Android
++ ifconfig -a
+Warning: cannot open /proc/net/dev (Permission denied)
+. Limited output.
+lo: flags=73<UP,LOOPBACK,RUNNING>  mtu 65536
+        inet 127.0.0.1  netmask 255.0.0.0
+        unspec 00-00-00-00-00-00-00-00-00-00-00-00-00-
+00-00-00  txqueuelen 1000  (UNSPEC)
+
+wlan0: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu
+1500
+        inet 172.25.28.68  netmask 255.255.192.0  broa
+dcast 172.25.63.255
+        unspec 00-00-00-00-00-00-00-00-00-00-00-00-00-
+00-00-00  txqueuelen 3000  (UNSPEC)
+
++ uptime
+01:14:32 up 14:44,  load average: 15.15, 15.62, 15.33
++ cal
+     April 2026
+Su Mo Tu We Th Fr Sa
+          1  2  3  4
+5  6  7  8  9 10 11
+12 13 14 15 16 17 18
+19 20 21 22 23 24 25
+26 27 28 29 30
+
++ nslookup -type=ns jpl.nasa.gov
+Server:         8.8.8.8
+Address:        8.8.8.8#53
+
+Non-authoritative answer:
+jpl.nasa.gov    nameserver = a7-65.akam.net.
+jpl.nasa.gov    nameserver = a11-67.akam.net.
+jpl.nasa.gov    nameserver = a1-91.akam.net.
+jpl.nasa.gov    nameserver = a14-67.akam.net.
+jpl.nasa.gov    nameserver = a8-65.akam.net.
+jpl.nasa.gov    nameserver = a2-67.akam.net.
+
+Authoritative answers can be found from:
+
++ nslookup -type=mx jpl.nasa.gov
+Server:         8.8.8.8
+Address:        8.8.8.8#53
+
+Non-authoritative answer:
+jpl.nasa.gov    mail exchanger = 20 mxb-0020b901.gslb.
+pphosted.com.
+jpl.nasa.gov    mail exchanger = 20 mxa-0020b901.gslb.
+pphosted.com.
+
+Authoritative answers can be found from:
+
++ nslookup -type=ns usps.com
+Server:         8.8.8.8
+Address:        8.8.8.8#53
+
+Non-authoritative answer:
+usps.com        nameserver = dns082.usps.com.
+usps.com        nameserver = dns141.usps.com.
+
+Authoritative answers can be found from:
+
++ nslookup -type=mx usps.com
+Server:         8.8.8.8
+Address:        8.8.8.8#53
+
+Non-authoritative answer:
+usps.com        mail exchanger = 10 mxb-0038fd02.gslb.
+gpphosted.com.
+usps.com        mail exchanger = 10 mxa-0038fd02.gslb.
+gpphosted.com.
+
+Authoritative answers can be found from:
+
++ nslookup -type=ns wp1-ext.usps.gov
+Server:         8.8.8.8
+Address:        8.8.8.8#53
+
+Non-authoritative answer:
+wp1-ext.usps.gov        canonical name = wildcard.usps
+.com.edgekey.net.
+wildcard.usps.com.edgekey.net   canonical name = e6531
+.dsca.akamaiedge.net.
+
+Authoritative answers can be found from:
+dsca.akamaiedge.net
+        origin = n0dsca.akamaiedge.net
+        mail addr = hostmaster.akamai.com
+        serial = 1776672873                          
+        refresh = 1000                               
+        retry = 1000                                 
+        expire = 1000
+        minimum = 1800
+
++ nslookup -type=mx wp1-ext.usps.gov
+Server:         8.8.8.8
+Address:        8.8.8.8#53
+
+Non-authoritative answer:
+wp1-ext.usps.gov        canonical name = wildcard.usps
+.com.edgekey.net.
+wildcard.usps.com.edgekey.net   canonical name = e6531
+.dsca.akamaiedge.net.
+Authoritative answers can be found from:
+dsca.akamaiedge.net
+        origin = n0dsca.akamaiedge.net
+        mail addr = hostmaster.akamai.com
+        serial = 1776672873
+        refresh = 1000
+        retry = 1000
+        expire = 1000
+        minimum = 1800
+
++ nslookup -type=mx lacourt.ca.gov
+Server:         8.8.8.8
+Address:        8.8.8.8#53
+
+Non-authoritative answer:
+lacourt.ca.gov  mail exchanger = 1 lacourt-ca-gov.mail
+.protection.outlook.com.
+
+Authoritative answers can be found from:
++ nslookup -type=ns lacourt.ca.gov
+Server:         8.8.8.8                              
+Address:        8.8.8.8#53
+
+Non-authoritative answer:
+lacourt.ca.gov  nameserver = keaton.ns.cloudflare.com.
+lacourt.ca.gov  nameserver = kelly.ns.cloudflare.com.
+
+Authoritative answers can be found from:
++ nslookup -type=ns lacourt.org
+Server:         8.8.8.8
+Address:        8.8.8.8#53
+
+Non-authoritative answer:
+lacourt.org     nameserver = ns18.domaincontrol.com.
+lacourt.org     nameserver = ns17.domaincontrol.com.
+
+Authoritative answers can be found from:
+
++ nslookup -type=mx lacourt.org                      
+Server:         8.8.8.8
+Address:        8.8.8.8#53
+Non-authoritative answer:                            
+lacourt.org     mail exchanger = 0 lacourt-org.mail.pr
+otection.outlook.com.
+Authoritative answers can be found from:
+
++ nslookup -type=ns nasa.gov
+Server:         8.8.8.8                              
+Address:        8.8.8.8#53
+Non-authoritative answer:
+nasa.gov        nameserver = a12-64.akam.net.        
+nasa.gov        nameserver = a5-66.akam.net.
+nasa.gov        nameserver = a9-64.akam.net.
+nasa.gov        nameserver = a8-66.akam.net.         
+nasa.gov        nameserver = a14-67.akam.net.        
+nasa.gov        nameserver = a1-32.akam.net.
+
+Authoritative answers can be found from:
++ nslookup -type=mx nasa.gov                         
+Server:         8.8.8.8                              
+Address:        8.8.8.8#53
+Non-authoritative answer:                            
+nasa.gov        mail exchanger = 0 nasa-gov.mail.prote
+ction.outlook.com.
+
+Authoritative answers can be found from:
+
++ nslookup -type=mx cia.gov                          
+Server:         8.8.8.8
+Address:        8.8.8.8#53
+
+Non-authoritative answer:                            
+cia.gov mail exchanger = 10 mail4.cia.gov.
+cia.gov mail exchanger = 10 mail3.cia.gov.
+Authoritative answers can be found from:
++ nslookup -type=ns cia.gov                          
+Server:         8.8.8.8
+Address:        8.8.8.8#53
+
+Non-authoritative answer:
+cia.gov nameserver = a16-67.akam.net.
+cia.gov nameserver = a1-22.akam.net.
+cia.gov nameserver = a12-65.akam.net.
+cia.gov nameserver = a3-64.akam.net.
+cia.gov nameserver = a13-65.akam.net.
+cia.gov nameserver = a22-66.akam.net.
+
+Authoritative answers can be found from:
+
++ traceroute google.com
+traceroute to google.com (142.251.45.14), 30 hops max,
+60 byte packets
+1  172.25.0.1 (172.25.0.1)  2.091 ms  2.855 ms  2.798
+ms
+2  161.149.63.7 (161.149.63.7)  3.253 ms 161.149.63.6
+(161.149.63.6)  2.620 ms  2.732 ms
+3  * * *
+4  * * *
+5  * * *
+6  * * *
+7  * * *
+8  * * *
+9  * * *
+10  * * *
+11  * * *
+12  * * *
+13  * * *
+14  * * *
+15  * * *
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *
++ nslookup -type=mx google.com
+Server:         8.8.8.8
+Address:        8.8.8.8#53
+
+Non-authoritative answer:
+google.com      mail exchanger = 10 smtp.google.com.
+
+Authoritative answers can be found from:
+
++ nslookup -type=ns google.com
+Server:         8.8.8.8
+Address:        8.8.8.8#53
+
+Non-authoritative answer:
+google.com      nameserver = ns2.google.com.
+google.com      nameserver = ns4.google.com.
+google.com      nameserver = ns1.google.com.
+google.com      nameserver = ns3.google.com.
+
+Authoritative answers can be found from:
+
++ nslookup -type=ns fbi.gov
+Server:         8.8.8.8
+Address:        8.8.8.8#53
+
+Non-authoritative answer:
+fbi.gov nameserver = ns-cloud-e3.googledomains.com.
+fbi.gov nameserver = ns-cloud-e2.googledomains.com.
+fbi.gov nameserver = ns-cloud-e1.googledomains.com.
+fbi.gov nameserver = ns-cloud-e4.googledomains.com.
+
+Authoritative answers can be found from:
+
++ nslookup -type=mx fbi.gov
+Server:         8.8.8.8
+Address:        8.8.8.8#53
+
+Non-authoritative answer:
+fbi.gov mail exchanger = 10 mx-east.fbi.gov.
+fbi.gov mail exchanger = 20 mx-west.fbi.gov.
+
+Authoritative answers can be found from:
+
++ nslookup -type=mx noaa.gov
+Server:         8.8.8.8
+Address:        8.8.8.8#53
+
+Non-authoritative answer:
+noaa.gov        mail exchanger = 40 ALT4.ASPMX.L.GOOGL
+E.COM.
+noaa.gov        mail exchanger = 40 ALT3.ASPMX.L.GOOGL
+E.COM.
+noaa.gov        mail exchanger = 20 ALT1.ASPMX.L.GOOGL
+E.COM.
+noaa.gov        mail exchanger = 20 ALT2.ASPMX.L.GOOGL
+E.COM.
+noaa.gov        mail exchanger = 10 ASPMX.L.GOOGLE.COM
+.
+
+Authoritative answers can be found from:
+
++ nslookup -type=ns noaa.gov
+Server:         8.8.8.8
+Address:        8.8.8.8#53
+
+Non-authoritative answer:
+noaa.gov        nameserver = ns-02.noaa.gov.
+noaa.gov        nameserver = ns-01.noaa.gov.
+noaa.gov        nameserver = ns-03.noaa.gov.
+
+Authoritative answers can be found from:
+
++ nslookup -type=mx lacity.gov
+Server:         8.8.8.8
+Address:        8.8.8.8#53
+
+Non-authoritative answer:
+lacity.gov      mail exchanger = 10 alt3.aspmx.l.googl
+e.com.
+lacity.gov      mail exchanger = 5 alt2.aspmx.l.google
+.com.
+lacity.gov      mail exchanger = 1 aspmx.l.google.com.
+lacity.gov      mail exchanger = 5 alt1.aspmx.l.google
+.com.
+lacity.gov      mail exchanger = 10 alt4.aspmx.l.googl
+e.com.
+
+Authoritative answers can be found from:
+
++ nslookup -type=ns lacity.org
+Server:         8.8.8.8
+Address:        8.8.8.8#53
+
+Non-authoritative answer:
+lacity.org      nameserver = ns1.dnsmadeeasy.com.
+lacity.org      nameserver = ns3.dnsmadeeasy.com.
+lacity.org      nameserver = ns0.dnsmadeeasy.com.
+lacity.org      nameserver = ns4.dnsmadeeasy.com.
+lacity.org      nameserver = ns2.dnsmadeeasy.com.
+
+Authoritative answers can be found from:
+
++ nslookup -type=ns longbeach.gov
+Server:         8.8.8.8
+Address:        8.8.8.8#53
+
+Non-authoritative answer:
+longbeach.gov   nameserver = b8.uberns.com.
+longbeach.gov   nameserver =
 @la-county-isd hollyjmitchell coral know the black man somehow [infamy](https://youtu.be/po_hM90TgD4?si=k2dVShbmVBxCxvI-) @blackgirlscode @nasa-jpl that might be normani old boyfriend trice @nasa @nasa-giss 
 
 
