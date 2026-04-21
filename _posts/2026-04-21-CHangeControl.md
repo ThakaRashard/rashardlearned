@@ -1961,6 +1961,9 @@ The U.S. government is closed. However, because the information this website pro
 
 
 ### OLD NEWS
+
+
+[@letschat@virtiserv.com](mailto:letschat@virtiserv.com)
 - [READ @cityoflosangeles](https://www.earthdata.nasa.gov/news/los-angeles-wildfires-disrupting-daac-operations-data-access)
 Los Angeles Wildfires Disrupting DAAC Operations and Data Access
 NASA's Physical Oceanography Distributed Active Archive Center (PO.DAAC) and Jet Propulsion Laboratory (JPL) are experiencing operational outages that may affect data processing.
