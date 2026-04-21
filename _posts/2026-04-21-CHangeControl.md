@@ -10,15 +10,17 @@ date:   2026-01-22 11:51:06
 permalink: /changelog
 ---
 
-[my website intro!](https://board.okayplayer.com/okp.php?az=show_topic&forum=19&topic_id=12327&mode=full)
 [<img src="https://web.archive.org/web/20060104192812im_/http://mars.jpl.nasa.gov/mro/images/mro_banner.jpg">]( https://web.archive.org/web/20060108092026/http://mars.jpl.nasa.gov/mro/) // [@letschat@virtiserv.com](mailto:letschat@virtiserv.com)
 ### [Mars Reconnaissance Orbiter](https://hirise-pds.lpl.arizona.edu/PDS/CATALOG/MISSION.CAT) 
 : [Mission Objectives](https://www.google.com/logos/doodles/2025/fourth-of-july-2025-6753651837110704-2x.png) NASA's Mars Reconnaissance Orbiter searches for evidence that water persisted on the [surface of Mars](https://acawpg.org/adult-childrens-bill-of-rights/) for a long period of time. [ReadMore](https://science.nasa.gov/mission/mars-reconnaissance-orbiter/)
 
+[my website intro!](https://board.okayplayer.com/okp.php?az=show_topic&forum=19&topic_id=12327&mode=full)
+
+
 [@letschat@virtiserv.com](mailto:letschat@virtiserv.com)
 
 @nasa-pds @la-county-isd @newshour
-The Nancy Grasce Space Telescope homepage is aving issues, at least from here near @longbeachinnovationteam
+The Nancy Grasce Space Telescope SVSpage [svs.gsfc.nasa.gov/gallery/roman/](https://svs.gsfc.nasa.gov/gallery/roman/) is aving issues, at least from here near @longbeachinnovationteam
 
 ```
 Service Unavailable
