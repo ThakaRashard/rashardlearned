@@ -10,10 +10,24 @@ date:   2026-01-22 11:51:06
 permalink: /changelog
 ---
 
-[my website intro!](https://board.okayplayer.com/okp.php?az=show_topic&forum=19&topic_id=12327&mode=full)
 [<img src="https://web.archive.org/web/20060104192812im_/http://mars.jpl.nasa.gov/mro/images/mro_banner.jpg">]( https://web.archive.org/web/20060108092026/http://mars.jpl.nasa.gov/mro/) // [@letschat@virtiserv.com](mailto:letschat@virtiserv.com)
 ### [Mars Reconnaissance Orbiter](https://hirise-pds.lpl.arizona.edu/PDS/CATALOG/MISSION.CAT) 
-: [Mission Objectives](https://www.google.com/logos/doodles/2025/fourth-of-july-2025-6753651837110704-2x.png) NASA's Mars Reconnaissance Orbiter searches for evidence that water persisted on the [surface of Mars](https://acawpg.org/adult-childrens-bill-of-rights/) for a long period of time. [ReadMore](https://science.nasa.gov/mission/mars-reconnaissance-orbiter/) [@letschat@virtiserv.com](mailto:letschat@virtiserv.com)
+: [Mission Objectives](https://www.google.com/logos/doodles/2025/fourth-of-july-2025-6753651837110704-2x.png) NASA's Mars Reconnaissance Orbiter searches for evidence that water persisted on the [surface of Mars](https://acawpg.org/adult-childrens-bill-of-rights/) for a long period of time. [ReadMore](https://science.nasa.gov/mission/mars-reconnaissance-orbiter/)
+
+[my website intro!](https://board.okayplayer.com/okp.php?az=show_topic&forum=19&topic_id=12327&mode=full)
+
+
+[@letschat@virtiserv.com](mailto:letschat@virtiserv.com)
+
+@nasa-pds @la-county-isd @newshour
+The Nancy Grasce Space Telescope SVSpage [svs.gsfc.nasa.gov/gallery/roman/](https://svs.gsfc.nasa.gov/gallery/roman/) is aving issues, at least from here near @longbeachinnovationteam
+
+```
+Service Unavailable
+The server is temporarily unable to service your request due to maintenance downtime or capacity problems. Please try again later.
+```
+
+<img  alt="image" src="https://github.com/user-attachments/assets/0c92d8e5-4bc7-4c89-b67a-14b5c81ae8c6" />
 
 ![coral i love you @blackgirlscode](https://user-images.githubusercontent.com/19292210/60553863-044dd200-9cea-11e9-987e-7db84449f215.png?fbclid=IwY2xjawOMSrVleHRuA2FlbQIxMABicmlkETFYUTY2dTB2elNja3lGaFg2c3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHv_gHFvfu91t--upXMkwrOb9gCnPX1MlZdPC2md_VI3ai7fPq2KmzJ6XUX_t_aem_8misQL4NIvcM-OWEf3EGsg) 
 
@@ -1947,6 +1961,9 @@ The U.S. government is closed. However, because the information this website pro
 
 
 ### OLD NEWS
+
+
+[@letschat@virtiserv.com](mailto:letschat@virtiserv.com)
 - [READ @cityoflosangeles](https://www.earthdata.nasa.gov/news/los-angeles-wildfires-disrupting-daac-operations-data-access)
 Los Angeles Wildfires Disrupting DAAC Operations and Data Access
 NASA's Physical Oceanography Distributed Active Archive Center (PO.DAAC) and Jet Propulsion Laboratory (JPL) are experiencing operational outages that may affect data processing.
