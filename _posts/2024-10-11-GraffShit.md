@@ -7,6 +7,24 @@ published: true
 image: 502915645-c93b63d2-714b-4f81-a866-e2f4eb9b23ec.png
 ---
 
+
+@whitehouse @longbeachinnovationteam @la-county-isd i am at workstation 37 at billi jean in long beach and am being attacked by some sort of electric or emf device @USnavy @Howard-university-web-services [letschat@virtiserv.com](mailto:letschat@virtiserv.com) @nasa-jpl @nasa-pds
+
+```shell
+C:\Users\PAC>ipconfig
+
+Windows IP Configuration
+
+
+Ethernet adapter Ethernet:
+
+   Connection-specific DNS Suffix  . :
+   Link-local IPv6 Address . . . . . : fe80::cd99:aab:eae0:e9fc%8
+   IPv4 Address. . . . . . . . . . . : 192.168.161.137
+   Subnet Mask . . . . . . . . . . . : 255.255.254.0
+   Default Gateway . . . . . . . . . : 192.168.160.1
+```
+
 artcrimes.com moved to https://www.graffiti.org/ 
 [https://www.graffiti.org/](https://www.graffiti.org/)
 ![ARTCRiMES](https://www.graffiti.org/assets/images/kezaclogowhitetontrans.gif)
