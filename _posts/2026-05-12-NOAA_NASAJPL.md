@@ -16,6 +16,48 @@ catagories: earth dsn "Near Space Network" climate weather
 [@nasa/ECOSTRESS-Data-Resources](https://github.com/nasa/ECOSTRESS-Data-Resources)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/rashard-ecostress-jpl-iss/ECOSTRESS-Data-Resources.git/HEAD)
 
+[https://www.ncei.noaa.gov/maps/bathymetry/?xmax=-49.403&xmin=-91.612&ymax=38.002&ymin=22.560 @nasa-jpl @la-county-isd @longbeachinnovationteam this data can let you know where boats travel](https://www.ncei.noaa.gov/maps/bathymetry/?xmax=-49.403&xmin=-91.612&ymax=38.002&ymin=22.560)  @CityOfLosangeles [Unofficial LA28 Olympic Venues](https://geohub.lacity.org/content/f89cbfe086f445a2baac9636f4a7ea1e/about)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/1fc8fe60-0a19-4de2-9cc5-f8579eac23ba" />
+@nasa-jpl @nasa @whitehouse
+
+```shell
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\PAC>nslookup -type=mx nasa.gov
+Server:  LBPADC2.lbpa.local
+Address:  192.168.129.12
+
+Non-authoritative answer:
+nasa.gov        MX preference = 0, mail exchanger = nasa-gov.mail.protection.outlook.com
+
+nasa-gov.mail.protection.outlook.com    internet address = 52.101.11.12
+nasa-gov.mail.protection.outlook.com    internet address = 52.101.9.19
+nasa-gov.mail.protection.outlook.com    internet address = 52.101.8.52
+nasa-gov.mail.protection.outlook.com    internet address = 52.101.8.50
+nasa-gov.mail.protection.outlook.com    AAAA IPv6 address = 2a01:111:f403:f904::
+nasa-gov.mail.protection.outlook.com    AAAA IPv6 address = 2a01:111:f403:f904::1
+nasa-gov.mail.protection.outlook.com    AAAA IPv6 address = 2a01:111:f403:f90e::1
+nasa-gov.mail.protection.outlook.com    AAAA IPv6 address = 2a01:111:f403:f900::1
+
+C:\Users\PAC>nslookup -type=mx jpl.nasa.gov
+Server:  LBPADC2.lbpa.local
+Address:  192.168.129.12
+
+Non-authoritative answer:
+jpl.nasa.gov    MX preference = 20, mail exchanger = mxa-0020b901.gslb.pphosted.com
+jpl.nasa.gov    MX preference = 20, mail exchanger = mxb-0020b901.gslb.pphosted.com
+
+mxa-0020b901.gslb.pphosted.com  internet address = 67.231.155.103
+mxb-0020b901.gslb.pphosted.com  internet address = 67.231.155.103
+
+C:\Users\PAC>
+```
+
+<img  alt="image" src="https://github.com/user-attachments/assets/fd24e46b-31fd-4b8d-bc24-25ce2817727f" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/39aaca62-8444-4da8-80c5-6f2a0be4be13" />
+
 ## NASA Appropriations and Authorizations: At a Glance
 [https://www.congress.gov/crs-product/R43419](https://www.congress.gov/crs-product/R43419)
 Congressional deliberations about the National Aeronautics and Space Administration (NASA) often focus on the availability of funding. This product provides data on past [a](https://www.earthdata.nasa.gov/data/projects/lance/people) nd current NASA appropriations, as well as the President's FY2026 budget request and congressional action on FY2026 appropriations and authorizations of appropriations. [READ - CLiCKHERE](https://www.congress.gov/crs-product/R43419)
