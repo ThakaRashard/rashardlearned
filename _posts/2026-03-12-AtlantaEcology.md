@@ -18,7 +18,21 @@ date:   2026-02-06 14:51:06
 
 ## Atlanta[!](https://youtu.be/_nsDBUyLWcU)
 [Map-Link @ForAtlanta](https://worldview.earthdata.nasa.gov/?v=-91.79757830532274,31.178810718603835,-78.51720074653376,38.64902309542264&l=Reference_Labels_15m(hidden),Coastlines_15m(hidden,opacity=0.59),VIIRS_SNPP_DayNightBand_At_Sensor_Radiance,VIIRS_SNPP_DayNightBand_AtSensor_M15(hidden),VIIRS_SNPP_CorrectedReflectance_TrueColor(hidden)&lg=true&s=-87.6324,41.8832&t=2022-02-06-T00%3A00%3A00Z)
-@la-county-isd its not fair [link](https://www.google.com/search?q=atlanta+striptease&sca_esv=a598d55f83047397&rlz=1C1GCEJ_enUS1205US1205&sxsrf=ANbL-n5czqAnxCJxaWcSvhr_v7EQgf0TQg:1773526190183&udm=1&lsack=rty1aanvCoLbkPIPuKiHyAo&sa=X&ved=2ahUKEwip_sL0s6CTAxWCLUQIHTjUAakQjGp6BAglEAA&biw=1416&bih=952&dpr=1) / [link](https://www.magiccity.com/) <@ @nasa-jpl help erika left me for that because its what she was used to being in the music world @sony @cnn [https://worldview.earthdata.nasa.gov/?v=-91.79757830532274,31.178810718603835,-78.51720074653376,38.64902309542264&l=Reference_Labels_15m(hidden),Coastlines_15m(hidden,opacity=0.59),VIIRS_SNPP_DayNightBand_At_Sensor_Radiance,VIIRS_SNPP_DayNightBand_AtSensor_M15(hidden),VIIRS_SNPP_CorrectedReflectance_TrueColor(hidden)&lg=true&s=-87.6324,41.8832&t=2022-02-06-T00%3A00%3A00Z](https://worldview.earthdata.nasa.gov/?v=-91.79757830532274,31.178810718603835,-78.51720074653376,38.64902309542264&l=Reference_Labels_15m(hidden),Coastlines_15m(hidden,opacity=0.59),VIIRS_SNPP_DayNightBand_At_Sensor_Radiance,VIIRS_SNPP_DayNightBand_AtSensor_M15(hidden),VIIRS_SNPP_CorrectedReflectance_TrueColor(hidden)&lg=true&s=-87.6324,41.8832&t=2022-02-06-T00%3A00%3A00Z) @newshour @blackgirlscode
+@la-county-isd its not fair [link](https://www.google.com/search?q=atlanta+striptease&sca_esv=a598d55f83047397&rlz=1C1GCEJ_enUS1205US1205&sxsrf=ANbL-n5czqAnxCJxaWcSvhr_v7EQgf0TQg:1773526190183&udm=1&lsack=rty1aanvCoLbkPIPuKiHyAo&sa=X&ved=2ahUKEwip_sL0s6CTAxWCLUQIHTjUAakQjGp6BAglEAA&biw=1416&bih=952&dpr=1) / [link](https://www.magiccity.com/) <@ @nasa-jpl help erika left me for that because its what she was used to being in the music world @sony @cnn 
+
+
+![mc](https://web.archive.org/web/20060622000110im_/http://mpfwww.jpl.nasa.gov/martianchronicle/martianchron5/masthead5.gif)
+
+<img alt="image" src="https://github.com/user-attachments/assets/b59acc8b-3bdd-4127-ad57-090e76ded96f" />
+
+
+
+`Rashard of my Kelly NASA JPL poison right hand disabled after chemical bombing of City Hall Los Angeles`
+<iframe src="https://archive.org/embed/Rashardkellyshandpoisoned" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+<iframe src="https://archive.org/embed/136339277" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen=""></iframe>
+
+[https://worldview.earthdata.nasa.gov/?v=-91.79757830532274,31.178810718603835,-78.51720074653376,38.64902309542264&l=Reference_Labels_15m(hidden),Coastlines_15m(hidden,opacity=0.59),VIIRS_SNPP_DayNightBand_At_Sensor_Radiance,VIIRS_SNPP_DayNightBand_AtSensor_M15(hidden),VIIRS_SNPP_CorrectedReflectance_TrueColor(hidden)&lg=true&s=-87.6324,41.8832&t=2022-02-06-T00%3A00%3A00Z](https://worldview.earthdata.nasa.gov/?v=-91.79757830532274,31.178810718603835,-78.51720074653376,38.64902309542264&l=Reference_Labels_15m(hidden),Coastlines_15m(hidden,opacity=0.59),VIIRS_SNPP_DayNightBand_At_Sensor_Radiance,VIIRS_SNPP_DayNightBand_AtSensor_M15(hidden),VIIRS_SNPP_CorrectedReflectance_TrueColor(hidden)&lg=true&s=-87.6324,41.8832&t=2022-02-06-T00%3A00%3A00Z) @newshour @blackgirlscode
 ![https://ia903206.us.archive.org/8/items/Feb29dump/atlanta_Virtiserv_Keisha_Bottoms_LATRiCE_MONiQUE_FiTZ_PATRiCK_DELiVERY_NASA_JPLRASHARD.PNG](https://ia903206.us.archive.org/8/items/Feb29dump/atlanta_Virtiserv_Keisha_Bottoms_LATRiCE_MONiQUE_FiTZ_PATRiCK_DELiVERY_NASA_JPLRASHARD.PNG)
 
 
