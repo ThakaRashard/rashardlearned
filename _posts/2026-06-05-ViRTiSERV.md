@@ -29,6 +29,13 @@ MRO JUNO iSS [_ECOSTRESS_](https://ecostress.jpl.nasa.gov/gallerylist) [ALt - gi
 
 ![mc](https://web.archive.org/web/20060622000110im_/http://mpfwww.jpl.nasa.gov/martianchronicle/martianchron5/masthead5.gif)
 
+# Monday Hackday at ESIP Summer Meeting.
+## Theme: ‘Making Things Easier for Scientists’
+@nasa-jp [@la-county-isd](https://ballotpedia.org/Holly_Mitchell) [HollyJMitchell @LACMTA](https://boardagendas.metro.net/person/holly-j-mitchell-39c7ff59ec43/) 
+@blackgirlscode [@ nasa-openscapes openscapes.org/events/2026-07-27-esip-hackday/](https://openscapes.org/events/2026-07-27-esip-hackday/)
+Monday, July 27th, the day before the ESIP meeting starts, we’ll host a hackday. Plan to arrive in Austin to join us Monday afternoon. “Hackday” to our NASA Openscapes and earthaccess communities means we will be collaboratively problem-solving and strategizing, and translating ideas into action. This includes decisions, code, and documentation.
+<img  alt="image" src="https://github.com/user-attachments/assets/b1c6acfd-23e7-48c0-94be-f35cd65436a2" />
+
 
 <img width="250" alt="image-2 @la-county-isd @nasa-jpl " src="https://github.com/user-attachments/assets/9803b209-8a03-4c66-9f5d-69d8fd357a1b" style="float:right" 
  /> _The Living Bible_
