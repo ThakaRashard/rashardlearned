@@ -29,6 +29,16 @@ MRO JUNO iSS [_ECOSTRESS_](https://ecostress.jpl.nasa.gov/gallerylist) [ALt - gi
 
 ![mc](https://web.archive.org/web/20060622000110im_/http://mpfwww.jpl.nasa.gov/martianchronicle/martianchron5/masthead5.gif)
 
+## Mars Perseverance Sol 1890: Left Navigation Camera (Navcam)
+![mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01890/ids/edr/browse/ncam/NLF_1890_0834735433_895ECM_N0883136NCAM00501_01_295J01_1200.jpg](https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01890/ids/edr/browse/ncam/NLF_1890_0834735433_895ECM_N0883136NCAM00501_01_295J01_1200.jpg) 
+
+# Curiosity 
+@whitehouse 
+@fbicyber 
+
+![@nasa-jpl @nasa-pds mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/04925/opgs/edr/ncam/NLB_834701224EDR_F1221974CCAM04924M_.JPG](https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/04925/opgs/edr/ncam/NLB_834701224EDR_F1221974CCAM04924M_.JPG)
+
+
 # [SpaceX](https://www.spacex.com/launches/crs34) Undocks [CRS-34 Dragon](https://www.space.com/space-exploration/international-space-station/spacex-dragon-cargo-capsule-crs-34-return-to-earth) from the [International Space Station](https://www.flickr.com/photos/nasa2explore/albums/72177720327960048/) 
 
 @TheSpaceDevs @BlueOrigin undocking complete, no determijned landing spot  @NASA-JPL im looking for the west coast office @USSF-ORBiT @USNAVY @Blackgirlscode @cityoflosangeles @la-county-isd @lacountyDPH [45th Weather Squadron](https://45thweathersquadron.nebula.spaceforce.mil/)
