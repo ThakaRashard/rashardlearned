@@ -31,7 +31,7 @@ MRO JUNO iSS [_ECOSTRESS_](https://ecostress.jpl.nasa.gov/gallerylist) [ALt - gi
 
 # [SpaceX](https://www.spacex.com/launches/crs34) Undocks [CRS-34 Dragon](https://www.space.com/space-exploration/international-space-station/spacex-dragon-cargo-capsule-crs-34-return-to-earth) from the [International Space Station](https://www.flickr.com/photos/nasa2explore/albums/72177720327960048/) 
 
-@TheSpaceDevs @BlueOrigin undocking complete, no determijned landing spot  @NASA-JPL im looking for the west coast offick [45th Weather Squadron](https://45thweathersquadron.nebula.spaceforce.mil/)
+@TheSpaceDevs @BlueOrigin undocking complete, no determijned landing spot  @NASA-JPL im looking for the west coast office @USSF-ORBiT @USNAVY @Blackgirlscode @cityoflosangeles @la-county-isd @lacountyDPH [45th Weather Squadron](https://45thweathersquadron.nebula.spaceforce.mil/)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/m1BjJ2PKlCk?si=ujatOpN5wHxX4oOS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
