@@ -31,6 +31,11 @@ MRO JUNO iSS [_ECOSTRESS_](https://ecostress.jpl.nasa.gov/gallerylist) [ALt - gi
 
 
 @asfadmin [https://nasaevents.webex.com/webappng/sites/nasaevents/webinar/webinarSeries/register/2e2228eec8fa4fd29e10463c51be5c10](https://nasaevents.webex.com/webappng/sites/nasaevents/webinar/webinarSeries/register/2e2228eec8fa4fd29e10463c51be5c10)
+
+# LATRice r u lana on the radio @ForAtlanta
+<img   alt="image" src="https://github.com/user-attachments/assets/fd26cec0-5b40-4b15-8e94-32b23d24c76d" />
+
+@hollyjmitchell@bos.lacounty.gov I dont know what paternity or whatever is coming up with child support if thats real in this state but @letschat@virtiserv.com I am sticking to the script im terrified that yu are lana on hot97 or glorilla and imma bout to get my heart shattered... I will not stop working if you chose another man ok and @Small Business Programs Office can get you nondisruptive resources I knew I would lose something going out wiht @normani@fifthharmonyofficial.com and it was humanity... @info@hot97.com @press@hot97.com  https://[github.com/ThakaRashard/rashardmro/commit/14ca8811f4568975600c16a695fa2244d1e4511f @blackgirlscode](github.com/ThakaRashard/rashardmro/commit/14ca8811f4568975600c16a695fa2244d1e4511f) @douglas.j.newman@nasa.gov those are the training materials from todays webinar, I had technical issues accessing the class but theres 2 more parts and I have been working with that dataset a long time anyway
 @nasa-jpl @lacountyDPH @la-county-isd @whitehouse @deptofwar @boeing @blackgirlscode @cityoflosangeles [ doxing ? @nasa-openscapes @doug-newman-nasa_ARSET-Floods2026FLOODDATAPRODUCT_ARSET_CLASS_WEBiNAR_NOT_ATTENDED_HOLLYJMiTCHELL_KARENBASS_ViRTiSERvLATRiCE_Recording2026-06-18%20111458%20-%20Copy.mp4](https://ia601704.us.archive.org/31/items/2025-12-20-00-00-2025-12-20-23-59-sentinel-2-l-2-a-true-color/00_iii_ARSET-Floods2026FLOODDATAPRODUCT_ARSET_CLASS_WEBiNAR_NOT_ATTENDED_HOLLYJMiTCHELL_KARENBASS_ViRTiSERvLATRiCE_Recording2026-06-18%20111458%20-%20Copy.mp4)
 
 <img alt="image" src="https://github.com/user-attachments/assets/8f1618f1-21ca-4958-b00a-2f516b735a40" />
