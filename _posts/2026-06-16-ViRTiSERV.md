@@ -30,10 +30,14 @@ MRO JUNO iSS [_ECOSTRESS_](https://ecostress.jpl.nasa.gov/gallerylist) [ALt - gi
 ![mc](https://web.archive.org/web/20060622000110im_/http://mpfwww.jpl.nasa.gov/martianchronicle/martianchron5/masthead5.gif)
 
 
-
+@asfadmin [https://nasaevents.webex.com/webappng/sites/nasaevents/webinar/webinarSeries/register/2e2228eec8fa4fd29e10463c51be5c10](https://nasaevents.webex.com/webappng/sites/nasaevents/webinar/webinarSeries/register/2e2228eec8fa4fd29e10463c51be5c10)
 @nasa-jpl @lacountyDPH @la-county-isd @whitehouse @deptofwar @boeing @blackgirlscode @cityoflosangeles [ doxing ? @nasa-openscapes @doug-newman-nasa_ARSET-Floods2026FLOODDATAPRODUCT_ARSET_CLASS_WEBiNAR_NOT_ATTENDED_HOLLYJMiTCHELL_KARENBASS_ViRTiSERvLATRiCE_Recording2026-06-18%20111458%20-%20Copy.mp4](https://ia601704.us.archive.org/31/items/2025-12-20-00-00-2025-12-20-23-59-sentinel-2-l-2-a-true-color/00_iii_ARSET-Floods2026FLOODDATAPRODUCT_ARSET_CLASS_WEBiNAR_NOT_ATTENDED_HOLLYJMiTCHELL_KARENBASS_ViRTiSERvLATRiCE_Recording2026-06-18%20111458%20-%20Copy.mp4)
 
 <img alt="image" src="https://github.com/user-attachments/assets/8f1618f1-21ca-4958-b00a-2f516b735a40" />
+
+
+[<video controls  src="https://ia903200.us.archive.org/10/items/Rashardkellyshandpoisoned/0_teslacoilsnormaniismissing.mp4" />](https://ia903200.us.archive.org/10/items/Rashardkellyshandpoisoned/0_teslacoilsnormaniismissing.mp4)
+
 
 
 [<video controls  src="https://ia903200.us.archive.org/10/items/Rashardkellyshandpoisoned/0_teslacoilsnormaniismissing.mp4" />](https://ia903200.us.archive.org/10/items/Rashardkellyshandpoisoned/0_teslacoilsnormaniismissing.mp4)
@@ -58,6 +62,7 @@ MRO JUNO iSS [_ECOSTRESS_](https://ecostress.jpl.nasa.gov/gallerylist) [ALt - gi
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/m1BjJ2PKlCk?si=ujatOpN5wHxX4oOS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+<img alt="image" src="https://github.com/user-attachments/assets/8f1618f1-21ca-4958-b00a-2f516b735a40" />
 
 # Monday Hackday at ESIP Summer Meeting.
 ## Theme: ‘Making Things Easier for Scientists’
