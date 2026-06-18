@@ -29,6 +29,19 @@ MRO JUNO iSS [_ECOSTRESS_](https://ecostress.jpl.nasa.gov/gallerylist) [ALt - gi
 
 ![mc](https://web.archive.org/web/20060622000110im_/http://mpfwww.jpl.nasa.gov/martianchronicle/martianchron5/masthead5.gif)
 
+
+
+@nasa-jpl @lacountyDPH @la-county-isd @whitehouse @deptofwar @boeing @blackgirlscode @cityoflosangeles [ doxing ? @nasa-openscapes @doug-newman-nasa_ARSET-Floods2026FLOODDATAPRODUCT_ARSET_CLASS_WEBiNAR_NOT_ATTENDED_HOLLYJMiTCHELL_KARENBASS_ViRTiSERvLATRiCE_Recording2026-06-18%20111458%20-%20Copy.mp4](https://ia601704.us.archive.org/31/items/2025-12-20-00-00-2025-12-20-23-59-sentinel-2-l-2-a-true-color/00_iii_ARSET-Floods2026FLOODDATAPRODUCT_ARSET_CLASS_WEBiNAR_NOT_ATTENDED_HOLLYJMiTCHELL_KARENBASS_ViRTiSERvLATRiCE_Recording2026-06-18%20111458%20-%20Copy.mp4)
+
+<img alt="image" src="https://github.com/user-attachments/assets/8f1618f1-21ca-4958-b00a-2f516b735a40" />
+
+
+[<video controls  src="https://ia903200.us.archive.org/10/items/Rashardkellyshandpoisoned/0_teslacoilsnormaniismissing.mp4" />](https://ia903200.us.archive.org/10/items/Rashardkellyshandpoisoned/0_teslacoilsnormaniismissing.mp4)
+
+<img   alt="image" src="https://github.com/user-attachments/assets/aa90e98a-bc8f-4b8e-9b03-fb8deafe3b8e" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/ef16ab7b-5e8c-47cc-92a8-dd63138cc9e6" />
+
 ## Mars Perseverance Sol 1890: Left Navigation Camera (Navcam)
 ![mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01890/ids/edr/browse/ncam/NLF_1890_0834735433_895ECM_N0883136NCAM00501_01_295J01_1200.jpg](https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01890/ids/edr/browse/ncam/NLF_1890_0834735433_895ECM_N0883136NCAM00501_01_295J01_1200.jpg) 
 
