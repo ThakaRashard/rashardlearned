@@ -8,6 +8,68 @@ author: "RashardKelly @nasa-jpl"
 permalink: /virtiserv
 ---
 
+
+<img  alt="image" src="https://github.com/user-attachments/assets/a0b28c19-daad-4424-9bed-bc48be7a9d1a" />
+
+[jobs.lamayor.org/apply/mayor](https://jobs.lamayor.org/apply/mayor) @la-county-isd @cityoflosangeles @libraryofcongress
+
+```shell
+https://jobs.lamayor.org/apply/mayor <~ @mayor.helpdesk@lacity.org that link is really corrupt its freezing my screen and everything!!!C:\Users\PAC>nslookup jobs.lamayor.org
+Server:  LBPADC2.lbpa.local
+Address:  192.168.129.12
+
+Non-authoritative answer:
+Name:    e25126.dscb.akamaiedge.net
+Addresses:  2600:1406:bc00:6b::1734:e4
+          2600:1406:bc00:6b::1734:ed
+          173.223.234.140
+          173.223.234.138
+Aliases:  jobs.lamayor.org
+
+
+C:\Users\PAC>nslookup -type=nsjobs.lamayor.org
+unknown query type: nsjobs.lamayor.org
+Default Server:  LBPADC2.lbpa.local
+Address:  192.168.129.12
+
+>
+C:\Users\PAC>nslookup -type=ns jobs.lamayor.org
+Server:  LBPADC2.lbpa.local
+Address:  192.168.129.12
+
+Non-authoritative answer:
+jobs.lamayor.org        canonical name = e25126.dscb.akamaiedge.net
+
+C:\Users\PAC>nslookup -type=ns lamayor.org
+Server:  LBPADC2.lbpa.local
+Address:  192.168.129.12
+
+Non-authoritative answer:
+lamayor.org     nameserver = ns0.dnsmadeeasy.com
+lamayor.org     nameserver = ns3.dnsmadeeasy.com
+lamayor.org     nameserver = ns1.dnsmadeeasy.com
+lamayor.org     nameserver = ns2.dnsmadeeasy.com
+lamayor.org     nameserver = ns4.dnsmadeeasy.com
+
+ns0.dnsmadeeasy.com     internet address = 208.94.148.2
+ns0.dnsmadeeasy.com     AAAA IPv6 address = 2600:1800::1
+ns3.dnsmadeeasy.com     internet address = 208.80.125.2
+ns3.dnsmadeeasy.com     AAAA IPv6 address = 2600:1801:3::1
+ns1.dnsmadeeasy.com     internet address = 208.80.124.2
+ns1.dnsmadeeasy.com     AAAA IPv6 address = 2600:1801:1::1
+ns2.dnsmadeeasy.com     internet address = 208.80.126.2
+ns2.dnsmadeeasy.com     AAAA IPv6 address = 2600:1802:2::1
+ns4.dnsmadeeasy.com     internet address = 208.80.127.2
+ns4.dnsmadeeasy.com     AAAA IPv6 address = 2600:1802:4::1
+
+C:\Users\PAC>
+
+```
+
+<img  alt="image" src="https://github.com/user-attachments/assets/a55b3e13-fc16-4c6e-ae4d-09170400c732" />
+
+[https://video-lax3-2.xx.fbcdn.net/o1/v/t2/f2/m412/AQN8qQ6W2byh06Ot7h-2IzE_mOP7ouq412ZR-BTW2drVvA9ZKBoDiLHy9lv-CWp6rERRIuwtNV6nwp84CoOPvfM.mp4?_nc_cat=100&_nc_sid=8bf8fe&_nc_ht=video-lax3-2.xx.fbcdn.net&_nc_ohc=OtraGi-dEgcQ7kNvwGH-XR0&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5GQUNFQk9PSy4uQzMuNjQwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MzUxODE3NDI0MzQ1NjQ2LCJhc3NldF9hZ2VfZGF5cyI6MjA2MCwidmlfdXNlY2FzZV9pZCI6MTAxMjMsImR1cmF0aW9uX3MiOjU2NzksInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=KzqGjSZhu6AWJ3CkzoCJ1Q&edm=AGo2L-IEAAAA&_nc_zt=28&oh=00_Af_EK64Z9ea4VJsRwdB2jY6jV0ve9lyvtc7ZvaEaDaPBLQ&oe=6A44AB66&bitrate=250063&tag=sve_sd](https://video-lax3-2.xx.fbcdn.net/o1/v/t2/f2/m412/AQN8qQ6W2byh06Ot7h-2IzE_mOP7ouq412ZR-BTW2drVvA9ZKBoDiLHy9lv-CWp6rERRIuwtNV6nwp84CoOPvfM.mp4?_nc_cat=100&_nc_sid=8bf8fe&_nc_ht=video-lax3-2.xx.fbcdn.net&_nc_ohc=OtraGi-dEgcQ7kNvwGH-XR0&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5GQUNFQk9PSy4uQzMuNjQwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MzUxODE3NDI0MzQ1NjQ2LCJhc3NldF9hZ2VfZGF5cyI6MjA2MCwidmlfdXNlY2FzZV9pZCI6MTAxMjMsImR1cmF0aW9uX3MiOjU2NzksInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=KzqGjSZhu6AWJ3CkzoCJ1Q&edm=AGo2L-IEAAAA&_nc_zt=28&oh=00_Af_EK64Z9ea4VJsRwdB2jY6jV0ve9lyvtc7ZvaEaDaPBLQ&oe=6A44AB66&bitrate=250063&tag=sve_sd)
+
 ## Rashard Kelly ...
 MRO JUNO iSS [_ECOSTRESS_](https://ecostress.jpl.nasa.gov/gallerylist) [ALt - github.com/kellyrashardiman/kellyrashardiman.github.io](https://github.com/kellyrashardiman/kellyrashardiman.github.io/tree/master) + [homepage alt - kellyrashardiman.github.io](https://kellyrashardiman.github.io/) . . . @ucla hi from [Remote @Nasa-JPL](https://holetoanotheruniverse40.github.io/compiling/) // [virtiserv](https://www.facebook.com/thevirtiservway/)  // @esa @usgs @alphagov ~ @whitehouse @la-county-isd @UKSpaceAgency hi @eSA @blackgirlscode @eu-cdse
 
